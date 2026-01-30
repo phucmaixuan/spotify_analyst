@@ -1,0 +1,1036 @@
+track_name,artists,Rank,Year,track_id,album_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+'til you can't,cody johnson,22,2024,02HqnDssYA62iGapkpJIkJ,Country Car Hits,1,224213,False,0.501,0.815,1,-4.865,1,0.0436,0.0513,0.0,0.106,0.46,160.087,4,country
+(everything i do) i do it for you,bryan adams,36,2022,077QV0UtmRfVEw6kFvminm,90's Music Grandi Successi,2,394133,False,0.526,0.365,1,-12.605,1,0.028,0.0775,1.37e-05,0.0618,0.254,131.251,4,rock
+(i've had) the time of my life,glee cast,19,2010,1wYDz3NuqlGxPnQDX8OuV6,"Glee: The Music, Volume 4",43,277560,False,0.459,0.77,9,-5.993,1,0.0472,0.0765,0.0,0.0879,0.168,110.706,4,club
+(sittin' on) the dock of the bay,otis redding,12,2021,3zBhihYUHBmGd2bcQIobrF,The Dock of the Bay (Mono),76,163755,False,0.769,0.367,2,-11.226,1,0.0312,0.684,1.62e-05,0.081,0.535,103.621,4,blues
+(you make me feel like) a natural woman,aretha franklin,10,2018,5K09WxKdlkroDyEVyOSySy,Lady Soul (With Bonus Selections),68,165333,False,0.603,0.271,5,-10.083,1,0.0284,0.679,0.0,0.141,0.405,110.89,3,blues
+100 years,five for fighting,45,2006,2lFlveK1y13WWp3vnQtrr3,The Battle for Everything,66,244600,False,0.643,0.569,7,-7.459,1,0.0276,0.544,2.17e-05,0.178,0.275,120.507,4,acoustic
+1985,bowling for soup,50,2005,5oQcOu1omDykbIPSdSQQNJ,A Hangover You Don't Deserve,71,193000,False,0.606,0.887,4,-4.404,1,0.0598,0.000242,0.0,0.337,0.903,119.974,4,punk-rock
+2 be loved (am i ready),lizzo,47,2022,3yBOgD5rhyyQcnjhsk7qme,New Arrivals,3,187107,False,0.721,0.769,7,-4.111,1,0.105,0.0922,0.0,0.0817,0.915,155.932,4,hip-hop
+2! 3!,bts,42,2021,3KVOfGrYVjoP1w8T2HVltm,Wings,64,272537,False,0.442,0.928,7,-4.096,1,0.207,0.0257,0.0,0.1,0.601,169.847,4,k-pop
+21 guns,green day,28,2010,3IHHqmfKJHyI0obINUdg1W,21st Century Breakdown,51,322040,False,0.26,0.719,5,-4.765,1,0.0364,0.048,0.0,0.454,0.419,159.072,4,punk
+5 foot 9,tyler hubbard,49,2022,4rMLQycynM5w0fmZregNe7,Artsy & Colourful,1,189780,False,0.602,0.796,5,-5.609,1,0.0465,0.146,0.0,0.125,0.53,106.005,4,country
+7 rings,ariana grande,47,2019,6ocbgoVGwYJhOv1GgI9NsF,"thank u, next",84,178626,True,0.778,0.317,1,-10.732,0,0.334,0.592,0.0,0.0881,0.327,140.048,4,dance
+= (equal sign),j-hope,40,2023,70XnKsO3UnIT4FnEwChQXx,Jack In The Box,73,114477,False,0.673,0.75,9,-5.831,1,0.0655,0.0155,5.44e-06,0.348,0.708,105.848,4,k-pop
+a little bit off,five finger death punch,43,2020,6GqqGv8frU7kqzXkm2rewI,F8,72,190718,True,0.664,0.828,0,-6.053,1,0.0404,0.00839,0.0,0.294,0.82,103.985,4,groove
+a song for mama,boyz ii men,49,2021,3jVoxrwRPJihoYZVhSS5Ta,Un tecito y a mimir,1,301906,False,0.569,0.443,7,-8.402,1,0.0327,0.461,0.0,0.133,0.15,75.038,4,r-n-b
+a thousand years,christina perri,31,2023,6lanRgr6wXibZr8KgzXxBl,A Thousand Years,81,285120,False,0.421,0.407,10,-7.445,1,0.0267,0.309,0.000961,0.11,0.161,139.028,3,dance
+a-o-k,tai verdes,47,2021,1sx0XsWUusUoPstbvokZjP,TV,77,173640,True,0.731,0.626,11,-6.919,1,0.0805,0.125,0.0,0.183,0.862,82.488,4,indie-pop
+about damn time,lizzo,50,2023,1PckUlxKqWQs3RlWXVBLw3,About Damn Time,89,191822,True,0.836,0.743,10,-6.305,0,0.0656,0.0995,0.0,0.335,0.722,108.966,4,hip-hop
+addicted,saving abel,42,2009,3pxCXv0NACYfYnLjFcQW5D,Saving Abel,70,222826,True,0.512,0.864,7,-4.146,1,0.0338,0.000821,0.0,0.0982,0.527,138.018,4,grunge
+africa,toto,34,2022,2374M0fQpWi3dLnB54qaLX,Toto IV,83,295893,False,0.671,0.373,9,-18.064,1,0.0323,0.257,8.01e-05,0.0481,0.732,92.718,4,rock
+africa,weezer,43,2018,3ZPKocroJIcnHGcnJVlLKD,Weezer (Teal Album),59,238626,False,0.534,0.784,8,-3.59,1,0.0339,0.205,0.00579,0.106,0.6,92.147,4,power-pop
+after hours,the weeknd,38,2020,0MnmtOOke4uQVBMAjIgwVZ,Halloween Party 2022,0,361946,False,0.651,0.567,5,-5.941,0,0.0317,0.0934,0.00991,0.124,0.138,108.953,4,pop
+afterlife,five finger death punch,43,2022,40gGeC397vLmz4eETZDSrG,AfterLife,65,243560,True,0.472,0.989,6,-4.214,0,0.0597,0.000655,4.87e-06,0.341,0.327,93.985,4,groove
+again,fetty wap,48,2016,3ESSGgWzRf1xvP7G5hHMhB,Fetty Wap (Deluxe),68,312240,True,0.748,0.733,11,-4.421,0,0.072,0.0062,0.0,0.329,0.291,93.019,4,j-dance
+ain't it fun,paramore,43,2014,6O5spqMgOR3Hk20NHCAPpC,Alternative Rock Mixtape,1,296520,False,0.606,0.893,9,-3.681,1,0.0987,0.154,4.18e-05,0.021,0.671,103.985,4,emo
+ain't my fault,zara larsson,47,2016,0ADG9OgdVTL7fgREP75BrZ,So Good,69,224030,False,0.576,0.782,6,-4.825,0,0.0296,0.00778,0.0,0.285,0.355,141.153,4,edm
+ain't no sunshine,bill withers,2,2020,1k1Bqnv2R0uJXQN4u6LKYt,Just As I Am,79,125093,False,0.527,0.415,4,-11.451,0,0.122,0.457,1.72e-05,0.117,0.515,78.169,4,funk
+ain't your mama,jennifer lopez,33,2016,2hgzdQdnfWwtdpZbhZlV72,Ain't Your Mama,71,218234,False,0.757,0.678,8,-5.529,0,0.233,0.0472,9.14e-06,0.0654,0.82,120.075,4,dance
+alive,krewella,49,2013,59mrqUmhpmcfUns8BKkV30,Get Wet,53,288880,False,0.671,0.828,9,-2.907,1,0.053,0.00304,0.00287,0.352,0.57,127.976,4,dub
+all i ask,adele,24,2016,6DEMMeWXfmFAXgDUMMzeg6,25,74,271800,False,0.591,0.28,4,-5.494,1,0.0283,0.889,0.0,0.124,0.348,141.916,4,british
+all in,lil baby,45,2020,038oBXqL9ttCHHZmNrYxQk,Bad Boy Club,0,156032,True,0.836,0.649,11,-6.442,1,0.332,0.0716,0.0,0.0943,0.294,95.084,4,hip-hop
+all my favorite songs,weezer,43,2021,6zVhXpiYbJhLJWmLGV9k1r,OK Human,52,202703,False,0.384,0.628,1,-8.018,0,0.031,0.126,9.93e-06,0.314,0.394,161.438,4,power-pop
+all of me,john legend,34,2015,3U4isOIWM3VvDubwSI3y7a,Love In The Future (Expanded Edition),85,269560,False,0.422,0.264,8,-7.064,1,0.0322,0.922,0.0,0.132,0.331,119.93,4,soul
+all star,smash mouth,20,2023,1Uu1dI6OcKWuMLLv8ki3lN,Workout Hits 2023,0,200373,False,0.731,0.867,11,-5.881,1,0.032,0.0394,0.0,0.0861,0.776,104.02,4,alt-rock
+all the right moves,onerepublic,42,2010,5XRHGXut00SrJUFmcn2lQF,Waking Up,67,238000,False,0.529,0.948,0,-3.527,1,0.0474,0.258,9.35e-06,0.283,0.65,146.024,4,piano
+all the small things,blink-182,34,2023,1jJ893m6WM9aztKtzYmNJY,OO's Music Grandi Successi,2,171066,False,0.442,0.9,0,-5.032,1,0.0529,0.0109,0.0,0.395,0.609,148.62,4,punk-rock
+almost (sweet music),hozier,45,2019,7uttm8Iurm5uK67Vr9G2Sp,"Wasteland, Baby!",63,217480,False,0.523,0.687,7,-5.601,1,0.105,0.0215,2.86e-06,0.203,0.711,90.036,4,singer-songwriter
+alone,heart,37,2021,54b8qPFqYqIndfdxiLApea,Bad Animals,75,218733,False,0.418,0.452,1,-13.099,1,0.0356,0.638,0.00026,0.0959,0.168,175.088,4,hard-rock
+alone,marshmello,26,2019,3MEYFivt6bilQ9q9mFWZ4g,Alone,73,273802,False,0.631,0.953,2,-3.739,1,0.0343,0.0241,0.0155,0.108,0.422,141.99,4,dance
+american girl,tom petty and the heartbreakers,39,2017,45u1g3oY1Tb0Ibmlwqo8f2,Timeless Rock Hits,0,214733,False,0.552,0.823,2,-5.988,1,0.0332,0.445,0.000129,0.366,0.775,114.514,4,folk
+american idiot,green day,47,2005,6nTiIhLmQ3FWhvrGafw2zj,American Idiot,79,176346,True,0.38,0.988,1,-2.042,1,0.0639,2.64e-05,7.86e-05,0.368,0.769,186.113,4,punk
+american pie,don mclean,11,2022,3ldrKmt2S7VBENF7g40ibi,Обратно в клас - rock,0,513000,False,0.461,0.563,4,-9.325,0,0.0605,0.358,0.0,0.302,0.477,138.571,4,folk
+animal,neon trees,50,2011,0l4DTppOxy7NUaEcwXuOb6,Habits (Spotify),66,212306,False,0.482,0.829,5,-5.576,1,0.0437,0.00034,0.0,0.378,0.739,147.99,4,alt-rock
+animal i have become,three days grace,50,2006,56sk7jBpZV0CD31G9hEU3b,One-X,74,231400,False,0.553,0.853,8,-3.668,1,0.0339,0.000684,0.0,0.126,0.506,122.023,4,alt-rock
+animals,maroon 5,44,2015,3h4T9Bg8OVSUYa6danHeH5,V (Asia Tour Edition),70,231013,False,0.279,0.742,4,-6.46,0,0.0898,0.000185,0.0,0.593,0.328,189.868,4,pop
+animals,martin garrix,46,2014,5q35GiekvBr6oAsCsW8YlR,Animals,56,303040,True,0.676,0.857,1,-6.7,1,0.0391,0.00149,0.674,0.307,0.0378,128.01,4,dance
+antidote,travis scott,42,2016,1wHZx0LgzFHyeIZkUydNXq,Rodeo (Expanded Edition),74,262693,True,0.713,0.526,1,-5.046,1,0.032,0.00767,0.000148,0.124,0.131,131.05,4,house
+as it was,harry styles,47,2023,4LRPiXqCikLlN15c3yImP7,As It Was,95,167303,False,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,4,pop
+astronaut in the ocean,masked wolf,32,2022,3Ofmpyhv5UAQ70mENzB277,Astronaut In The Ocean,79,132780,True,0.778,0.695,4,-6.865,0,0.0913,0.175,0.0,0.15,0.472,149.996,4,hip-hop
+at last,etta james,29,2012,4HURIP867U6Bllu0fa4ypq,Desayuno en calma,0,182533,False,0.169,0.347,10,-8.785,1,0.0309,0.692,0.000432,0.337,0.256,176.118,3,blues
+attention,charlie puth,41,2017,5cF0dROlMOK5uNZtivgu50,Voicenotes,83,208786,False,0.775,0.613,3,-4.586,0,0.0542,0.109,2.33e-05,0.134,0.797,100.066,4,dance
+august,taylor swift,48,2023,3hUxzQpSfdDqwM3ZTFQY0K,folklore,86,261922,False,0.532,0.623,5,-9.208,1,0.0331,0.538,7.28e-05,0.0925,0.403,89.937,4,pop
+b.y.o.b.,system of a down,48,2005,0EYOdF5FCkgOJJla8DI2Md,Mezmerize,77,255466,True,0.538,0.981,1,-2.688,0,0.14,0.00662,0.0,0.219,0.711,101.414,4,alternative
+bad!,xxxtentacion,41,2019,22An65gG31JLf9n18qjdhZ,SKINS,72,94245,False,0.78,0.492,5,-3.4,0,0.0671,0.0643,0.0313,0.174,0.374,143.983,4,emo
+bop,dababy,41,2020,4xgXA4ipRmQqrrvT6ZBSRX,pov: it's 2019,0,159714,True,0.77,0.786,11,-3.909,1,0.368,0.189,0.0,0.129,0.837,126.764,4,hip-hop
+baby,glee cast,26,2011,61frbeZKl33hLAeyWGc5Wn,"Glee: The Music, Volume 5",34,215026,False,0.741,0.817,10,-5.556,1,0.09,0.133,0.0,0.0965,0.564,129.972,4,club
+back in black,ac/dc,20,2012,08mG3Y1vljYA6bvDt4Wqkj,Back In Black,85,255493,False,0.31,0.7,9,-5.678,1,0.047,0.011,0.00965,0.0828,0.763,188.386,4,hard-rock
+back to you,selena gomez,50,2018,514rhnksEwHUh6LxXsQ4Y9,13 Reasons Why (Season 2),72,210240,False,0.6,0.683,6,-6.271,1,0.0493,0.0984,1.26e-06,0.11,0.494,102.036,4,dance
+bad at love,halsey,43,2018,7y9iMe8SOB6z3NoHE2OfXl,hopeless fountain kingdom (Deluxe),74,181279,False,0.675,0.751,0,-3.539,1,0.0296,0.0604,0.0,0.0893,0.612,118.384,4,electro
+bad guy,billie eilish,38,2020,2Fxmhks0bxGSBdJ92vM42m,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",84,194087,False,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,electro
+bad habits,ed sheeran,41,2022,3rmo8F54jFF8OgYsqTxm5d,=,88,230746,False,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,4,pop
+bad liar,imagine dragons,48,2019,2RSHsoi04658QL5xgQVov3,Origins (Deluxe),81,260773,False,0.383,0.637,3,-6.993,1,0.0703,0.0722,0.0,0.368,0.0827,177.913,4,rock
+bad liar,selena gomez,41,2017,1WrMD6on4zuCXVrYp5o8io,Queda poco para la PAES,0,214647,False,0.965,0.414,1,-6.408,1,0.0712,0.189,0.0,0.0767,0.729,121.032,4,dance
+bad moon rising,creedence clearwater revival,32,2023,1Ygg8lP3sRwkN9aEyBQgC6,Fishing Music,1,141600,False,0.508,0.769,2,-5.973,1,0.0326,0.0577,6.1e-06,0.063,0.939,178.95,4,country
+bad romance,lady gaga,45,2022,7oBxxv6C5ttINeFHzOVwS4,Halloween 2022,0,294573,True,0.695,0.921,0,-3.752,1,0.0363,0.00314,5.26e-05,0.0842,0.714,119.007,4,dance
+bark at the moon,ozzy osbourne,20,2025,2E7W1X4maFFcjHrVrFA7Vs,Bark At The Moon (Expanded Edition),67,257120,False,0.303,0.961,9,-5.333,0,0.243,0.00253,6.2e-05,0.132,0.305,146.591,4,hard-rock
+be careful,cardi b,50,2018,3VTQZWhvI8cwzjoSAJzcED,On Chill - Rap & RnB,0,210787,False,0.835,0.561,6,-8.248,0,0.4,0.0264,0.0,0.095,0.499,152.152,4,dance
+be yourself,audioslave,47,2005,3zwmW1gM4E8FlHXV5nE16u,Out of Exile,72,278973,False,0.423,0.845,11,-3.509,0,0.0559,0.143,5.07e-06,0.213,0.317,116.602,4,alt-rock
+beach house,the chainsmokers,38,2018,2bQhVQbV7VBzSOPo8mbkUR,Sick Boy,56,206120,False,0.4,0.838,0,-4.491,1,0.0526,0.174,0.0,0.341,0.533,179.945,4,edm
+beautiful crazy,luke combs,32,2019,2rxQMGVafnNaRaXlRMWPde,This One's for You Too (Deluxe Edition),80,193200,False,0.551,0.402,11,-7.431,1,0.0262,0.676,0.0,0.0928,0.382,103.313,4,country
+beautiful monster,ne-yo,43,2010,1fS2x4kXEsfLMPN6p5Was4,Halloween Hits,2,251133,False,0.722,0.826,5,-5.464,0,0.108,0.227,4.06e-06,0.222,0.494,127.929,4,dance
+before he cheats,carrie underwood,39,2007,0ZUo4YjG4saFnEJhdWp9Bt,Some Hearts,78,199946,False,0.519,0.749,6,-3.318,0,0.0405,0.271,0.0,0.119,0.29,147.905,4,country
+begin,bts,23,2021,0bGJHUPR6ems9tzIljlPFR,Wings,66,229740,False,0.566,0.842,9,-5.222,0,0.0442,0.00357,0.000253,0.141,0.308,131.05,4,k-pop
+believe,josh groban,41,2022,4Y5lTN1zjBQCRBHmJkqxt6,The Polar Express (Original Motion Picture Soundtrack),23,258399,False,0.301,0.422,4,-7.561,1,0.029,0.62,0.0,0.0666,0.208,78.411,4,opera
+believer,imagine dragons,14,2022,0pqnGHJpmpxLKifKRmU6WP,Evolve,88,204346,False,0.776,0.78,10,-4.374,0,0.128,0.0622,0.0,0.081,0.666,124.949,4,rock
+best day of my life,american authors,50,2014,5Hroj5K7vLpIG4FNCRIjbP,"Oh, What A Life",79,194240,False,0.673,0.902,2,-2.392,1,0.0346,0.0591,0.000262,0.0558,0.538,100.012,4,indie-pop
+best of you,foo fighters,47,2005,5FZxsHWIvUsmSK1IAvm2pp,In Your Honor,76,255626,False,0.366,0.94,1,-5.119,0,0.0696,0.000769,9.42e-05,0.188,0.369,130.198,4,alt-rock
+better days,onerepublic,11,2020,2K0r5GD5zYlEMx2M7ZMcqG,Better Days,64,144530,False,0.626,0.726,5,-5.015,1,0.0376,0.235,0.0,0.304,0.257,89.132,4,piano
+better in time,leona lewis,48,2008,2iXBZ32Fz5VDCLeE0JIdX5,Spirit,67,234173,False,0.584,0.7,6,-4.251,1,0.0506,0.512,2.43e-05,0.13,0.549,163.953,4,british
+better than me,hinder,50,2007,10fddGyyeUquZZ2uPTjD7P,Extreme Behavior,63,223533,False,0.449,0.682,2,-5.295,0,0.029,0.205,0.0,0.175,0.254,139.924,4,grunge
+betty (get money),yung gravy,50,2022,4cacyP5c3PMlfnyjpg13xW,Betty (Get Money),87,146470,False,0.723,0.772,1,-6.784,1,0.0792,0.00524,1.15e-05,0.367,0.58,102.004,4,hip-hop
+beverly hills,weezer,49,2006,1yKu2MhpwzDXXH2tzG6xoa,Make Believe,71,196093,False,0.693,0.823,5,-3.761,1,0.0726,0.0932,0.0,0.328,0.741,87.904,4,power-pop
+big poppa,the notorious b.i.g.,43,2023,4sGylyGhQaOzhi77fLrMmP,Slow Flow: Hip Hop & R&B,49,249866,True,0.765,0.671,9,-5.249,0,0.278,0.344,0.0,0.0506,0.798,84.5,4,hardcore
+billionaire,glee cast,13,2010,6d5CfH0P84foEd1fkmp7po,"Glee: The Music, Volume 4",47,211440,False,0.791,0.721,6,-5.588,0,0.094,0.259,0.0,0.104,0.66,87.032,4,club
+bitter sweet symphony,the verve,35,2022,57iDDD9N9tTWe75x6qhStw,Urban Hymns (Remastered 2016),80,357266,False,0.356,0.917,9,-6.006,1,0.0479,0.0335,0.0,0.406,0.518,171.176,4,alt-rock
+black hole sun,soundgarden,41,2017,2vGDTOtslhkco6LVFfdEI2,Rock & Halloween,0,318586,False,0.351,0.827,6,-5.351,1,0.0412,0.000222,0.000118,0.0755,0.145,105.463,4,alt-rock
+black or white,michael jackson,50,2009,7EsjkelQuoUlJXEw7SeVV4,Dangerous,69,254933,False,0.518,0.901,9,-3.749,1,0.093,0.174,0.0314,0.0712,0.873,115.026,4,soul
+black summer,red hot chili peppers,16,2022,5xUhs6dlfkcxZM8zq7riYF,Tek It - New Noise,1,232412,False,0.417,0.682,1,-5.071,1,0.0295,0.0267,0.000669,0.109,0.351,105.542,4,alt-rock
+black swan,bts,44,2020,2EmcTFQ1rM11wp2ztsXTHa,MAP OF THE SOUL : 7,74,198260,False,0.719,0.757,2,-5.167,0,0.0849,0.137,0.0,0.129,0.489,147.024,4,k-pop
+blank space,i prevail,42,2015,2ZiJidFdQ30nVJEP4u44l3,Heart Vs. Mind,63,240927,False,0.437,0.863,11,-5.28,0,0.0941,0.00302,0.0,0.144,0.233,194.073,4,metalcore
+blank space,taylor swift,41,2015,1u8c2t2Cy7UBoG4ArRcF5g,1989 (Deluxe),85,231826,False,0.76,0.703,5,-5.412,1,0.054,0.103,0.0,0.0913,0.57,95.997,4,pop
+blaze of glory,jon bon jovi,45,2007,0XwjdpwvEwukcg3XU4Ibzt,Cross Road,56,340000,False,0.541,0.704,7,-6.167,1,0.0324,0.0211,4.18e-05,0.143,0.416,78.797,4,hard-rock
+bleed it out,linkin park,50,2007,78gsvivelCP8Kh0tSRTy8D,Minutes to Midnight,58,164760,True,0.542,0.932,4,-4.896,1,0.05,0.0747,0.0,0.613,0.698,140.135,4,alternative
+bleeding love,leona lewis,50,2008,7wZUrN8oemZfsEd1CGkbXE,Spirit,75,262466,False,0.638,0.656,5,-5.886,1,0.0357,0.188,0.0,0.146,0.225,104.036,4,british
+bless the broken road,rascal flatts,40,2022,18q0I5Mz5TbxMf4cWSKql9,Twenty Years Of Rascal Flatts - The Greatest Hits,36,226693,False,0.588,0.448,0,-6.37,1,0.0265,0.668,1.37e-05,0.156,0.362,135.962,4,country
+blinding lights,the weeknd,48,2022,0VjIjW4GlUZAMYd2vXMi3b,After Hours,91,200040,False,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,4,pop
+bloody mary,lady gaga,29,2023,2HJvS1fhaJbPxI9gT0mPjb,Pop & Halloween,11,244760,False,0.584,0.638,9,-6.437,0,0.0302,0.0134,3.06e-06,0.101,0.456,99.97,4,dance
+bloody valentine,machine gun kelly,44,2020,5cc6bqV4lFNB8etIbI7SNz,Halloween Party 2022,0,205015,True,0.52,0.856,2,-4.228,1,0.0806,0.000193,0.0,0.157,0.47,160.083,4,hip-hop
+blue & grey,bts,7,2020,7Ki0hse0IfXEcXUlpyECbJ,BE,71,254950,False,0.547,0.605,8,-6.755,1,0.0415,0.42,0.0,0.125,0.364,121.953,4,k-pop
+blue ain't your color,keith urban,26,2017,2CxmktXqJwP9KZv6WJtZCm,Ripcord,53,230600,False,0.69,0.416,7,-7.865,1,0.0335,0.617,1.37e-06,0.102,0.479,82.45,3,country
+blue christmas,elvis presley,47,2005,3KJombE6eRPrdrhNJza7T8,Santa Claus Is Coming To Town,0,128080,False,0.506,0.475,4,-7.552,1,0.0324,0.83,0.00411,0.124,0.596,94.494,4,rock-n-roll
+blue orchid,the white stripes,27,2005,4jU7NPkz4HVnM4hweqNhI1,Get Behind Me Satan,66,157560,False,0.481,0.645,10,-8.535,0,0.318,0.0863,6.2e-06,0.332,0.612,151.307,4,blues
+blue side (outro),j-hope,13,2025,20zr2Oef3PVeGRxjmSF5CC,Hope World,65,90539,False,0.512,0.394,9,-10.202,0,0.0263,0.0149,0.901,0.309,0.083,80.522,4,k-pop
+blurry,puddle of mudd,46,2022,0FLBNqc5oAiTt4J2e3fe3y,Come Clean,65,303920,False,0.432,0.936,3,-4.537,0,0.0562,0.00691,0.0,0.14,0.499,157.469,4,grunge
+bodies,drowning pool,36,2023,7CpbhqKUedOIrcvc94p60Y,Sinner,75,201960,False,0.656,0.932,4,-3.405,0,0.0708,0.00347,0.00147,0.144,0.544,130.936,4,grunge
+body like a back road,sam hunt,23,2018,48cWThoEPUC17cVfrcPnSX,Tailgate Country,0,165386,False,0.732,0.458,5,-7.225,1,0.0311,0.447,0.0,0.136,0.661,98.942,4,country
+bohemian rhapsody,queen,47,2019,3z8h0TU7ReDPLIbEnYhWZb,Bohemian Rhapsody (The Original Soundtrack),75,354947,False,0.39,0.397,0,-9.963,0,0.0513,0.287,0.0,0.207,0.246,144.031,4,rock
+bones,imagine dragons,39,2023,0HqZX76SFLDz2aW8aiqi7G,Bones,89,165264,False,0.773,0.742,5,-3.678,0,0.046,0.0206,0.0,0.0754,0.571,114.071,4,rock
+born in the u.s.a.,bruce springsteen,25,2025,0dOg1ySSI7NkpAe89Zo0b9,Born In The U.S.A.,74,278680,False,0.398,0.952,4,-6.042,1,0.061,0.000373,7.75e-05,0.1,0.584,122.093,4,singer-songwriter
+born singer,bts,7,2022,1IthE5GNiRzFN5CVaCa445,Proof,75,238628,False,0.602,0.841,8,-3.334,0,0.109,0.0354,0.0,0.235,0.684,157.937,4,k-pop
+born this way,glee cast,23,2011,58Q3bM45iawA7RaPJY5c3S,Glee The 3D Concert Movie (Motion Picture Soundtrack),20,239266,False,0.511,0.939,11,-6.039,0,0.0943,0.000163,0.0105,0.949,0.176,123.997,4,club
+born this way,lady gaga,7,2017,69C7u1nZcyZmuZXNNF5U9C,Beginner Ride (Mixtape Vol. 1),0,260413,False,0.586,0.835,11,-5.117,1,0.146,0.00387,0.0,0.304,0.492,123.936,4,dance
+boss bitch,doja cat,42,2020,3stdy0xXNOgwFAB94FzVSj,New Pop Icons,0,134239,False,0.707,0.955,10,-4.593,0,0.222,0.127,0.0,0.203,0.575,125.993,4,dance
+boston,augustana,41,2007,2WZyfujzMweFLnozyUJBkW,All The Stars and Boulevards,63,245933,False,0.404,0.571,0,-5.069,1,0.0303,0.182,2.08e-05,0.129,0.29,147.01,4,acoustic
+boulevard of broken dreams,green day,29,2023,5GorCbAP4aL0EJ16frG2hd,Greatest Hits: God's Favorite Band,77,262333,True,0.496,0.682,8,-4.095,1,0.0294,0.00552,2.94e-05,0.0589,0.474,167.06,4,punk
+brave,sara bareilles,38,2014,6Uy6K3KdmUdAfelUp0SeXn,The Blessed Unrest,70,220573,False,0.551,0.836,10,-3.838,0,0.0524,0.00502,2.1e-05,0.0425,0.758,185.063,4,acoustic
+break my heart,dua lipa,48,2020,017PF4Q3l4DBUiWoXk4OWT,Future Nostalgia,78,221820,False,0.73,0.729,4,-3.434,0,0.0884,0.167,1.39e-06,0.349,0.467,113.011,4,dance
+breathe (2 am),anna nalick,45,2006,5auMzVHFr5Zfw6IbKarZ56,Wreck of the Day,65,279826,False,0.386,0.452,2,-7.715,1,0.0278,0.417,0.0,0.0881,0.287,169.837,3,acoustic
+bright,echosmith,46,2015,3FfdQzQl0oNwgqja5Ef4vH,Coffee Moment,0,220626,False,0.646,0.431,6,-8.517,1,0.0262,0.637,6.99e-06,0.113,0.292,90.034,4,indie-pop
+broken,lifehouse,38,2009,5f6cTFoUenDiCJDGecYiuB,Who We Are,57,286480,False,0.534,0.708,11,-5.732,1,0.0402,0.089,0.0,0.192,0.488,130.639,4,grunge
+broken,lovelytheband,45,2019,6XcfKZvJio9Z0fQy11GnNX,finding it hard to smile,70,204878,False,0.666,0.728,7,-5.808,1,0.0419,0.00175,4.26e-06,0.0429,0.51,122.996,4,alt-rock
+brooklyn baby,lana del rey,42,2014,3PWYDDiIbO4gTPArrAtir0,Frühstücksmusik Herbst/Winter 2022/2023,0,351640,True,0.378,0.664,1,-6.698,1,0.0407,0.542,0.00397,0.11,0.0941,106.316,4,pop
+budapest,george ezra,47,2015,2ixsaeFioXJmMgkkbd4uj1,Wanted on Voyage (Expanded Edition),79,200733,False,0.717,0.455,5,-8.303,1,0.0276,0.0846,0.0,0.11,0.389,127.812,4,folk
+build a bitch,bella poarch,47,2021,7BoobGhD4x5K96Me0hqC8Q,Build a Bitch,76,122772,True,0.855,0.463,3,-7.454,1,0.0367,0.217,1.77e-05,0.347,0.866,102.931,4,alternative
+build me up buttercup,the foundations,34,2023,1tfZtA15BfJHQTUy3dqTKC,Baby Now That I've Found You,32,180133,False,0.64,0.664,0,-4.73,1,0.0289,0.196,0.0,0.31,0.879,134.002,4,r-n-b
+bulletproof,godsmack,24,2018,22GEETI4LXhhePCO71PyEv,When Legends Rise,59,177048,False,0.362,0.915,5,-3.244,0,0.181,0.000181,0.0,0.166,0.603,162.226,4,grunge
+bulletproof,la roux,44,2010,3kMrazSvILsgcwtidZd1Qd,La Roux,71,205733,False,0.674,0.882,3,-2.771,0,0.0477,0.000441,6.47e-05,0.068,0.682,123.016,4,synth-pop
+burn,ellie goulding,41,2014,2GgxS8bUT5G25QJTsfSv0R,Halcyon Days,71,231211,False,0.559,0.777,1,-5.031,1,0.0432,0.31,0.0,0.105,0.329,87.016,4,edm
+burn it down,linkin park,44,2012,7oVEtyuv9NBmnytsCIsY5I,LIVING THINGS,75,230253,False,0.585,0.972,9,-4.45,0,0.0534,0.0143,0.0,0.0707,0.585,110.006,4,alternative
+bury a friend,billie eilish,40,2019,6ZRF2oj59pKnVYjHcvN2Pa,Halloween Songs | Witches Hour,5,193143,False,0.887,0.388,8,-14.505,1,0.349,0.739,0.143,0.106,0.205,120.035,4,electro
+butter,bts,47,2022,6jjYDGxVJsWS0a5wlVF5vS,Proof,83,164952,False,0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0788,0.695,109.997,4,k-pop
+buy me a boat,chris janson,49,2015,1SdJjeWaSdVr1Nrcs0WT0R,Single Saturday Night - Country Songs,0,179077,False,0.574,0.742,2,-6.663,1,0.0513,0.309,0.0,0.11,0.69,154.042,4,country
+california dreamin',the mamas & the papas,26,2021,1ZEOIhSn6BKErV59bIgn76,All The Leaves Are Brown The Golden Era Collection,69,160373,False,0.548,0.728,1,-6.631,0,0.0367,0.424,0.0,0.0525,0.649,112.332,4,folk
+call me maybe,carly rae jepsen,17,2022,20I6sIOMTCkB6w7ryavxtO,Kiss,80,193400,False,0.783,0.58,7,-6.548,1,0.0408,0.0114,2.28e-06,0.108,0.66,120.021,4,electro
+call out my name,the weeknd,36,2018,09mEdoA6zrmBPgTEN5qXmN,"My Dear Melancholy,",89,228373,False,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3,pop
+calling all the monsters,china anne mcclain,46,2011,0QTUoI90fBFdKkd4h8fsOu,A.N.T. Farm,64,206506,False,0.561,0.826,2,-5.842,1,0.0972,0.00289,0.0,0.432,0.499,141.98,4,disney
+can i get it,adele,39,2021,6w8ZPYdnGajyfPddTWdthN,30,74,210384,False,0.703,0.68,9,-6.118,0,0.0431,0.0171,0.0,0.178,0.536,97.985,4,british
+cardigan,taylor swift,50,2020,14MGlCeQzAJj3EeznSGeEC,Autumn Vibes 2022,0,239560,False,0.612,0.58,0,-8.572,0,0.0419,0.525,0.000414,0.26,0.534,130.045,4,pop
+careless whisper,seether,47,2009,46eHxWRKmtYhUHPDRgclt6,Finding Beauty In Negative Spaces (Bonus Track Version),65,296973,False,0.469,0.943,2,-4.196,1,0.102,6.07e-05,0.00547,0.0717,0.358,134.031,4,grunge
+carry me away,john mayer,11,2019,4Szq4dulKN9bOvLRW6uMdZ,Sob Rock,66,159133,False,0.677,0.713,4,-6.626,1,0.0288,0.0117,0.15,0.0952,0.744,119.997,4,singer-songwriter
+castle,halsey,50,2016,16w8ZGVSjI4TlTLV8VimBY,BADLANDS (Deluxe),67,277623,False,0.626,0.571,7,-7.461,0,0.0327,0.25,0.0,0.0946,0.164,129.959,4,indie-pop
+centuries,fall out boy,46,2015,04aAxqtGp5pv12UXAg4pkq,American Beauty/American Psycho,80,228360,False,0.393,0.858,4,-2.868,0,0.0729,0.00359,0.0,0.102,0.56,176.042,4,emo
+chandelier,sia,48,2015,4VrWlk8IQxevMvERoX08iC,1000 Forms Of Fear,80,216120,False,0.399,0.787,1,-2.88,1,0.0499,0.0197,6.07e-05,0.0685,0.572,117.089,5,dance
+chanel,frank ocean,42,2017,6Nle9hKrkL1wQpwNfEkxjh,Chanel,79,210285,True,0.776,0.503,0,-5.732,0,0.237,0.874,0.0,0.112,0.473,110.134,4,soul
+changes,xxxtentacion,47,2018,7AFASza1mXqntmGtbxXprO,?,80,121886,False,0.669,0.308,11,-10.068,1,0.029,0.883,0.0,0.0984,0.52,64.934,4,emo
+chasing cars,snow patrol,50,2022,5hnyJvgoWiQUYZttV4wXy6,Eyes Open,80,267960,False,0.56,0.595,9,-4.53,1,0.0274,0.199,6.47e-05,0.132,0.144,104.011,4,rock
+chasing pavements,adele,48,2009,0Z5ok0QLLttAKsujOZYOXf,19,74,210506,False,0.616,0.47,5,-6.092,0,0.0253,0.291,0.0,0.111,0.325,80.03,4,british
+chillin' it,cole swindell,37,2014,5IoDSNO8QBvxCHGgQeIlKO,Chillin' It - Mellow Day Country,1,196746,False,0.576,0.849,9,-3.057,1,0.0386,0.511,4.01e-05,0.109,0.666,137.99,4,country
+christmas lights,coldplay,15,2010,6iH0uLBUSL8vcyiL8W9cRe,Merry Christmas,1,242495,False,0.315,0.418,7,-9.146,1,0.0299,0.131,0.000679,0.0836,0.237,129.116,4,pop
+classic,mkto,47,2021,6FE2iI43OZnszFLuLtvvmg,MKTO,82,175426,False,0.72,0.791,1,-4.689,1,0.124,0.0384,0.0,0.157,0.756,102.071,4,rock
+collide,howie day,50,2005,5aDpULK8MbJmHl42kR5KNI,Stop All The World Now,56,249120,False,0.636,0.625,11,-7.895,1,0.0277,0.222,5.35e-05,0.119,0.342,93.931,4,acoustic
+colors,black pumas,18,2021,6d4FWjx72iuRWzn1HwywLK,Black Pumas,67,246586,False,0.391,0.692,1,-6.543,0,0.0462,0.0946,1.58e-05,0.191,0.56,180.008,4,soul
+come & get it,selena gomez,44,2013,1tvmqQlkFrVun9HO4dlNdr,Almorzando solo,0,231413,False,0.552,0.783,7,-4.138,0,0.0504,0.00887,0.00026,0.0954,0.575,79.984,4,dance
+come back as a country boy,blake shelton,38,2021,1SXRVPBqTOBlcMSbYwHfFH,New Country,1,221733,False,0.494,0.796,7,-3.965,0,0.0324,0.0197,0.000178,0.309,0.447,76.069,4,country
+come on get higher,matt nathanson,48,2009,38YgZVHPWOWsKrsCXz6JyP,Some Mad Hope,71,215173,False,0.672,0.623,9,-5.699,1,0.0297,0.241,0.0,0.0848,0.617,92.018,4,acoustic
+come with me now,kongos,45,2014,2kWowW0k4oFymhkr7LmvzO,Lunatic,67,211960,False,0.654,0.726,10,-3.803,0,0.0401,0.0311,6.35e-05,0.0618,0.728,103.987,4,blues
+connection,onerepublic,48,2018,3T4UodGkfZObJ43RtA5KFU,Connection,63,148459,False,0.611,0.602,5,-4.89,1,0.0437,0.000837,0.0,0.112,0.624,168.154,4,piano
+conversations in the dark,john legend,17,2020,0QjQC8sGqxUkaJFBsJjtGm,Bigger Love,60,235653,False,0.361,0.357,8,-8.423,0,0.0312,0.704,0.0,0.219,0.153,122.962,4,soul
+cool for the summer,demi lovato,41,2015,3uwnnTQcHM1rDqSfA4gQNz,Confident,81,214739,True,0.583,0.61,5,-5.639,0,0.0382,0.00425,0.000105,0.14,0.336,114.06,4,dance
+cool kids,echosmith,49,2014,13P5rwmk2EsoFRIz9UCeh9,Talking Dreams (Deluxe Edition),77,237626,False,0.719,0.671,8,-6.279,1,0.0336,0.0372,8.21e-06,0.12,0.786,130.027,4,indie-pop
+coronavirus,imarkkeyz,38,2020,3ZLGYdkjnOMdzHr0bGCGs9,Coronavirus,32,154853,True,0.717,0.831,11,-3.878,0,0.203,0.000898,0.000185,0.854,0.821,83.986,4,club
+counting stars,onerepublic,36,2022,2tpWsVSb9UEmDRxAl1zhX1,Native,83,257266,False,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,0.477,122.016,4,piano
+country again,thomas rhett,45,2021,3ovpz51ql3sXfcDc66DNFb,Country USA,0,221240,False,0.467,0.481,2,-6.947,1,0.0255,0.227,0.000189,0.11,0.248,147.886,4,country
+country girl (shake it for me),luke bryan,28,2022,43WFp6WBAvNgc7iaFFEUJp,Tailgate Country,2,225560,False,0.644,0.904,2,-4.532,1,0.0464,0.0295,0.0,0.0834,0.672,105.969,4,country
+country on,luke bryan,29,2022,6AHJTA1BN7ePfChCwqph3z,Country USA,0,236455,False,0.52,0.751,5,-5.064,1,0.0551,0.171,7.4e-06,0.0624,0.519,156.044,4,country
+coward of the county,kenny rogers,20,2020,0JkIre0YxNmKGMU5V7ZiDx,Kenny,64,258733,False,0.652,0.433,7,-12.843,1,0.0588,0.134,7.37e-06,0.146,0.675,91.471,4,country
+crawling,linkin park,48,2023,57BrRMwf9LrcmuOsyGilwr,Hybrid Theory (Bonus Edition),76,208960,False,0.58,0.702,4,-5.565,1,0.0337,0.0466,3.2e-06,0.536,0.299,105.076,4,alternative
+crawling back to you,daughtry,25,2011,571pa5LGKPGLNTLcobbrgr,Break The Spell (Expanded Edition),50,225440,False,0.426,0.908,0,-3.437,0,0.0504,0.00686,0.0,0.167,0.16,150.979,4,grunge
+crazy,gnarls barkley,19,2023,1vxw6aYJls2oq3gW0DujAo,St. Elsewhere,76,177466,False,0.855,0.587,8,-4.589,1,0.0336,0.0505,0.00714,0.105,0.64,111.97,4,soul
+crazy bitch,buckcherry,49,2006,5XfQTbialQHn9PhDb0p85H,15,68,204960,True,0.661,0.978,1,-3.064,0,0.107,0.0247,0.0,0.0856,0.592,98.019,4,grunge
+crazy train,ozzy osbourne,7,2025,7ACxUo21jtTHzy7ZEV56vU,Blizzard Of Ozz (40th Anniversary Expanded Edition),78,293183,False,0.454,0.913,9,-4.008,1,0.107,0.408,0.000271,0.248,0.521,137.688,4,hard-rock
+creep,radiohead,41,2023,70LcF31zb1H0PyJoS1Sx1r,Pablo Honey,85,238640,True,0.515,0.43,7,-9.935,1,0.0372,0.0097,0.000133,0.129,0.104,91.844,4,alt-rock
+criminal,britney spears,43,2011,6T689Jvh5KrSXyaPtUWZtQ,Femme Fatale (Deluxe Version),72,225080,False,0.696,0.734,7,-5.294,1,0.0298,0.0485,0.0,0.183,0.711,107.987,4,dance
+cupid shuffle,cupid,44,2008,07Tx168RSsUS1HqkDIOZbH,Time for a Change,63,231360,False,0.785,0.582,5,-4.877,0,0.237,0.191,0.0,0.2,0.861,71.774,4,kids
+dna,bts,43,2022,3uRLwBjI2TahxslcMTvpFs,Love Yourself 承 'Her',73,223122,False,0.599,0.775,1,-4.018,0,0.0543,0.0217,0.0,0.0678,0.696,129.817,4,k-pop
+dancing queen,abba,45,2023,0GjEhVFGZW8afUYGChu3Rr,Arrival,83,230400,False,0.543,0.87,9,-6.514,1,0.0428,0.358,0.000939,0.792,0.754,100.804,4,swedish
+dancing with the devil,demi lovato,20,2021,2Wpr8kAVSHp5RvTXhBWtwp,Halloween Party 2022,2,243992,False,0.392,0.642,0,-5.813,0,0.0431,0.269,0.0,0.11,0.129,75.279,4,dance
+danger,bts,16,2024,0zzRxtfO5FGxKdqq4OKmlw,Dark & Wild,66,245140,False,0.738,0.868,1,-3.363,1,0.0702,0.000907,0.000209,0.275,0.377,111.991,4,k-pop
+dangerous night,thirty seconds to mars,36,2018,3tUwMETMLT2pSeeaMhBJMz,10's Music Grandi Successi,0,199773,False,0.298,0.715,2,-6.533,1,0.0696,0.00212,1.69e-06,0.242,0.242,88.035,4,grunge
+dani california,red hot chili peppers,32,2007,10Nmj3JCNoMeBQ87uw5j8k,Stadium Arcadium,78,282160,False,0.556,0.913,0,-2.36,1,0.0437,0.0193,8.59e-06,0.346,0.73,96.184,4,alt-rock
+darl+ing,seventeen,45,2022,6vo0dV9t7PCQZKsLFwVwZ5,Darl+ing,70,176546,False,0.71,0.686,0,-4.926,1,0.0713,0.296,0.0,0.492,0.483,96.06,4,k-pop
+daughters,john mayer,48,2005,5FPnjikbwlDMULCCCa6ZCJ,Heavier Things,67,237906,False,0.674,0.413,2,-7.816,1,0.0274,0.836,1.95e-05,0.098,0.503,124.893,3,singer-songwriter
+day drinking,little big town,50,2014,7thLVTvGXOpJcMEmQPNxU8,Tailgate Country,0,178840,False,0.591,0.959,9,-2.515,1,0.057,0.103,0.0,0.779,0.86,163.883,4,country
+daydream believer,the monkees,49,2012,7uEcCGtM1FBBGIhPozhJjv,"The Birds, The Bees, & The Monkees",70,179613,False,0.51,0.488,7,-10.304,1,0.0304,0.256,0.0,0.11,0.649,125.683,4,psych-rock
+december,collective soul,33,2023,7GNLvWRG9itrCk0zarYKmQ,Collective Soul,64,285000,False,0.683,0.645,0,-5.707,1,0.0272,0.589,0.00432,0.18,0.366,121.995,4,grunge
+decode,paramore,49,2009,1ZLtE9tSJdaUiIJ9YoKHQe,Decode,73,261959,False,0.28,0.87,10,-4.219,0,0.0592,0.000686,0.00608,0.101,0.284,164.057,4,emo
+deja vu,olivia rodrigo,50,2021,6HU7h9RYOaPRFeh0R3UeAr,SOUR,87,215506,True,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917,4,pop
+demons,imagine dragons,40,2022,5qaEfEh1AtSdrdrByCP7qR,Night Visions,84,177506,False,0.505,0.71,3,-3.015,1,0.0321,0.19,0.00025,0.269,0.428,89.938,4,rock
+deutschland,rammstein,43,2019,2bPGTMB5sFfFYQ2YvSmup0,Rammstein,77,322339,False,0.521,0.895,7,-5.242,1,0.0442,5.54e-05,0.349,0.0985,0.237,120.117,4,alt-rock
+devil,shinedown,11,2018,2hEYslbdYWFSIA6JboUvnR,ATTENTION ATTENTION,65,207986,False,0.354,0.942,7,-3.245,1,0.237,0.00039,6.36e-06,0.431,0.242,119.992,4,grunge
+diamonds,sam smith,21,2020,3tj1y5eQNFMcXnkH0AcXTm,pov: it's 2020,3,213869,False,0.653,0.667,10,-6.764,0,0.0423,0.154,0.0,0.107,0.556,104.181,4,dance
+didn't i,onerepublic,9,2020,1HWaIZ9Tf67sTXOhyiUuon,pov: it's 2020,0,207616,False,0.611,0.61,4,-6.745,1,0.0314,0.0186,0.0,0.125,0.242,123.943,4,piano
+die a happy man,thomas rhett,33,2016,5eUtyONoPyfZYGrFHmZzlc,Mientras hago aromaterapia,1,228320,False,0.59,0.389,2,-9.245,1,0.0387,0.411,1.48e-06,0.117,0.389,166.055,4,country
+dionysus,bts,50,2020,2Wkm4JBcIV2uSuu4qlbqFN,MAP OF THE SOUL : PERSONA,68,249215,False,0.502,0.91,7,-2.769,1,0.107,0.04,0.0,0.319,0.588,176.084,4,k-pop
+dirt on my boots,jon pardi,48,2017,7HUlOKnGX8VZjwSCdd6N7X,Country USA,0,201893,False,0.683,0.796,11,-4.179,1,0.0284,0.112,0.0,0.197,0.533,90.031,4,country
+dirty little secret,the all-american rejects,49,2007,2vYGlPIhtLGM23rXY8hfgX,OO's Music Grandi Successi,1,194080,False,0.459,0.955,10,-4.26,1,0.0448,0.000311,4.29e-06,0.421,0.485,143.865,4,punk-rock
+dis-ease,bts,5,2020,0hxeouHqP3qzpTHerA7ha2,BE,69,239722,False,0.731,0.845,8,-5.352,1,0.132,0.0132,0.0,0.0782,0.484,101.085,4,k-pop
+do re mi,blackbear,46,2017,6Se3x9ANMLv0dCDsjGmEjh,digital druglord,73,212027,True,0.745,0.593,8,-6.35,1,0.0524,0.00522,5.06e-06,0.123,0.17,111.001,3,electro
+do ya wanna taste it,wig wam,33,2022,5XW4BwCrfYpci5zMbJxs4N,Non Stop Rock'n Roll,63,176973,False,0.559,0.793,2,-3.536,0,0.028,0.0191,0.0,0.394,0.69,92.034,4,metal
+do you know? (the ping pong song),enrique iglesias,50,2007,4MloswMM3eu7dHZ7MOzW3i,Insomniac (New International Version Spanish),55,218053,False,0.755,0.765,8,-4.328,1,0.0486,0.0503,0.0,0.0326,0.691,114.993,4,latin
+dog days are over,glee cast,8,2010,2zphznHEwLRNCC6P1lJoIX,Glee The 3D Concert Movie (Motion Picture Soundtrack),20,178893,False,0.382,0.81,7,-5.696,1,0.0677,0.312,4.69e-06,0.741,0.352,150.06,4,club
+doin' time,lana del rey,15,2019,3TmDnZuy3pHQbFJG5fRu2a,Frühstücksmusik Herbst/Winter 2022/2023,0,202192,True,0.641,0.559,7,-11.132,0,0.0355,0.404,0.00402,0.0937,0.523,144.982,4,pop
+don't let the light go out,panic! at the disco,46,2022,5LVbt2iunaRTbRQNSPo9JE,All That Really Matters - Just Hits,2,229517,False,0.492,0.59,4,-4.032,0,0.0313,0.00109,0.0023,0.271,0.179,117.637,4,rock
+don't shut me down,abba,32,2021,2RGHyqxfD4jVipJCL02ALC,pov: it's 2021,0,238800,False,0.719,0.604,0,-7.395,1,0.0281,0.105,0.0,0.107,0.565,99.993,4,swedish
+don't start now,dua lipa,43,2022,3PfIrDoz19wz7qK7tYeu62,Future Nostalgia,81,183290,False,0.793,0.793,11,-4.521,0,0.083,0.0123,0.0,0.0951,0.679,123.95,4,dance
+don't stop believin',journey,14,2024,4bHsxqR3GMrXTxEPLuK5ue,Escape (Bonus Track Version),83,250986,False,0.5,0.748,4,-9.072,1,0.0363,0.127,0.0,0.447,0.514,118.852,4,hard-rock
+don't you (forget about me),simple minds,24,2021,0noX7fsnpaVbMCdiRzYJrX,Rock Workout 2023,2,260733,False,0.638,0.858,2,-5.527,1,0.031,0.127,0.00105,0.333,0.743,111.12,4,synth-pop
+drag me down,one direction,43,2016,2K87XMYnUMqLcX3zvtAF4G,Made In The A.M. (Deluxe Edition),80,192120,False,0.73,0.703,0,-5.672,0,0.0369,0.109,0.0,0.0657,0.595,138.113,4,pop
+dreamer,ozzy osbourne,18,2025,78PKCefXwDLbl4FVO1Pjzh,Down To Earth,63,284906,False,0.493,0.636,1,-7.408,1,0.0256,0.0629,2.49e-06,0.0921,0.279,79.419,4,hard-rock
+drink in my hand,eric church,37,2011,3RzDfzK5TNMfVvQRTfJmxz,Tailgate Country,0,191306,False,0.626,0.913,0,-4.452,1,0.0317,0.00635,0.0,0.293,0.946,113.045,4,country
+drive,the cars,27,2019,6cE1curXkmm1ad2TeQmzdx,80's,0,234493,False,0.579,0.608,6,-9.961,1,0.029,0.124,0.00148,0.151,0.499,111.441,5,hard-rock
+drivers license,olivia rodrigo,28,2022,5wANPM4fQCJwkGd4rN57mH,SOUR,88,242013,True,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,4,pop
+drunk last night,eli young band,31,2013,1P3LDx6pTNu44IYNE6ziCU,Sad Country Songs,1,220360,False,0.525,0.858,7,-4.551,1,0.0355,0.0466,0.0,0.102,0.57,87.029,4,country
+drunk on your love,brett eldredge,35,2016,3AiKS1mpEoLLoSR5SuUf9k,Single Saturday Night - Country Songs,0,173960,False,0.443,0.831,11,-5.606,1,0.0615,0.414,0.0,0.204,0.586,182.056,4,country
+dura,daddy yankee,26,2018,0bhhXULPNfCsVhZp35HrC3,El perreo es el futuro,0,200480,False,0.783,0.84,1,-3.416,1,0.051,0.174,0.0,0.412,0.838,95.002,4,hip-hop
+dynamite,bts,4,2022,5QDLhrAOJJdNAmCTJ8xMyW,BE,85,199053,False,0.746,0.765,6,-4.41,0,0.0993,0.0112,0.0,0.0936,0.737,114.044,4,k-pop
+earth,lil dicky,45,2019,7lakl3bPRdQqUGX9m755jX,Earth,40,281500,True,0.694,0.664,2,-4.649,1,0.05,0.639,0.0,0.0929,0.676,95.941,4,comedy
+easy,commodores,26,2022,2w8OZpyOHhT0ykCqLfejQB,On air 70's Hits,1,256545,False,0.568,0.575,10,-7.769,0,0.029,0.126,0.0001,0.114,0.333,133.093,4,disco
+easy,sheryl crow,49,2013,1kvZL6kWs8JTgw9dJQJYWY,Chillin' It - Mellow Day Country,0,253360,False,0.521,0.57,9,-5.567,1,0.0245,0.0254,1.17e-06,0.0757,0.608,169.995,4,singer-songwriter
+easy on me,adele,50,2023,0gplL1WMoJ6iYaPgMCL0gX,Easy On Me,85,224694,False,0.604,0.366,5,-7.519,1,0.0282,0.578,0.0,0.133,0.13,141.981,4,british
+edging,blink-182,2,2022,2wVWGFVkL5I3JGsoWBx2AZ,EDGING,78,151533,True,0.606,0.905,5,-3.117,1,0.0518,0.0044,0.0,0.151,0.706,143.952,4,punk-rock
+emotionally scarred,lil baby,49,2020,0nsZBSzz5WG7onOtEL5mqj,Drippy Drippy,2,197529,True,0.585,0.641,6,-4.269,0,0.133,0.0286,0.0,0.316,0.266,88.284,4,hip-hop
+empire state of mind,glee cast,10,2010,7pYVIpuFrH2cDMseplG8Jn,"Glee: The Music, Volume 4",47,277346,False,0.508,0.883,6,-4.567,1,0.329,0.0617,0.0,0.158,0.717,173.566,4,club
+empire state of mind (part ii) broken down,alicia keys,26,2009,5sra5UY6sD658OabHL3QtI,The Element Of Freedom,72,216480,False,0.484,0.368,6,-7.784,1,0.0341,0.74,3.82e-05,0.118,0.142,92.923,4,soul
+enter sandman,metallica,50,2023,5sICkBXVmaCQk5aISGR3x1,Metallica,81,331266,False,0.577,0.828,6,-8.691,0,0.0298,0.00213,0.0114,0.0581,0.604,123.257,4,hard-rock
+epiphany,bts,19,2018,6L88EH68XwlaXwvChlTS41,Love Yourself 結 'Answer',72,240361,False,0.508,0.559,2,-6.366,0,0.0276,0.288,0.0,0.131,0.329,135.866,4,k-pop
+euphoria,bts,18,2021,5YMXGBD6vcYP7IolemyLtK,Love Yourself 結 'Answer',78,228615,False,0.637,0.799,2,-4.518,1,0.0338,0.394,0.0,0.0921,0.57,104.996,4,k-pop
+evermore,dan stevens,46,2017,3Yn97I3qIj7Px0Bi4rkD2q,Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition),64,194541,False,0.285,0.396,1,-8.741,1,0.0318,0.674,6.6e-05,0.102,0.219,79.442,3,disney
+every breath you take,the police,45,2022,1JSTJqkT5qHq8MDJnJbRE1,Synchronicity (Remastered 2003),86,253920,False,0.82,0.452,1,-9.796,1,0.0348,0.543,0.00294,0.0714,0.74,117.401,4,rock
+every little thing,carly pearce,47,2017,5YzfH7DTvRUf6l3ebJG0c0,Sad Country Songs,2,181053,False,0.639,0.427,0,-6.512,1,0.0368,0.434,1.14e-05,0.0903,0.322,139.899,4,country
+every rose has its thorn,poison,33,2021,5qaSekPPKHIEA1Yn0qkCaC,Open Up And Say . . . Ahh!,56,260224,False,0.459,0.704,6,-5.564,1,0.0356,0.233,1.66e-06,0.374,0.342,140.367,4,hard-rock
+everybody hates me,the chainsmokers,42,2018,6ufrOaf4v6Qady6GiIpQ0s,Sick Boy,59,223466,False,0.475,0.752,11,-6.596,0,0.0467,0.00703,0.0,0.406,0.515,154.957,4,edm
+everybody hurts,r.e.m.,37,2023,6PypGyiu0Y2lCDBN1XZEnP,Automatic For The People,75,320266,False,0.467,0.324,2,-10.451,1,0.0255,0.615,0.0248,0.118,0.166,94.301,3,alt-rock
+everybody talks,neon trees,32,2012,2iUmqdfGZcHIhS3b9E9EWq,Picture Show,80,177280,False,0.471,0.924,8,-3.906,1,0.0586,0.00301,0.0,0.313,0.725,154.961,4,alt-rock
+everybody wants to rule the world,tears for fears,24,2023,4RvWPyQ5RL0ao9LPZeSouE,Songs From The Big Chair (Super Deluxe Edition),87,251488,False,0.645,0.795,7,-12.095,1,0.0527,0.347,0.00389,0.104,0.535,112.067,4,synth-pop
+everyday people,sly & the family stone,14,2025,4ZVZBc5xvMyV3WzWktn8i7,Stand,67,141506,False,0.807,0.497,7,-10.656,1,0.0297,0.307,0.0327,0.043,0.765,114.524,4,psych-rock
+everything i own,bread,27,2021,52VIdyKqp1pJRSyUQaxKUA,Baby I'm-a Want You,70,187000,False,0.365,0.338,2,-13.406,1,0.0322,0.735,0.0,0.104,0.446,79.241,4,folk
+everything i wanted,billie eilish,22,2021,3ZCTVFBt2Brf31RLEnCkWJ,everything i wanted,86,245425,False,0.704,0.225,6,-14.454,0,0.0994,0.902,0.657,0.106,0.243,120.006,4,electro
+everytime we touch,cascada,38,2006,5YJtMNWKe55yr49cyJgxva,Everytime We Touch (Premium Edition),71,197124,False,0.633,0.976,8,-5.362,1,0.0519,0.00281,1.29e-05,0.382,0.493,142.027,4,german
+ex's & oh's,elle king,48,2016,70eDxAyAraNTiD6lx2ZEnH,Love Stuff,73,202173,False,0.612,0.921,7,-2.882,1,0.085,0.0183,0.0,0.0576,0.446,139.988,4,blues
+face down,the red jumpsuit apparatus,49,2007,4wzjNqjKAKDU82e8uMhzmr,Don't You Fake It,76,192000,False,0.545,0.932,7,-2.189,0,0.0399,0.000665,0.0,0.127,0.464,92.956,4,punk-rock
+failure,breaking benjamin,24,2015,4wh0E9OwMCxcaIKTg0Mts9,Dark Before Dawn,61,214853,False,0.462,0.89,1,-4.853,1,0.0382,2.99e-05,0.00909,0.0685,0.383,155.008,4,grunge
+fake love,bts,13,2024,6m1TWFMeon7ai9XLOzdbiR,Love Yourself 轉 'Tear',76,242333,False,0.557,0.719,2,-4.515,0,0.0371,0.00267,0.0,0.306,0.345,77.502,4,k-pop
+fall for you,secondhand serenade,43,2009,2fywBLXK9GQi8YR8C8d3c4,A Twist in My Story,52,183600,False,0.396,0.451,0,-7.109,1,0.0362,0.177,0.0,0.103,0.358,169.518,4,piano
+fall in love,bailey zimmerman,20,2023,4N6gKsA1p5m8gjvgc0sEKB,New Country,1,232058,False,0.524,0.643,9,-6.055,1,0.0297,0.451,0.0,0.221,0.397,135.962,4,country
+fall to pieces,velvet revolver,48,2004,4A9O9e4iTm4bYnOPSzWaGb,Contraband,54,271440,False,0.458,0.884,6,-4.679,1,0.0495,0.000468,0.483,0.128,0.25,132.814,4,grunge
+falling,trevor daniel,45,2020,0Aqi7ArnBrGblW5T6p2jmD,Nicotine,79,159381,False,0.785,0.431,10,-8.756,0,0.0364,0.123,0.0,0.0887,0.236,127.085,4,pop
+fame,irene cara,21,2022,5CI1FP2Volc9wjz2MBZsGx,Fame (Original Motion Picture Soundtrack),66,316066,False,0.7,0.73,0,-8.763,0,0.0311,0.132,0.0,0.133,0.961,130.519,4,disco
+fancy like,walker hayes,33,2022,58UKC45GPNTflCN6nwCUeF,Country Stuff The Album,77,161853,False,0.647,0.765,1,-6.459,1,0.06,0.111,0.0,0.315,0.855,79.994,4,country
+far away,nickelback,34,2023,0ADZ5dmXhlfzjMw6lefoPl,All the Right Reasons,73,238173,False,0.518,0.797,6,-5.153,1,0.0309,0.000681,0.0,0.107,0.293,132.918,4,alt-rock
+far behind,candlebox,33,2023,3mhOmh4tRKsMfnRmgZfeBm,Candlebox,67,299733,False,0.552,0.645,7,-6.595,1,0.0268,0.00187,1.38e-06,0.0424,0.588,89.518,4,grunge
+fast car,tracy chapman,17,2024,2M9ro2krNb7nr7HSprkEgo,Tracy Chapman,78,296800,False,0.711,0.292,4,-15.523,0,0.037,0.313,0.0,0.131,0.194,103.951,4,folk
+fat bottomed girls,glee cast,33,2011,71WLu8I7YigziuM35wmsup,Glee The 3D Concert Movie (Motion Picture Soundtrack),18,140546,False,0.391,0.892,7,-5.226,1,0.0545,0.0112,0.0,0.733,0.414,90.155,3,club
+feed the wolf,breaking benjamin,39,2018,7rOv6HovIJvYHXCg0cVfTk,Ember,54,198040,False,0.4,0.982,8,-2.147,1,0.123,3.15e-05,8.2e-05,0.133,0.384,155.046,3,grunge
+feel again,onerepublic,45,2013,75hLNJfiXV5k2YGrbGEW51,Native,59,185080,False,0.467,0.815,7,-7.929,0,0.0524,0.0198,1.23e-06,0.118,0.335,140.047,4,piano
+feeling good,nina simone,43,2022,61T3ukOW74kzMkVy5pOLDR,Coffee Break,1,175021,False,0.428,0.414,7,-5.729,0,0.0403,0.897,0.0,0.238,0.508,79.108,4,blues
+feelings,lauv,26,2019,0s26En1JoJhVj32vizElpA,~how i'm feeling~,72,189906,False,0.7,0.392,9,-8.911,1,0.033,0.0578,0.0,0.0802,0.25,103.044,4,electro
+feels like tonight,daughtry,37,2008,2tVCFmn2zKg2wGXS1TCIIA,Daughtry,49,238733,False,0.483,0.903,6,-3.151,1,0.0451,0.000849,0.0,0.118,0.318,130.986,4,grunge
+fever,the black keys,41,2014,3Hx7RXqCS7Kzjy2ot2q1Gk,Turn Blue,62,246306,False,0.609,0.674,9,-6.506,0,0.0355,0.00378,0.000302,0.129,0.743,127.541,4,garage
+fight song,rachel platten,47,2016,37f4ITSlgPX81ad2EvmVQr,Wildfire,77,204013,False,0.564,0.714,7,-4.987,1,0.129,0.0549,0.0,0.155,0.33,175.924,4,rock
+film out,bts,1,2021,3UHPGOkUcE4hE7sqBF4Snt,Film out,70,214620,False,0.499,0.709,10,-6.404,1,0.134,0.296,0.0,0.331,0.314,164.032,4,k-pop
+filter,bts,35,2020,4bZZVcgWWMWPBwzTTp642w,MAP OF THE SOUL : 7,76,180220,False,0.779,0.762,10,-5.188,0,0.0631,0.0224,0.0,0.121,0.859,110.043,4,k-pop
+final masquerade,linkin park,47,2014,3aYBjxTMvrEOP0A0UXg9ER,The Hunting Party,64,217613,False,0.466,0.852,3,-4.487,1,0.0585,0.00774,2.6e-06,0.0989,0.428,164.032,4,alternative
+fingers crossed,lauren spencer smith,49,2022,3yMC1KsTwh0ceXdIe4QQAQ,Fingers Crossed,81,175344,False,0.56,0.473,5,-7.23,1,0.0533,0.618,0.0,0.31,0.441,109.414,4,singer-songwriter
+fireflies,owl city,50,2021,3DamFFqW32WihKkTVlwTYQ,Ocean Eyes,79,228346,False,0.512,0.662,3,-6.797,1,0.0439,0.0275,0.0,0.118,0.472,180.114,4,indie-pop
+firework,katy perry,49,2022,4CqnZVnY48DT8Xwv3F3mco,Del gusto de mamá,1,227973,False,0.637,0.867,8,-3.686,1,0.05,0.143,0.0,0.11,0.652,124.069,4,dance
+first class,jack harlow,49,2022,5pZEThCuY84PiajfmeOJ3i,Back to School!,1,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,hip-hop
+flowers,lauren spencer smith,42,2022,4EVO2VDWNVA4DpEqlHpfuZ,Frühstücksmusik Herbst/Winter 2022/2023,0,157373,True,0.684,0.449,3,-9.738,1,0.611,0.869,0.0,0.0881,0.341,66.165,4,singer-songwriter
+fly to my room,bts,6,2020,1NHl9g36Ebu3g16y0vtUNV,BE,67,222242,False,0.764,0.526,11,-7.355,1,0.212,0.0484,0.0,0.0718,0.588,114.91,4,k-pop
+follow you,imagine dragons,35,2021,1skWrgJrEi6ZB4Wt5tYYAb,pov: it's 2021,2,175643,False,0.542,0.732,9,-5.956,1,0.0521,0.00209,7.92e-05,0.496,0.489,124.912,4,rock
+for youth,bts,4,2022,4JzCFEc3O2UEdjKzevvFH5,Proof,78,264480,False,0.633,0.511,2,-5.665,1,0.0368,0.434,0.0,0.248,0.29,116.855,3,k-pop
+forever after all,luke combs,47,2021,6IBcOGPsniK3Pso1wHIhew,What You See Ain't Always What You Get (Deluxe Edition),79,232533,False,0.487,0.65,0,-5.195,1,0.0253,0.191,0.0,0.0933,0.456,151.964,4,country
+fortunate son,creedence clearwater revival,40,2023,6Pt0FLZMQcycOm3BwToqQa,Christmas time but not Christmas songs 2022,0,140773,False,0.64,0.663,0,-7.516,1,0.0373,0.201,0.00806,0.152,0.665,132.768,4,country
+forty six & 2,tool,12,2019,6AioOohg4bQZFA4jIYQQ2r,Ænima,68,363066,False,0.375,0.682,0,-6.898,0,0.0364,0.00152,0.598,0.0897,0.396,159.23,4,metal
+free fallin',tom petty,32,2017,5JuEJHeydYTaObYY1h9MgA,Обратно в клас - rock,0,255680,False,0.619,0.504,5,-11.562,1,0.025,0.0614,0.0,0.06,0.568,84.335,4,folk
+friends,bts,6,2020,5RjUtRlDonw3TBgGGMLC5b,MAP OF THE SOUL : 7,71,199338,False,0.55,0.747,1,-5.211,1,0.0407,0.0668,0.0,0.0536,0.649,79.979,4,k-pop
+from where you are,lifehouse,39,2007,5ef3mAxAAjk93V6IpriOrz,Smoke & Mirrors,55,181280,False,0.363,0.408,9,-10.861,0,0.0273,0.185,2.94e-06,0.113,0.271,87.335,4,grunge
+future,j-hope,13,2022,0Puudh380z6cOCgMaTNm7h,Jack In The Box,68,139308,False,0.717,0.822,6,-5.249,1,0.0879,0.0652,0.0,0.36,0.764,102.042,4,k-pop
+gangsta,kehlani,43,2016,0zlTUsS88Y3Ck7WsyEepAi,Suicide Squad: The Album,60,177320,False,0.447,0.356,10,-11.193,0,0.0419,0.0958,0.0,0.318,0.174,121.864,4,dance
+gasolina,daddy yankee,46,2005,228BxWXUYQPJrJYHDLOHkj,Barrio Fino (Bonus Track Version),82,192600,False,0.852,0.797,0,-6.543,1,0.0614,0.322,2.69e-06,0.0845,0.741,96.008,4,latin
+gentleman,psy,20,2013,2BWd1qRu8mc6H0HbDtn8Dr,VIP DJ,50,194546,False,0.878,0.723,3,-3.334,0,0.102,0.00227,0.0,0.0516,0.619,126.01,4,k-pop
+geronimo,sheppard,44,2015,4AQ6h4ZfBXMPMn3IZ6eVW0,Tutti in piscina Canzoni per bambini,0,217986,False,0.682,0.838,7,-5.124,1,0.0861,0.377,0.000414,0.12,0.461,141.992,4,folk
+get down on it,kool & the gang,14,2023,4Cv6ongCvJy9JfSkWVnb5D,Something Special,64,293666,False,0.847,0.389,9,-15.362,0,0.0569,0.0753,1.2e-05,0.0471,0.968,111.52,4,disco
+get it right,glee cast,6,2011,2IIdrejPZuHHFpc3LbTtEK,"Glee: The Music, Volume 5",53,227853,False,0.471,0.549,2,-5.696,1,0.0315,0.331,0.0,0.0729,0.141,83.681,4,club
+ghost,justin bieber,43,2022,6I3mqTwhRpn34SLVafSH7G,Justice,88,153190,False,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,4,pop
+ghostbusters,ray parker jr.,11,2024,3m0y8qLoznUYi73SUBP8GI,Ghostbusters (Original Motion Picture Soundtrack) [2016],69,245253,False,0.788,0.846,4,-5.017,1,0.0372,0.0103,0.000281,0.26,0.738,115.636,4,disco
+gimme more,britney spears,48,2008,6ic8OlLUNEATToEFU3xmaH,Blackout,79,251240,False,0.788,0.844,2,-3.131,1,0.0334,0.25,0.000678,0.0723,0.382,113.324,4,dance
+girl crush,little big town,50,2022,11qh54D0PKkBwelpDxxiEU,Pain Killer,70,193320,False,0.5,0.225,0,-10.22,1,0.0302,0.842,0.0,0.112,0.355,173.788,3,country
+girls chase boys,ingrid michaelson,33,2014,3tInTDUq8wdIMw5ftohmqJ,Lights Out,56,221413,False,0.518,0.828,8,-5.725,1,0.04,0.03,1.33e-05,0.0456,0.69,84.835,4,acoustic
+gives you hell,the all-american rejects,44,2009,1kVp5JBxCwO8o87YbKEd5f,De ese gran pop de los 00's,0,214306,False,0.725,0.675,4,-6.8,1,0.0368,0.0165,0.0,0.0537,0.595,99.979,4,punk-rock
+glad you came,the wanted,47,2012,5yDL13y5giogKs2fSNf7sj,Battleground (Deluxe Edition),79,197935,False,0.722,0.851,7,-3.873,0,0.0639,0.0319,0.0,0.108,0.452,126.885,4,rock
+glad you exist,dan + shay,26,2021,7oTUCpSwd2yVIUnzT5uaIv,Relaxing Pop,1,144760,False,0.741,0.499,11,-8.035,1,0.0356,0.23,0.0,0.125,0.692,103.96,4,country
+glimpse of us,joji,46,2022,6xGruZOHLs39ZbVccQTuPZ,Glimpse of Us,94,233456,False,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3,pop
+gloria,laura branigan,41,2023,1mskmld5ZKEhRaNvYVPoqZ,Branigan,65,289853,False,0.776,0.743,9,-6.807,1,0.0289,0.107,0.293,0.149,0.84,131.343,4,disco
+god is a woman,ariana grande,43,2018,5OCJzvD7sykQEKHH7qAC3C,Sweetener,80,197546,True,0.602,0.658,1,-5.934,1,0.0558,0.0233,6e-05,0.237,0.268,145.031,4,dance
+god only knows,the beach boys,5,2025,1Umw3vhysHBodpBFpFsVgK,50 Big Ones: Greatest Hits,50,175786,False,0.433,0.469,6,-9.853,0,0.032,0.156,0.0,0.0479,0.334,115.876,4,psych-rock
+god only knows,for king & country,16,2024,4ElNxglBjcrASiGn58t9Jm,Burn The Ships,65,229760,False,0.597,0.417,2,-7.952,1,0.0502,0.395,8.35e-06,0.128,0.263,143.839,4,alt-rock
+god's country,blake shelton,28,2023,6hES6A4ZOL8MzYpULEfsoZ,Single Saturday Night - Country Songs,0,204800,False,0.537,0.754,10,-5.102,1,0.0399,0.0586,4.8e-06,0.118,0.212,139.986,4,country
+god's gonna cut you down,marilyn manson,37,2019,0FkcmHJOsWE80rlpzfT0Pq,God's Gonna Cut You Down,57,160538,False,0.504,0.754,8,-5.182,1,0.0424,0.139,0.0,0.126,0.583,82.009,4,industrial
+god's plan,drake,37,2018,6DCZcSspjsKoFjzjrWoCdn,Scorpion,84,198973,True,0.754,0.449,7,-9.211,1,0.109,0.0332,8.29e-05,0.552,0.357,77.169,4,hip-hop
+gold,kiiara,38,2016,573MrPA4ZIFdJPLbPXKrCT,Gourmet Soul,0,225882,False,0.598,0.412,5,-9.328,0,0.333,0.623,0.00243,0.134,0.409,112.999,5,indie-pop
+golden hour,jvke,49,2023,5odlY52u43F5BjByhxg7wg,this is what ____ feels like (Vol. 1-4),81,209259,False,0.515,0.593,4,-4.801,1,0.0322,0.653,0.162,0.25,0.153,94.467,3,indie-pop
+gone away,five finger death punch,28,2017,73P5wYuZ1bsz0ZjsZiaSw2,And Justice for None (Deluxe),54,275212,False,0.502,0.738,10,-7.57,1,0.0406,0.000377,4.53e-05,0.132,0.3,106.047,4,groove
+gooba,6ix9ine,41,2020,1XdbvPWz4lhyRBMz9cBy8b,TattleTales,71,132303,True,0.611,0.688,1,-5.688,1,0.341,0.0264,0.0,0.251,0.393,178.462,4,emo
+good 4 u,olivia rodrigo,48,2022,4ZtFanR9U6ndgddUvNcjcG,SOUR,88,178146,True,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,4,pop
+good as hell,lizzo,47,2023,6TxaIPtuGZoVnHhCxKX1ij,New Pop Icons,0,159735,False,0.682,0.919,0,-3.18,0,0.0874,0.256,0.0,0.443,0.535,95.983,4,hip-hop
+good feeling,flo rida,45,2022,5MshZbukugLnrby4mHO7tW,Running Songs,1,248133,False,0.706,0.89,1,-4.447,0,0.0687,0.0588,0.00288,0.305,0.685,128.012,4,dance
+good time,niko moon,26,2021,2S8UMuLJ0z8agFgFGJ6Ztt,GOOD TIME,70,214720,False,0.802,0.59,5,-7.189,1,0.0493,0.0874,0.0,0.275,0.687,138.084,4,country
+good vibrations,the beach boys,18,2025,7tf64lNC31lWlTsih0nfZf,50 Big Ones: Greatest Hits,50,215826,False,0.371,0.424,10,-9.497,1,0.0411,0.332,4.95e-06,0.131,0.325,151.621,4,psych-rock
+goosebumps,travis scott,39,2020,6gBFPUFcJLzWGx4lenP6h2,Birds In The Trap Sing McKnight,84,243836,True,0.841,0.728,7,-3.37,1,0.0484,0.0847,0.0,0.149,0.43,130.049,4,hip-hop
+gotta be somebody,nickelback,50,2009,06T10fEzN8ZCcqzQZYA184,Dark Horse,64,252653,False,0.536,0.89,0,-5.222,1,0.0601,0.000354,0.00165,0.133,0.205,115.998,4,grunge
+grand,kane brown,21,2022,4WZ3liyYz5ZzDcL4ibAuOi,Grand,70,178973,False,0.583,0.856,6,-5.446,0,0.0445,0.00484,0.0,0.224,0.48,168.053,4,country
+graveyard,halsey,50,2020,2ufmtcIFdFpuUYBPXK5f67,Manic,69,181805,False,0.667,0.583,11,-5.127,0,0.0747,0.231,4.48e-05,0.181,0.187,92.043,4,electro
+growing old with you,restless road,40,2022,5n4kMW5dn7MHFhXQuJb9zG,Growing Old With You,65,196007,False,0.478,0.516,5,-7.276,1,0.0267,0.403,0.0,0.0823,0.376,80.09,4,country
+grrrls,lizzo,39,2022,1H27Qrf4EHkDvNQ61OuzZn,Hits à suivre 2022,0,121112,True,0.889,0.449,0,-7.63,1,0.293,0.0313,0.0,0.0581,0.911,137.941,4,hip-hop
+gucci gang,lil pump,41,2018,43ZyHQITOjhciSUUNPVRHc,Lil Pump,64,124055,True,0.936,0.523,5,-6.71,1,0.0597,0.239,0.0,0.117,0.699,119.889,4,emo
+h.o.l.y.,florida georgia line,48,2016,0BCy325UZyR9z0t0uxwn2N,Dig Your Roots,71,194186,False,0.523,0.666,7,-4.081,0,0.0327,0.401,0.0,0.0728,0.564,78.077,4,country
+habits (stay high),tove lo,44,2015,7HhGlOY35npbHi4RxiT4WQ,10's Music Grandi Successi,0,208000,False,0.688,0.719,5,-3.402,1,0.0354,0.0415,5.63e-05,0.0921,0.406,110.014,4,electro
+hail to the king,avenged sevenfold,39,2013,4SmpAA1iwwFw9hQ5FmYLuq,Metal,0,305906,False,0.58,0.916,3,-4.357,0,0.0387,0.000295,0.0255,0.126,0.68,118.002,4,alternative
+half of my heart,john mayer,48,2010,7hR5toSPEgwFZ78jfHdANM,Battle Studies,65,250373,False,0.681,0.593,5,-9.327,1,0.0251,0.435,0.000117,0.106,0.731,115.058,4,singer-songwriter
+hallelujah,jeff buckley,29,2016,3pRaLNL3b8x5uBOcsgvdqM,Grace,71,413826,False,0.324,0.136,0,-10.33,1,0.0318,0.931,0.00117,0.176,0.0831,97.256,3,singer-songwriter
+hallelujah,leonard cohen,12,2016,7yzbimr8WVyAtBX3Eg6UL9,Various Positions,64,277160,False,0.28,0.344,0,-12.577,1,0.0293,0.715,0.00642,0.133,0.232,171.143,3,folk
+halo / walking on sunshine,glee cast,48,2009,2RF6eSUY1uOWaQjIC4rAFb,"Glee: The Music, The Complete Season One",49,125013,False,0.243,0.91,9,-5.193,1,0.111,0.066,3.37e-06,0.137,0.252,193.95,4,club
+handclap,fitz and the tantrums,35,2017,4QBuC8RxPzFPHPryVdnF0m,All Out Alternative,0,193253,False,0.634,0.836,8,-3.004,1,0.0427,0.00609,0.000157,0.0828,0.715,139.957,4,alt-rock
+happier than ever,billie eilish,31,2022,1SWliBgqzayYYnvmxwbouX,Autumn Vibes 2022,0,298899,False,0.314,0.238,0,-8.802,1,0.0389,0.741,0.00193,0.128,0.303,72.535,3,pop
+hard skool,guns n' roses,21,2021,1Pvmzboyxwp1rOVYqwKIgU,Hard Skool,60,221892,False,0.364,0.974,11,-1.797,1,0.0699,7.11e-05,0.0899,0.176,0.525,166.053,4,hard-rock
+hardwired,metallica,39,2016,0QV3swr7L8MZr72lL2izV1,Hardwired…To Self-Destruct (Deluxe),63,189347,True,0.128,0.991,11,-3.289,1,0.0582,1.11e-05,0.00362,0.219,0.53,186.124,4,hard-rock
+harlem shake,baauer,44,2013,01XFgRZfZI7oBagNf1Loml,Harlem Shake,58,196664,False,0.452,0.794,0,-5.151,1,0.0483,0.0111,0.00182,0.416,0.282,137.825,4,electronic
+harleys in hawaii,katy perry,41,2019,5nCthAh3jt4xKuLJAifAaR,Harleys In Hawaii,73,185815,False,0.722,0.757,10,-6.207,0,0.132,0.185,6.32e-06,0.126,0.721,140.094,4,dance
+hate me,blue october,48,2006,2G46YgY00x0JN7ou4mupqr,Foiled For The Last Time,48,380053,True,0.458,0.684,4,-5.664,0,0.0335,0.506,0.0,0.0947,0.198,92.648,4,grunge
+hate u love u,olivia o'brien,50,2017,6ATgDc6e4sPn84hvJsAmPt,hate u love u,75,175466,False,0.407,0.416,6,-8.915,0,0.174,0.656,0.0,0.0981,0.246,176.947,4,electro
+have a nice day,bon jovi,46,2007,06Zz2l7cVTCTgCNDe1bnEF,Have A Nice Day,64,229106,False,0.5,0.899,4,-4.066,1,0.0736,4.84e-05,0.000198,0.0794,0.566,130.06,4,metal
+have it all,jason mraz,43,2018,7BXW1QCg56yzEBV8pW8pah,Know.,65,226106,False,0.643,0.638,1,-4.947,0,0.0407,0.204,0.0,0.0707,0.6,82.001,4,acoustic
+have you ever seen the rain,creedence clearwater revival,14,2023,6UmnCDi8DGVLqh7M2gltkq,Rock Workout 2023,1,160133,False,0.741,0.697,0,-7.03,1,0.0277,0.0665,2.35e-05,0.133,0.774,116.109,4,country
+heal the world,michael jackson,39,2009,7woW97CfcWaKtuC6W5BP2K,Dangerous,68,384306,False,0.545,0.485,9,-8.045,1,0.0485,0.537,1.8e-06,0.104,0.101,80.948,4,soul
+heart attack,demi lovato,47,2013,1V6gIisPpYqgFeWbMLI0bA,Demi,78,210840,False,0.504,0.785,8,-4.802,1,0.104,0.0738,0.0,0.239,0.502,173.968,4,dance
+heartache on the dance floor,jon pardi,47,2017,5VFKfahPr6qgucDOv7oMIh,Mientras hago aromaterapia,0,205200,False,0.596,0.833,9,-4.308,1,0.0474,0.0563,0.0,0.0866,0.618,115.997,4,country
+heartbeat,the fray,39,2012,2atYprr9JsQaLynGhrWhld,Scars & Stories,53,220693,False,0.458,0.821,9,-5.076,1,0.0334,0.000594,9.46e-05,0.161,0.323,144.46,4,piano
+heartbreak warfare,john mayer,48,2010,4gs07VlJST4bdxGbBsXVue,Battle Studies,65,269720,False,0.624,0.554,2,-8.113,1,0.0225,0.191,0.00131,0.299,0.311,97.031,4,singer-songwriter
+heat waves,glass animals,41,2022,6CDzDgIUqeDY5g8ujExx2f,Heat Waves,85,238805,False,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,4,indie-pop
+heathens,twenty one pilots,47,2017,6i0V12jOa3mr6uu4WYhUBr,Heathens,81,195920,False,0.732,0.396,4,-9.348,0,0.0286,0.0841,3.58e-05,0.105,0.548,90.024,4,rock
+heaven,avicii,37,2019,10P1Cy36hugYDFTZPCE9Bk,pov: it's 2019,0,277261,False,0.592,0.873,9,-5.65,1,0.0275,0.0723,0.00986,0.142,0.515,122.015,4,dance
+heaven,bryan adams,40,2021,7Ewz6bJ97vUqk5HdkvguFQ,Reckless (30th Anniversary / Deluxe Edition),77,243360,False,0.382,0.589,9,-7.315,0,0.0267,0.0465,0.0,0.122,0.335,140.059,4,rock
+heaven,julia michaels,45,2018,1T575AhHueYinKSDflEsGK,Fifty Shades Freed (Original Motion Picture Soundtrack),69,191786,False,0.552,0.371,7,-9.104,0,0.0359,0.857,0.0,0.0838,0.245,199.843,3,dance
+heaven,kane brown,46,2018,1HXy5I3HTWq8OvxCn0z7G7,Kane Brown (Deluxe Edition),73,179506,False,0.677,0.556,9,-6.544,1,0.0306,0.263,0.0,0.105,0.521,80.006,4,country
+hello,adele,35,2021,1Yk0cQdMLx5RzzFTYwmuld,25,74,295502,False,0.578,0.43,5,-6.134,0,0.0305,0.33,0.0,0.0854,0.288,78.991,4,british
+hello it's me,todd rundgren,29,2021,2ckXnzyvgva2oE9FWjb405,The Very Best of Todd Rundgren,55,264093,False,0.578,0.848,5,-6.842,1,0.0261,0.0563,0.00426,0.0963,0.779,87.246,4,power-pop
+here comes the hotstepper,ini kamoze,23,2024,4vfzROmNsxedKICcHod5Rh,On Your 90's Radio,58,244813,False,0.852,0.537,7,-7.424,1,0.114,0.0328,0.000248,0.229,0.483,100.369,4,dub
+here without you,3 doors down,28,2023,2Lkn3Of9JHY6RSA8c3omKT,Обратно в клас - rock,0,238560,False,0.556,0.545,10,-6.768,0,0.0255,0.0635,0.0,0.124,0.193,143.991,4,alt-rock
+hey brother,avicii,38,2018,4lhqb6JvbHId48OUJGwymk,True,77,255093,False,0.545,0.78,7,-4.867,0,0.0436,0.0309,4.64e-05,0.0828,0.458,125.014,4,edm
+hey jude,the beatles,41,2010,1eT2CjXwFXNx6oY5ydvzKU,Love,66,238854,False,0.462,0.632,5,-7.438,1,0.0248,0.091,0.0,0.397,0.585,74.268,4,british
+hey there delilah,plain white t's,12,2023,4RCWB3V8V0dignt99LZ8vH,All That We Needed,80,232533,False,0.656,0.291,2,-10.572,1,0.0293,0.872,0.0,0.114,0.298,103.971,4,rock
+hey you,disturbed,40,2022,6buVxRwPapLwrXwIsTiSfm,Metal,0,268481,False,0.5,0.982,1,-3.496,1,0.0727,4.72e-05,4.28e-05,0.0447,0.507,103.033,4,alternative
+high hopes,panic! at the disco,49,2023,1rqqCSm0Qe4I9rUvWncaom,Pray for the Wicked,81,190946,False,0.579,0.904,5,-2.729,1,0.0618,0.193,0.0,0.064,0.681,82.014,4,rock
+higher,creed,25,2023,1ZozJfi8u9cO2Ob8KwiwNT,Human Clay,71,316733,False,0.459,0.83,2,-6.254,1,0.0364,5.15e-05,0.00014,0.206,0.431,155.827,4,grunge
+higher power,coldplay,45,2021,0Cr69H8rDTrwIkJV27sUYj,20's Rock,0,211294,False,0.507,0.828,10,-6.023,1,0.0449,0.00711,2.44e-05,0.261,0.489,178.032,4,pop
+highest in the room,travis scott,36,2020,3eekarcy7kvN4yt5ZFzltW,HIGHEST IN THE ROOM,82,175720,True,0.598,0.427,7,-8.764,0,0.0317,0.0546,5.83e-06,0.21,0.0605,76.469,4,hip-hop
+highway to hell,ac/dc,31,2012,2zYzyRzz6pRmhPzyfMEC8s,Highway to Hell,85,208400,False,0.574,0.913,6,-4.793,0,0.133,0.061,0.00158,0.156,0.423,115.728,4,hard-rock
+ho hey,the lumineers,46,2022,1K3LRUEcUz5FMtPYyg0F45,The Lumineers (Deluxe Edition),79,163133,False,0.682,0.471,0,-9.182,1,0.0301,0.765,0.0,0.0908,0.421,79.907,4,folk
+hold my hand,jess glynne,32,2020,10QPusaFcN11jk1mHrHrAc,Running Songs,1,227343,False,0.65,0.823,0,-5.717,1,0.0289,0.00159,0.0,0.0776,0.432,123.018,4,house
+hold on,adele,15,2021,6bGMSP3H9YqkmaLnaJTIoF,30,68,366004,False,0.366,0.364,0,-7.814,1,0.0433,0.858,1.15e-05,0.165,0.459,165.902,4,british
+hold on,justin bieber,48,2021,1gMnyo0OUAL6HDJ39lyVwU,Autumn Vibes 2022,0,170813,False,0.658,0.634,1,-5.797,0,0.0413,0.0106,0.0,0.132,0.29,139.98,4,pop
+holiday,green day,42,2006,5vfjUAhefN7IjHbTvVCT4Z,Holiday,71,233026,False,0.538,0.884,8,-3.251,1,0.031,0.000138,0.0,0.466,0.736,146.511,4,punk
+home,bts,19,2025,6Yc3tjFCVR2bfAQFRTZBef,MAP OF THE SOUL : PERSONA,74,234177,False,0.633,0.799,7,-4.625,0,0.0427,0.0144,0.0,0.194,0.534,142.991,4,k-pop
+home,daughtry,47,2007,6aKfcKMefIPVzclCG6QSHX,Daughtry,54,255666,False,0.442,0.85,6,-3.888,1,0.0362,0.002,1.93e-06,0.198,0.338,143.981,4,grunge
+home,edward sharpe & the magnetic zeros,43,2022,0cBPuDA3xUjR4Vh9o7CKy8,Up From Below,73,306320,False,0.541,0.591,2,-6.688,1,0.0336,0.289,0.000431,0.124,0.116,111.676,4,folk
+home,phillip phillips,48,2013,1J6bub4kiTe4h0RCo9IszE,The World From The Side Of The Moon,60,210173,False,0.606,0.826,0,-6.04,1,0.0307,0.0256,1.56e-05,0.117,0.322,121.04,4,folk
+honky tonk badonkadonk,trace adkins,48,2006,3hNGMcAUI003T6reBA4aW7,Tailgate Country,0,241133,False,0.643,0.919,2,-3.487,1,0.0551,0.338,0.0,0.0555,0.823,114.983,4,country
+hot girl bummer,blackbear,38,2020,6jRq8gaZhMUyy5RclRPcAf,everything means nothing,80,188343,True,0.782,0.559,6,-7.106,0,0.0767,0.125,0.0,0.385,0.685,129.992,1,electro
+how far i'll go,auli'i cravalho,48,2017,1ERshJBUZysordGDZr5B3t,Moana (Original Motion Picture Soundtrack/Deluxe Edition),49,163386,False,0.571,0.307,1,-10.958,0,0.0499,0.649,0.0,0.178,0.108,83.72,4,disney
+how far we've come,matchbox twenty,42,2008,1EHh1fC9FCKw31wotfXx7L,How Far We've Come,58,212253,False,0.566,0.905,0,-5.093,1,0.0646,0.0045,0.0,0.21,0.792,83.0,4,grunge
+how long,charlie puth,42,2018,6wmAHw1szh5RCKSRjiXhPe,Voicenotes,73,200853,False,0.845,0.561,1,-5.253,0,0.0778,0.211,3.49e-06,0.0383,0.811,109.974,4,dance
+how to save a life,the fray,43,2007,5fVZC9GiM4e8vu99W0Xf6J,How To Save A Life,80,262533,False,0.64,0.743,10,-4.08,1,0.0379,0.269,0.0,0.101,0.361,122.035,4,piano
+how would you feel (paean),ed sheeran,7,2017,4JWlQ6skcm0SuztTiapWeo,Coffee Moment,0,280533,False,0.618,0.439,9,-5.63,1,0.0269,0.424,0.0,0.127,0.242,139.983,4,pop
+how you like that,blackpink,2,2020,6bvZRLLkBKkmgpBJTTj3QK,THE ALBUM,75,180956,False,0.813,0.787,11,-4.254,1,0.0777,0.0452,0.000107,0.0506,0.326,130.018,4,k-pop
+how you remind me,nickelback,49,2023,0gmbgwZ8iqyMPmXefof8Yf,Silver Side Up,80,223840,False,0.446,0.764,10,-5.042,1,0.033,0.00135,0.0,0.099,0.543,172.094,4,alt-rock
+human,cody johnson,23,2023,42Do6gNxZctRhhWKw55RJ5,New Country,2,221520,False,0.4,0.647,2,-7.279,1,0.0337,0.176,5.79e-05,0.11,0.274,84.08,4,country
+human,rag'n'bone man,45,2023,58zsLZPvfflaiIbNWoA22O,Human (Deluxe),78,200186,False,0.602,0.707,9,-4.097,1,0.302,0.393,0.0,0.165,0.554,75.087,4,soul
+human,the killers,45,2009,1sTsuZTdANkiFd7T34H3nb,Day & Age (Bonus Tracks),75,245373,False,0.557,0.8,10,-8.477,1,0.0601,0.00132,0.0012,0.0906,0.582,135.47,4,alt-rock
+human nature,michael jackson,21,2009,35lAjvsvS9k9HHuP1fjDT8,Thriller 25 Super Deluxe Edition,66,245560,False,0.638,0.511,2,-10.041,1,0.0289,0.541,0.00478,0.26,0.68,93.108,4,soul
+humble.,kendrick lamar,13,2025,7KXjTSCq5nL1LoYtL7XAwS,DAMN.,84,177000,True,0.908,0.621,1,-6.638,0,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,4,hip-hop
+hungry eyes,eric carmen,13,2024,3sTSo8X7UCDTVUVMJ63LJO,Dirty Dancing: Anniversary Edition,56,247320,False,0.719,0.634,5,-7.331,1,0.0255,0.0186,0.0,0.108,0.591,110.597,4,disco
+hurt,johnny cash,49,2005,28cnXtME493VX9NOw9cIUh,American IV: The Man Comes Around,74,216533,False,0.534,0.392,9,-7.636,0,0.0267,0.649,0.000227,0.0948,0.163,90.379,4,country
+hymn for the weekend,coldplay,48,2016,3RiPr603aXAoi4GHyXx0uy,A Head Full of Dreams,85,258266,False,0.491,0.693,0,-6.487,0,0.0377,0.211,6.92e-06,0.325,0.412,90.027,4,pop
+hypnotize,system of a down,44,2005,6oO7WMjD6kEvCITLbVj0mu,Hypnotize,69,189440,False,0.274,0.92,6,-4.096,1,0.0489,0.0303,0.000412,0.115,0.0397,154.016,4,metal
+hypnotize,the notorious b.i.g.,19,2023,6Pzm6HXxN0cwfCWM7kngXL,Rap Homage,0,230000,True,0.895,0.694,9,-4.384,1,0.275,0.176,0.0,0.292,0.632,93.94,4,hardcore
+i ain't worried,onerepublic,50,2023,4h9wh7iOZ0GGn8QVp4RAOB,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",96,148485,False,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,4,piano
+i don't care,fall out boy,50,2009,26VG1uCazw9xtVnq8A1vtd,Folie à Deux,64,214493,False,0.55,0.938,11,-3.556,0,0.0522,0.00171,2.18e-05,0.555,0.433,133.99,4,emo
+i dreamed a dream,susan boyle,33,2009,6umBxaxgV2q52o3Q8wH2Ma,I Dreamed A Dream,52,190560,False,0.286,0.378,10,-8.752,1,0.0382,0.803,0.000518,0.107,0.113,69.316,4,opera
+i drink wine,adele,13,2021,6v0UJD4a2FtleHeSYVX02A,30,75,376169,False,0.437,0.565,10,-5.596,1,0.0466,0.697,0.0,0.119,0.306,115.389,4,british
+i feel pretty / unpretty,glee cast,13,2011,2kXnOV5df9njPkGKOiYDfr,"Glee: The Music, Volume 6",51,239373,False,0.343,0.484,0,-8.173,0,0.0361,0.112,0.0,0.125,0.336,75.46,4,club
+i guess i just feel like,john mayer,8,2019,4Im6GRj17qa7NW76OsJh1s,Sob Rock,70,286386,False,0.548,0.483,4,-9.102,1,0.0268,0.515,0.0674,0.0922,0.166,159.952,4,singer-songwriter
+i guess i'm in love,clinton kane,48,2021,1is8gU4RVcN4J8xItxWoOY,I GUESS I'M IN LOVE,77,204093,False,0.422,0.34,0,-6.577,1,0.0351,0.877,1.77e-05,0.149,0.223,77.213,4,singer-songwriter
+i kissed a girl,glee cast,43,2011,3MLWx8r8WhUAn0WDCtiBFy,Glee LGBTQIA+ Pride,49,179946,False,0.687,0.756,9,-3.601,0,0.0596,0.00335,0.0,0.0663,0.623,130.043,4,club
+i kissed a girl,katy perry,45,2009,5kihSsgmpiecsJjjKI80QR,Workout Hits 2023,3,209866,False,0.824,0.682,9,-4.624,0,0.145,0.00126,0.204,0.0503,0.39,130.026,4,dance
+i like me better,lauv,30,2018,2P91MQbaiQOfbiz9VqhqKQ,I met you when I was 18. (the playlist),83,197436,False,0.752,0.505,9,-7.621,1,0.253,0.535,2.55e-06,0.104,0.419,91.97,4,dance
+i lived,onerepublic,45,2015,3IQF4xCQUPicbA4hWfTxPo,Native,71,234546,False,0.593,0.851,9,-5.456,1,0.0446,0.0683,0.0,0.271,0.344,119.987,4,piano
+i love my country,florida georgia line,37,2020,3ph79KYuJ2bndNPA2c1tRH,Country USA,0,185466,False,0.525,0.94,4,-3.546,1,0.065,0.0283,0.0,0.236,0.636,140.093,4,country
+i miss you,adele,37,2015,6NdG17SJBXKJeYS67f7E74,25,60,348625,False,0.382,0.578,5,-4.246,1,0.047,0.00982,1.44e-05,0.433,0.156,113.072,4,british
+i really like you,carly rae jepsen,49,2015,2hHLbkatPwOOmrNxTiD41L,Emotion (Deluxe Expanded Edition),70,204763,False,0.62,0.805,5,-5.538,1,0.0417,0.00564,9.15e-05,0.285,0.586,122.062,4,electro
+i say a little prayer,aretha franklin,15,2018,3NfxSdJnVdon1axzloJgba,Aretha Now,75,216773,False,0.592,0.355,9,-14.051,1,0.0352,0.478,0.0,0.0585,0.499,133.032,4,blues
+i see red,everybody loves an outlaw,40,2022,5MAK1nd8R6PWnle1Q1WJvh,I See Red,77,230613,False,0.509,0.448,4,-7.552,0,0.0357,0.00713,0.0137,0.244,0.221,156.909,3,blues
+i should probably go to bed,dan + shay,50,2020,5ovVcYo2MvjVydFwFyaaqy,I Should Probably Go To Bed,67,171826,False,0.721,0.277,1,-7.128,1,0.0365,0.634,0.0,0.112,0.309,131.935,4,country
+i want to hold your hand,glee cast,15,2010,4hElemKogZAQkyalmaMu9f,Glee The 3D Concert Movie (Motion Picture Soundtrack),17,188173,False,0.241,0.552,7,-8.352,1,0.032,0.564,0.211,0.892,0.068,77.939,4,club
+i will not bow,breaking benjamin,35,2009,1ZFm5SAlmVzufSu1CYWiBN,Shallow Bay: The Best Of Breaking Benjamin (Explicit),41,216600,False,0.538,0.953,8,-3.685,1,0.0562,0.000169,5.49e-06,0.365,0.646,107.983,4,grunge
+i will survive,gloria gaynor,38,2021,1MrcbZai6wumuSm6JJ6BUA,Disco Boogie Mood,0,296106,False,0.77,0.775,9,-9.571,0,0.0495,0.0227,0.0025,0.297,0.8,116.917,4,disco
+i will wait,mumford & sons,45,2013,5PRRthP9SLfbXB359MfIWv,Babel (Deluxe Version),71,276720,False,0.486,0.769,1,-5.14,1,0.0341,0.0119,0.00832,0.197,0.393,131.286,4,folk
+i won't back down,tom petty,45,2021,0Jy4ifTBtXaLNct9rhzy31,Fishing Music,1,175373,False,0.765,0.63,7,-9.751,1,0.0304,0.0467,3.06e-05,0.223,0.963,113.967,4,rock
+i won't give up,jason mraz,33,2012,5ivF4eQBqJiVL5IAE9jRyl,Love Is a Four Letter Word,69,240165,False,0.483,0.303,4,-10.058,1,0.0429,0.694,0.0,0.115,0.139,133.406,3,acoustic
+i won't let go,rascal flatts,50,2011,2KBudV1Lf6ZDIS9hi60Lc5,Nothing Like This,52,227760,False,0.557,0.406,4,-7.083,1,0.0278,0.742,0.0,0.113,0.222,131.96,4,country
+i would like,zara larsson,48,2016,4Q4jmPHwu0wrJvqrld0FQ6,So Good,58,226720,False,0.486,0.713,2,-3.949,0,0.0524,0.0853,0.0,0.0839,0.297,121.028,4,swedish
+i write sins not tragedies,panic! at the disco,49,2006,4q03M26EkNeEquxx8iieyS,Timeless Rock Hits,3,187613,False,0.565,0.792,9,-4.983,0,0.132,0.0913,0.0,0.114,0.639,170.076,4,rock
+i'd come for you,nickelback,48,2008,1xQZtbipNLyP0e0hihE5F5,Dark Horse,58,262626,False,0.489,0.748,2,-5.488,1,0.0311,0.033,0.0,0.144,0.385,147.998,4,grunge
+i'm a mess,bebe rexha,50,2018,04ZTP5KsCypmtCmQg5tH9R,Expectations,74,195519,False,0.63,0.694,11,-6.257,0,0.0253,0.00281,0.0,0.0719,0.216,97.005,4,dance
+i'm a slave 4 u,glee cast,22,2010,6cJYecL5EcPoRROOHBxtX5,Glee The 3D Concert Movie (Motion Picture Soundtrack),20,203586,False,0.778,0.839,7,-7.795,1,0.0944,0.0852,0.000133,0.396,0.535,110.005,4,club
+i'm fine,bts,15,2018,7HYJqAMbKDJYRyEfUGOCBB,Love Yourself 結 'Answer',68,240339,False,0.511,0.84,11,-2.781,0,0.103,0.00852,0.0,0.346,0.303,87.605,4,k-pop
+i'm in love with you,the 1975,32,2023,0uBdQzKghx88d2Lp8SLFKJ,I'm In Love With You,78,262623,True,0.668,0.902,2,-3.924,1,0.0386,0.169,8.74e-05,0.198,0.913,119.008,4,alt-rock
+i'm not okay (i promise),my chemical romance,50,2005,7lRlq939cDG4SzWOF4VAnd,Three Cheers for Sweet Revenge,77,186480,True,0.21,0.94,9,-3.427,1,0.123,0.00602,0.0,0.269,0.255,179.722,4,emo
+i'm not the only one,sam smith,43,2015,0zhGFpuiYroEopRgqD04F5,TickTok Back To School 2022,1,239426,False,0.684,0.487,5,-5.887,1,0.0367,0.495,4.57e-06,0.0821,0.456,81.997,4,dance
+i'm shipping up to boston,dropkick murphys,45,2007,7rSERmjAT38lC5QhJ8hnQc,The Warrior's Code,70,153600,False,0.452,0.928,2,-3.133,1,0.079,0.000706,0.000637,0.226,0.6,129.188,4,punk-rock
+i'm yours,jason mraz,34,2009,1EzrEOXmMH3G43AXT1y7pA,We Sing. We Dance. We Steal Things.,80,242946,False,0.703,0.444,11,-9.331,1,0.0417,0.559,0.0,0.0973,0.712,150.96,4,acoustic
+idgaf,dua lipa,47,2018,76cy1WJvNGJTj78UqeA5zr,Dua Lipa (Deluxe),80,217946,True,0.836,0.544,7,-5.975,1,0.0943,0.0403,0.0,0.0824,0.51,97.028,4,dance
+iou,five finger death punch,41,2022,3nqpRRpUhwfo6BqibVqeuj,IOU,56,267290,True,0.526,0.986,11,-5.094,1,0.0893,0.000145,0.0132,0.111,0.293,136.063,4,groove
+icky thump,the white stripes,47,2007,2LMq1O0NiqGhPOlXo3McYQ,Icky Thump,67,254533,False,0.417,0.63,9,-7.24,1,0.0898,0.0209,0.0134,0.0543,0.341,94.214,4,blues
+if everyone cared,nickelback,45,2007,4QYV42XR08VCKSkBOjnlUe,All the Right Reasons (Walmart Exclusive Edition),55,218013,False,0.519,0.85,6,-4.678,0,0.0354,0.000246,0.014,0.279,0.211,132.022,4,grunge
+if i ain't got you,alicia keys,49,2016,3XVBdLihbNbxUwZosxcGuJ,The Diary Of Alicia Keys,80,228706,False,0.609,0.444,7,-9.129,1,0.106,0.603,6.86e-06,0.104,0.166,118.402,3,soul
+if i can't have you,shawn mendes,34,2019,66jmLylzWJ684t7cOGcmdk,pov: it's 2019,0,190800,False,0.69,0.809,2,-4.198,1,0.0603,0.524,0.0,0.147,0.864,123.912,4,dance
+if i die young,the band perry,40,2012,4aY0tZIaboefmkBEsjAovI,The Band Perry,65,222773,False,0.606,0.497,4,-6.611,1,0.0277,0.348,0.0,0.275,0.362,130.739,4,country
+if i lose myself,onerepublic,26,2013,5xS9R5yNeVsB9shSR60eX3,Native,61,241653,False,0.491,0.688,2,-6.05,1,0.0453,0.0849,0.0,0.111,0.279,140.072,4,piano
+if today was your last day,nickelback,46,2009,4QJLKU75Rg4558f4LbDBRi,Dark Horse,68,249066,False,0.485,0.911,3,-5.749,1,0.0355,8.67e-05,0.0,0.092,0.568,89.956,4,grunge
+imagine,ben platt,36,2021,5FaYzdpM04uxYklFb5pW9b,US Pop 20s,0,164202,False,0.542,0.412,1,-6.822,1,0.0411,0.0421,2.03e-06,0.0884,0.284,130.203,5,show-tunes
+immortals,fall out boy,45,2015,3c1ItvzDDDpmDgLH9SIUp4,Big Hero 6 (Original Motion Picture Soundtrack),65,195026,False,0.703,0.856,11,-6.336,0,0.0461,0.00064,0.00126,0.38,0.722,108.025,4,emo
+in case you didn't know,brett young,47,2018,10M2Ex445zw585Ducldzkw,Brett Young,75,224853,False,0.607,0.536,10,-7.306,1,0.0305,0.386,0.0,0.102,0.434,147.986,4,country
+in da club,50 cent,29,2022,7iL6o9tox1zgHpKUfh9vuC,Get Rich Or Die Tryin',83,193466,True,0.899,0.713,6,-2.752,0,0.366,0.255,0.0,0.0708,0.777,90.051,4,hip-hop
+in my blood,shawn mendes,40,2019,1S8p6YMo8zaxRXlx1XzzgZ,Concierto en la ducha,0,211360,False,0.622,0.711,5,-7.321,1,0.0665,0.0573,0.0,0.13,0.487,140.016,4,dance
+in the end,linkin park,9,2023,60a0Rd6pjrkxjPbaKzXjfq,Hybrid Theory (Bonus Edition),85,216880,False,0.556,0.864,3,-5.87,0,0.0584,0.00958,0.0,0.209,0.4,105.143,4,alternative
+indestructible,disturbed,35,2008,42ZVk59gT4tMlrZmd8Ijxf,Indestructible (Deluxe Edition),69,278026,False,0.429,0.966,8,-4.605,1,0.0733,0.000209,0.124,0.371,0.525,179.956,4,metal
+infinity,jaymes young,38,2022,1SOClUWhOi8vHZYMz3GluK,Feel Something,85,237720,False,0.671,0.673,11,-6.941,0,0.0444,0.148,5.29e-05,0.304,0.494,121.963,4,pop
+inner child,bts,11,2021,25MHcbjvSdcfTiFgbKJiZF,MAP OF THE SOUL : 7,70,233265,False,0.589,0.696,11,-7.981,1,0.0725,0.017,0.0,0.0808,0.33,134.953,4,k-pop
+inside out,five finger death punch,39,2019,163Kb2pSLLduhfbO6Zn0sL,F8,63,226348,True,0.476,0.991,4,-2.855,0,0.15,0.00191,0.0,0.121,0.202,82.997,4,groove
+interlude : shadow,bts,19,2020,7om4LRoSct9hiMPo0fPn7m,MAP OF THE SOUL : 7,67,259821,False,0.384,0.798,9,-6.439,0,0.434,0.115,0.0,0.181,0.146,149.854,4,k-pop
+into you,ariana grande,35,2016,76FZM38RC8XaAjJ77CVTNe,Dangerous Woman,76,244453,False,0.623,0.734,9,-5.95,1,0.107,0.0162,1.9e-06,0.145,0.372,107.853,4,dance
+irresistible,fall out boy,26,2016,3znPiywA0q1VK2jgAZFDoI,American Beauty/American Psycho,63,206506,False,0.484,0.938,2,-3.123,1,0.112,0.0706,0.0,0.236,0.444,165.049,4,emo
+island in the sun,weezer,43,2022,7cEZSmCRCiOU1nsCuAtx0F,Mirando las nubes,1,200053,False,0.654,0.794,4,-6.288,0,0.0284,0.00769,0.00134,0.165,0.678,114.62,4,alt-rock
+issues,julia michaels,44,2017,2R789qQ3WNexbwgJpWReY1,Concierto en la ducha,0,176346,False,0.722,0.417,8,-6.825,1,0.0618,0.39,0.0,0.0612,0.451,113.965,4,electro
+it ends tonight,the all-american rejects,42,2007,5ZqNz8GXWpkb95f7aVxTA0,Move Along,58,244826,False,0.454,0.631,0,-4.733,1,0.0268,0.00233,0.0,0.177,0.313,87.888,4,punk-rock
+it girl,jason derulo,47,2012,5itzMvVywRJScC9DUyHpzZ,Good Enough - Easy Pop,0,192200,False,0.667,0.718,1,-4.736,0,0.0605,0.0165,0.0,0.104,0.345,91.993,4,dance
+it was a good day,ice cube,37,2021,2qOm7ukLyHUXWyR4ZWLwxA,The Predator,82,260000,True,0.798,0.744,7,-5.328,0,0.136,0.33,0.000106,0.292,0.794,82.356,4,funk
+it will rain,bruno mars,48,2012,1COGvQEAtPxisowBQjZyZ1,Music for Rainy Days,0,257720,False,0.572,0.835,2,-6.826,1,0.0516,0.337,0.0,0.082,0.468,150.014,4,dance
+it's been awhile,staind,50,2021,1BExV8JprNJLvLeDE9qdEW,Break the Cycle,65,264706,True,0.509,0.774,6,-4.054,1,0.0338,0.00189,0.000549,0.143,0.0824,116.529,4,grunge
+it's my life / confessions part ii,glee cast,38,2009,1NdBLNUZSEpBEITAt08ZmM,"Glee: The Music, The Complete Season One",47,111333,False,0.587,0.882,11,-3.794,0,0.0487,0.0385,0.0,0.32,0.707,131.008,4,club
+it's not my time,3 doors down,46,2008,3DelzIn0lPwX4PeOJk9zDF,3 Doors Down,59,241960,False,0.529,0.934,0,-4.808,1,0.0602,0.00153,5.16e-06,0.118,0.282,127.962,4,grunge
+it's not over,daughtry,42,2007,1UKp5X9cPp9vMnTb39nnvg,Daughtry,52,215026,False,0.426,0.92,10,-3.243,0,0.0598,0.0559,0.0,0.245,0.296,145.946,4,grunge
+it's the end of the world as we know it (and i feel fine),r.e.m.,22,2020,4OtSo1ZTQWRWE53ZvBfBTV,90's Music Grandi Successi,0,246933,False,0.381,0.894,7,-8.638,1,0.037,0.0258,0.0,0.0251,0.797,205.528,4,alt-rock
+it's time,imagine dragons,43,2013,7MXlTgQeo3IVlMpLnZuhxc,Night Visions,72,240306,False,0.656,0.884,2,-4.748,1,0.0372,0.0162,0.0,0.144,0.86,105.009,4,rock
+jamais vu,bts,48,2020,7cgWWkpUaS94xoWI8lMGiI,MAP OF THE SOUL : PERSONA,67,227275,False,0.608,0.47,8,-6.73,1,0.0428,0.226,0.0,0.0963,0.241,81.0,4,k-pop
+jar of hearts,christina perri,37,2011,50nSJ4OU2clW8rUnVDEKrC,Music for Rainy Days,0,246587,False,0.373,0.348,3,-6.142,1,0.0314,0.728,0.0,0.12,0.0899,74.885,4,rock
+jar of hearts,glee cast,28,2011,3GHjSHDeB2Qy5BwGuNAIgD,"Glee: The Music, The Complete Season Two",44,246146,False,0.277,0.402,5,-5.964,1,0.031,0.856,0.0,0.469,0.16,74.193,4,club
+jerk it out,caesars,41,2005,1bx7OUl2UmAnA5oZkm9If7,Jerk It Out,63,195666,False,0.58,0.981,8,-2.603,0,0.06,0.0171,1.07e-05,0.386,0.861,134.007,4,swedish
+jocelyn flores,xxxtentacion,46,2018,7m9OqQk4RVRkw9JJdeAw96,17,84,119133,True,0.872,0.391,0,-9.144,0,0.242,0.469,4.13e-06,0.297,0.437,134.021,4,emo
+john deere green,joe diffie,13,2020,6m3GKOLADaMvOT6iwT5FZ4,16 Biggest Hits,45,271960,False,0.701,0.805,2,-5.584,1,0.0272,0.106,0.0,0.0581,0.696,130.406,4,country
+judas,lady gaga,27,2011,5gwBjRbZSNUk4TJirNvGfG,Pop & Halloween,10,249066,False,0.661,0.937,10,-3.83,0,0.0744,0.000967,1.58e-05,0.355,0.535,130.999,4,dance
+just a friend,biz markie,18,2021,12l3ldyObMURwsZBioibl5,The Hip Hop Collection,0,238266,False,0.866,0.663,0,-9.001,1,0.206,0.119,0.0,0.318,0.83,85.298,4,hardcore
+just fine,mary j. blige,50,2008,31ABvuxKqaBwX7XSHCyaHQ,Autumn Vibes 2022,0,242133,False,0.923,0.795,11,-3.61,0,0.117,0.0394,0.000599,0.101,0.587,123.021,4,soul
+just pretend,bad omens,45,2023,3zb8S65LhiPPPH4vov8yV2,THE DEATH OF PEACE OF MIND,71,204676,False,0.449,0.831,5,-4.668,0,0.0835,0.00257,0.00119,0.0998,0.211,140.091,4,metalcore
+just the way you are,bruno mars,44,2022,7BqBn9nzAq8spo5e7cZ0dJ,Doo-Wops & Hooligans,82,220734,False,0.635,0.841,5,-5.379,1,0.0422,0.0134,0.0,0.0622,0.424,109.021,4,dance
+just the way you are,glee cast,19,2010,3LRcDiWeIFSXmBZtyv7sJ4,"Glee: The Music, Volume 4",43,216093,False,0.606,0.719,8,-6.77,1,0.039,0.00864,0.0,0.0765,0.366,108.985,4,club
+justified,kacey musgraves,35,2021,71lFFVaT9SLEnOAYjQSPsc,Autumn Vibes 2022,0,180800,False,0.669,0.552,0,-7.98,1,0.0587,0.807,0.000874,0.321,0.488,100.102,4,country
+kids,onerepublic,34,2016,5mQNY6pTeSDl2doFB7uLbE,Oh My My,61,238386,False,0.596,0.732,2,-6.189,1,0.0401,0.0153,0.0,0.318,0.228,99.98,4,piano
+kill this love,blackpink,39,2019,5GK7eDDTVz7CTge1wJrDQW,Kill This Love,71,189052,False,0.738,0.861,2,-4.141,1,0.237,0.318,0.00182,0.325,0.58,131.98,4,k-pop
+killing me softly with his song,roberta flack,4,2025,3gsCAGsWr6pUm1Vy7CPPob,Killing Me Softly,72,286920,False,0.476,0.381,5,-10.238,0,0.0342,0.727,0.0,0.0614,0.33,121.948,4,disco
+kills you slowly,the chainsmokers,31,2019,2PgMUAn2bBpm8gz6yAXvVL,World War Joy,53,213320,True,0.696,0.439,1,-8.77,0,0.055,0.0636,0.0,0.127,0.229,149.923,4,edm
+king of anything,sara bareilles,46,2010,3VA8T3rNy5V24AXxNK5u9E,Kaleidoscope Heart,61,207493,False,0.676,0.762,1,-4.172,1,0.0351,0.461,0.0,0.0574,0.81,119.003,4,acoustic
+kings & queens,ava max,38,2023,7a53HqqArd4b9NF4XAmlbI,Heaven & Hell,81,162398,False,0.637,0.69,1,-4.057,0,0.0405,0.00786,0.0,0.124,0.457,129.857,4,dance
+kings and queens,thirty seconds to mars,37,2010,4sjLcE0GQ6urc4iUXsUPe9,This Is War,63,347666,False,0.293,0.817,8,-5.432,1,0.0852,0.0401,3.4e-05,0.13,0.145,165.0,4,grunge
+kiss from a rose,seal,16,2023,3YKptz29AsOlm7WAVnztBh,Seal,74,288426,False,0.584,0.533,10,-7.11,0,0.0305,0.684,0.0,0.306,0.224,131.745,3,british
+kiss the go-goat,ghost,42,2019,56k2ztFw7hQRzDeoe80pJo,Seven Inches Of Satanic Panic,71,195693,False,0.469,0.851,10,-4.147,1,0.0547,0.000213,7.86e-06,0.154,0.549,130.053,4,hard-rock
+know your enemy,green day,43,2009,3gBiC50QtRYGuo9pL4fQfI,21st Century Breakdown,44,191786,False,0.559,0.955,4,-3.924,1,0.0412,0.00237,7.06e-05,0.0566,0.957,129.98,4,punk
+knowing you,kenny chesney,42,2021,1ERoFNNh3shILiAOFWjlgg,Easy Country,0,226266,False,0.568,0.562,7,-6.12,1,0.0258,0.23,3.41e-06,0.119,0.178,125.981,3,country
+kryptonite,3 doors down,12,2023,5ugV3rhvi2h6l52e1cIfLw,Fishing Music,0,234626,False,0.544,0.848,11,-6.804,0,0.0288,0.00395,5.22e-05,0.134,0.489,99.039,4,alt-rock
+lalisa,lisa,6,2021,2KZ3sNqPogEyMUUH6A5HFy,LALISA,73,200689,False,0.804,0.652,8,-6.282,1,0.0898,0.0267,0.000782,0.118,0.854,150.076,4,k-pop
+last christmas,glee cast,35,2010,0fUFpFczhuhJBz2Z28IL2x,"Glee: The Music, The Christmas Album",45,216626,False,0.631,0.757,5,-6.005,1,0.0254,0.00703,0.0,0.348,0.649,106.885,4,club
+last christmas,wham!,2,2025,2FRnf9qhLbvw8fu4IBXx78,LAST CHRISTMAS,74,262960,False,0.735,0.478,2,-12.472,1,0.0293,0.189,2.48e-06,0.355,0.947,107.682,4,disco
+last friday night (t.g.i.f.),katy perry,49,2011,3kxjFpTR85S7ktQMluiRSD,Almorzando solo,0,230720,False,0.65,0.817,3,-3.826,0,0.0441,0.00124,1.14e-05,0.658,0.728,126.024,4,dance
+last hurrah,bebe rexha,19,2019,7A5qbuQheUIpEz0O2npL72,Trending Pop,0,150333,False,0.552,0.618,11,-4.585,0,0.0309,0.175,0.0,0.117,0.402,84.26,4,dance
+last resort,papa roach,35,2021,5W8YXBz9MTIDyrpYaCg2Ky,Infest,80,199906,True,0.589,0.89,4,-3.719,0,0.0603,0.000481,0.00082,0.201,0.692,90.598,4,alt-rock
+last train home,john mayer,14,2021,0tgBtQ0ISnMQOKorrN9HLX,Sob Rock,69,187306,False,0.591,0.831,4,-6.612,1,0.0355,0.235,0.00142,0.0571,0.678,93.007,4,singer-songwriter
+lateralus,tool,29,2019,7tvuLLroI0n6uYBWuFig5d,Lateralus,63,562706,False,0.387,0.677,0,-8.399,1,0.084,0.00108,0.871,0.101,0.371,172.812,3,metal
+lean on me,bill withers,49,2020,3M8FzayQWtkvOhqMn2V4T2,Still Bill,70,258834,False,0.619,0.22,0,-13.843,1,0.0672,0.782,1.19e-05,0.124,0.426,75.143,4,soul
+learn to fly,foo fighters,42,2022,5OQsiBsky2k2kDKy2bX2eT,There Is Nothing Left To Lose,77,235293,False,0.465,0.919,4,-4.025,1,0.0408,1.83e-05,2.07e-05,0.262,0.537,135.997,4,alt-rock
+let her go,passenger,49,2014,2pUpNOgJBIBCcjyQZQ00qU,All the Little Lights (Deluxe),75,252733,False,0.445,0.541,7,-7.36,1,0.0736,0.359,0.0,0.109,0.217,76.289,4,folk
+let me,zayn,43,2018,2cEmWBBlCfR9wWrY9JmTyt,Icarus Falls,68,185373,False,0.46,0.566,9,-5.637,1,0.0502,0.239,5.96e-06,0.0967,0.189,168.408,4,dance
+let me love you (until you learn to love yourself),ne-yo,47,2013,18XA6zBzc8shI011scLk5k,Almorzando solo,0,252226,False,0.669,0.723,5,-5.2,1,0.0346,0.213,0.0,0.523,0.269,124.925,4,dance
+let my love open the door,pete townshend,29,2022,0otlwsD3mSogk7VJCTp6Kg,Empty Glass,65,164653,False,0.651,0.653,0,-9.731,1,0.0545,0.365,0.000117,0.0742,0.729,164.912,4,blues
+let you love me,rita ora,42,2018,0Hijswm0F2WNL0vN5e4CyE,Phoenix (Deluxe),56,190013,False,0.521,0.861,10,-3.138,1,0.319,0.261,0.0,0.0682,0.473,191.618,4,edm
+levitating,dua lipa,32,2023,39LLxExYz6ewLAcYrzQQyP,Future Nostalgia,84,203807,False,0.695,0.884,6,-2.278,0,0.0753,0.0561,0.0,0.213,0.914,103.014,4,dance
+life after you,daughtry,49,2010,4gWTBq5Jftq5CEKYpLXD8R,Leave This Town,57,206413,False,0.434,0.764,5,-3.45,1,0.0299,0.0534,0.0,0.437,0.309,51.316,4,grunge
+life goes on,bts,28,2021,5FVbvttjEvQ8r2BgUcJgNg,BE,79,207481,False,0.566,0.716,1,-5.733,1,0.0424,0.00691,0.0,0.37,0.45,81.068,4,k-pop
+life goes on,oliver tree,47,2022,0eu4C55hL6x29mmeAjytzC,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",79,161803,False,0.7,0.49,0,-5.187,1,0.076,0.186,0.0,0.117,0.569,79.982,4,alternative
+life is a highway,rascal flatts,46,2023,5gB2IrxOCX2j9bMnHKP38i,Cars (Original Motion Picture Soundtrack),73,275640,False,0.562,0.934,5,-5.562,1,0.0607,0.00211,0.0,0.199,0.558,103.042,4,country
+light switch,charlie puth,49,2022,3AVXwaOGCEL8cmBecfcsFJ,Light Switch (Instrumental),77,187703,False,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,0.912,184.009,4,dance
+light up the world,glee cast,17,2011,1Et2wMhDPqbu5y4sGRt6Ue,"Glee: The Music, Volume 6",43,223653,False,0.689,0.796,10,-5.472,1,0.0406,0.000599,0.0,0.12,0.856,118.03,4,club
+lights,bts,18,2025,45HQ2LUH4ZruF1KmAnGLbq,"BTS, THE BEST",61,290960,False,0.607,0.636,5,-5.605,1,0.0324,0.179,0.0,0.176,0.421,98.997,4,k-pop
+lights,ellie goulding,48,2022,4QCnMOWxfDkTsGt82HULFb,Old But Gold,66,245853,False,0.699,0.732,8,-6.307,0,0.0304,0.0771,0.00198,0.131,0.676,120.028,4,edm
+like a star,corinne bailey rae,44,2007,5Anh8jULgeUgciLHCR25Mk,Corinne Bailey Rae,62,243213,False,0.606,0.226,2,-10.617,0,0.0347,0.715,0.0001,0.35,0.142,122.711,4,british
+like we never loved at all,faith hill,43,2005,0HGpVO2aqh9Dadfs90S1mP,Finest Country,0,257693,False,0.494,0.467,2,-8.184,1,0.0286,0.0822,0.0,0.111,0.292,133.81,4,country
+linger,the cranberries,12,2018,6ZkwokCipkGiqvpnIt2APo,Del gusto de mamá,0,273600,False,0.201,0.762,7,-6.376,1,0.0337,0.0953,1.46e-05,0.358,0.131,94.832,4,rock
+lips of an angel,hinder,48,2021,40LQiUUUKXVGyNs09lHVjW,Extreme Behavior,73,261853,False,0.476,0.736,2,-5.38,1,0.0343,0.0217,1.08e-06,0.203,0.251,129.084,4,alt-rock
+little lion man,mumford & sons,36,2011,2KrN3MCNztKcSleZgHEj83,Sigh No More,68,245173,True,0.517,0.492,5,-8.05,1,0.0272,0.0275,3.19e-05,0.0873,0.455,138.585,4,folk
+little talks,of monsters and men,42,2013,7xgGHigPZUBKc4neD74lpG,10's Music Grandi Successi,0,266333,False,0.446,0.76,1,-4.725,1,0.0321,0.0159,0.0,0.319,0.346,103.295,4,folk
+live for the night,krewella,41,2013,457p7UH7hoHrbA2iI4PSCA,Get Wet,50,206480,True,0.499,0.843,6,-2.224,1,0.113,0.0138,0.0,0.124,0.533,127.932,4,dub
+live like we're dying,kris allen,45,2010,1HfxPaJggVwFsvOtHbVzMz,Kris Allen,55,212506,False,0.589,0.893,0,-2.948,1,0.0397,0.0273,0.0,0.343,0.94,92.011,4,acoustic
+livin' on a prayer,bon jovi,24,2023,4We0B3YSBF7utFlQtns2em,Обратно в клас - rock,1,250626,False,0.527,0.89,0,-3.335,1,0.0338,0.0678,0.000162,0.222,0.818,122.494,4,metal
+lo/hi,the black keys,28,2019,25YlltWXRb9k7KbrEBRuhJ,"""Let's Rock""",61,177768,False,0.606,0.679,2,-7.445,1,0.0321,0.0151,0.000433,0.0962,0.707,122.016,4,garage
+locked out of heaven,bruno mars,19,2014,3w3y8KPTfNeOKPiqUTakBh,Unorthodox Jukebox,87,233478,False,0.726,0.698,5,-4.165,1,0.0431,0.049,0.0,0.309,0.867,143.994,4,dance
+lonely,akon,50,2005,4v7DCN09hgXkKazefkznDQ,Trouble Deluxe Edition,81,235800,True,0.634,0.526,5,-7.881,0,0.0333,0.339,0.0,0.257,0.623,90.087,4,dance
+lonely boy,the black keys,41,2013,5G1sTBGbZT5o4PNRc75RKI,El Camino,73,193653,False,0.356,0.872,2,-7.837,1,0.068,0.00417,0.00975,0.0997,0.607,166.3,4,blues
+lose you to love me,selena gomez,45,2020,5uBYhOCQC4NpqmnCgfzFw4,REGNIG DAG,1,206458,False,0.516,0.342,4,-8.985,1,0.0425,0.55,0.0,0.21,0.0993,102.819,4,dance
+loser like me,glee cast,33,2011,3iAvTn62s7rvE6hm6fFodt,"Glee: The Music, Volume 5",53,199000,False,0.701,0.864,3,-4.351,1,0.0631,0.00331,0.0,0.0421,0.811,106.032,4,club
+losing my religion,r.e.m.,16,2023,7oMO1B9CB4ZPYPLeVe32OY,90's Music Grandi Successi,0,268426,False,0.666,0.854,9,-5.051,0,0.0295,0.179,1.2e-06,0.0986,0.803,125.637,4,alt-rock
+lost cause,billie eilish,40,2021,4TmPunCnlJjiKu2iYhqapU,Halloween & Chill,0,212496,True,0.671,0.336,10,-8.494,0,0.241,0.705,0.00751,0.0577,0.518,75.051,4,electro
+lost in the woods,jonathan groff,50,2019,7namdlOhbtsc8FvoSafOQt,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),66,180762,False,0.366,0.478,8,-6.972,1,0.0277,0.695,8.91e-06,0.124,0.293,149.307,4,show-tunes
+louder than bombs,bts,8,2020,4Aw8n6r2vuU0KUo1a2nftp,MAP OF THE SOUL : 7,71,217404,False,0.643,0.667,0,-6.947,0,0.151,0.0432,0.0,0.0904,0.478,145.999,4,k-pop
+love,keyshia cole,40,2023,0W4NhJhcqKCqEP2GIpDCDq,The Way It Is,76,255333,False,0.688,0.519,5,-4.285,1,0.0283,0.064,0.0,0.1,0.318,116.714,4,soul
+love don't die,the fray,33,2014,6IDDwI0YOCAUDhMZltQekS,Helios,56,183093,False,0.632,0.805,11,-4.488,0,0.0303,0.0095,0.0,0.197,0.275,115.489,4,piano
+love drunk,boys like girls,43,2010,20X9OeC606XNwEtDBOym5u,Love Drunk,65,226706,False,0.44,0.976,10,-3.17,1,0.141,0.00177,3.39e-06,0.16,0.412,150.005,4,punk-rock
+love in the dark,adele,26,2015,0DuWDLjriRPjDRoPgaCslY,25,78,285935,False,0.331,0.341,9,-6.057,0,0.0309,0.528,0.0,0.109,0.152,109.821,4,british
+love is a game,adele,33,2021,2j3GxEsbNYNeEzz86wDY4J,30,67,403044,False,0.269,0.591,10,-5.79,0,0.0416,0.453,0.000695,0.0702,0.228,183.793,4,british
+love like that,lauv,40,2020,23tJmuwvUOa2kTsOlNMWCS,~how i'm feeling~ (the extras),65,184556,False,0.679,0.481,3,-9.045,1,0.0593,0.208,1.02e-05,0.284,0.486,80.011,4,electro
+love me like you do,ellie goulding,34,2022,0Cy7wt6IlRfBPHXXjmZbcP,Fifty Shades Freed (Original Motion Picture Soundtrack),79,253520,False,0.489,0.597,5,-6.633,0,0.0292,0.27,0.0,0.105,0.324,95.012,4,dance
+love me now,john legend,49,2017,6nxQdXa1uAL0rY72wPZu89,DARKNESS AND LIGHT,65,210293,False,0.495,0.762,8,-3.842,1,0.0862,0.591,0.0,0.0763,0.708,123.893,4,soul
+love on the weekend,john mayer,44,2017,0oiCeOPwm4zhwfyIpAE37y,The Search for Everything,66,212320,False,0.718,0.583,7,-7.884,1,0.0288,0.623,0.000681,0.0612,0.422,119.971,4,singer-songwriter
+love runs out,onerepublic,50,2014,3cOO5IQtOYs7huq4Z6lYfr,Native,64,224853,False,0.715,0.931,7,-3.793,1,0.0565,0.171,0.0,0.0757,0.742,120.025,4,piano
+love song,sara bareilles,35,2008,4E6cwWJWZw2zWf7VFbH7wf,Little Voice,73,258826,False,0.583,0.786,2,-3.142,0,0.0301,0.0208,0.0,0.188,0.573,123.055,4,acoustic
+love story,taylor swift,46,2009,1D4PL9B8gOg78jiHg3FvBb,Fearless (Big Machine Radio Release Special),77,236266,False,0.617,0.741,2,-3.97,1,0.0311,0.131,0.0,0.0772,0.306,118.984,4,pop
+love you like a love song,selena gomez & the scene,21,2012,0laYHRpNTS6i8FXdupHkJ4,When The Sun Goes Down,81,188453,False,0.858,0.678,1,-3.87,0,0.0469,0.0761,0.0,0.0741,0.922,117.009,4,dance
+love yourself,justin bieber,43,2016,50kpGaPAhYJ3sGmk6vplg0,Purpose (Deluxe),84,233720,False,0.609,0.378,4,-9.828,1,0.438,0.835,0.0,0.28,0.515,100.418,4,pop
+lovely day,bill withers,32,2021,0bRXwKfigvpKZUurwqAlEh,Menagerie,76,254560,False,0.692,0.651,9,-8.267,1,0.0324,0.292,0.00241,0.105,0.706,97.923,4,funk
+lover,taylor swift,33,2020,6X7pjnNm5dHSUot6hp3KFU,Autumn Vibes 2022,0,221306,False,0.359,0.543,7,-7.582,1,0.0915,0.492,1.57e-05,0.118,0.453,68.505,4,pop
+lovesick girls,blackpink,9,2020,1GMufNnkKAnPLnqKJ5HHxW,THE ALBUM,73,192765,False,0.658,0.732,6,-4.762,1,0.0654,0.00513,0.0,0.13,0.409,127.995,4,k-pop
+lucky,glee cast,13,2010,4BaEOfLHGeP9gw5ToeiY7a,"Glee: The Music, Volume 4",49,187560,False,0.632,0.468,0,-8.089,1,0.0412,0.541,0.0,0.165,0.669,130.052,4,club
+lush life,zara larsson,40,2016,1rIKgCH4H52lrvDcz50hS8,So Good,78,201122,False,0.694,0.712,7,-3.923,0,0.046,0.132,0.0,0.211,0.799,98.023,4,dance
+made for you,jake owen,47,2021,7vF3xkCMvZjAe2nTWY0uQZ,Greetings From...Jake,70,238400,False,0.581,0.441,1,-6.829,1,0.0268,0.77,2.75e-05,0.111,0.337,82.125,4,country
+mafia,travis scott,22,2021,08F16baYbciTva9P4BvpiI,ESCAPE PLAN / MAFIA,72,240000,True,0.855,0.492,0,-7.578,0,0.0483,0.0775,6.71e-06,0.111,0.385,109.975,4,house
+make you feel my love,adele,49,2021,273QnyCvJB65rScHJ1nPZb,19,77,212040,False,0.317,0.172,10,-10.636,1,0.0326,0.907,0.000383,0.105,0.0963,65.18,3,soul
+makeba,jain,45,2023,5JdLUE9D743ob2RtgmVpVx,Zanaka,60,249533,False,0.824,0.656,2,-9.432,1,0.0704,0.388,0.506,0.253,0.418,116.068,4,french
+maneater,nelly furtado,49,2007,6IpiaVfJdeoGZInxYGt1X3,Happy Haunted Halloween Tunes,1,265426,False,0.799,0.721,6,-5.222,1,0.0508,0.0214,0.000341,0.335,0.66,132.763,4,latin
+marry me,thomas rhett,29,2018,0OWZFobGSIW9GrSlQ9C5pc,Life Changes,70,205453,False,0.333,0.412,3,-8.633,1,0.029,0.0977,0.0,0.113,0.474,85.028,4,country
+marry you,glee cast,31,2010,3IFo5x0HWlvRu0QIAtefor,"Glee: The Music, Volume 4",50,225133,False,0.637,0.768,5,-6.888,1,0.0318,0.0335,7.77e-06,0.161,0.459,144.914,4,club
+mary on a cross,ghost,47,2019,2HZLXBOnaSRhXStMLrq9fD,Seven Inches Of Satanic Panic,88,244804,False,0.466,0.9,11,-4.469,1,0.0447,0.000235,0.00104,0.103,0.561,130.02,4,hard-rock
+mask off,future,35,2017,0VgkVdmE4gld66l8iyGjgx,FUTURE,83,204600,True,0.833,0.434,2,-8.795,1,0.431,0.0102,0.0219,0.165,0.281,150.062,4,hip-hop
+master of puppets,metallica,35,2022,2MuWTIM3b0YEAskbeeFE1i,Master Of Puppets (Remastered),81,515386,False,0.543,0.836,4,-9.11,0,0.0353,0.000647,0.431,0.153,0.56,105.173,4,hard-rock
+masterpiece,motionless in white,37,2022,3c9kVsKF68xMzlS0NikVn3,Scoring The End Of The World,65,206648,False,0.324,0.863,10,-3.716,0,0.123,0.000109,0.0,0.311,0.394,177.985,4,metalcore
+me and my broken heart,rixton,38,2014,1oew3nFNY3vMacJAsvry0S,Let The Road,79,193733,False,0.545,0.783,5,-4.261,0,0.0345,0.00489,0.0,0.132,0.551,174.084,4,dance
+memories,maroon 5,49,2021,4cktbXiXOapiLBMprHFErI,JORDI (Deluxe),85,189486,False,0.775,0.327,11,-7.241,1,0.0557,0.841,0.0,0.0821,0.595,91.05,4,pop
+mercy,brett young,46,2022,63jfUirW2IkypzR5BYiV8Q,Sad Country Songs,2,217120,False,0.638,0.367,4,-7.906,1,0.0266,0.84,0.0,0.0999,0.219,71.957,4,country
+mercy,duffy,44,2009,6As27klqzcG7UuZCIoG3CE,De ese gran pop de los 00's,0,220933,False,0.786,0.859,0,-3.744,1,0.0331,0.261,0.00016,0.11,0.964,129.948,4,british
+mercy,shawn mendes,17,2017,0AS63m1wHv9n4VVRizK6Hc,Illuminate (Deluxe),82,208733,False,0.555,0.662,11,-4.952,0,0.0827,0.125,0.0,0.111,0.356,148.128,4,dance
+middle of the night,loveless,17,2022,1Gwu3d6lZjL99kw4dcFCsq,MIDDLE OF THE NIGHT,71,186129,False,0.384,0.938,4,-6.323,0,0.124,0.000236,0.0,0.132,0.163,92.859,3,punk
+mikrokosmos,bts,19,2019,0jSccBRnhNU4KtACMQPvco,MAP OF THE SOUL : PERSONA,73,224225,False,0.579,0.858,8,-5.212,1,0.114,0.125,0.0,0.0502,0.475,174.043,3,k-pop
+million reasons,lady gaga,38,2017,3YL8jLIarQdM1y2oRClov9,Concierto en la ducha,0,205280,False,0.666,0.423,0,-8.012,1,0.0429,0.494,0.0,0.106,0.154,129.893,4,dance
+million years ago,adele,28,2015,2qBmtZnPSQouvADmqaHKxk,25,64,227065,False,0.72,0.274,1,-7.623,0,0.0276,0.742,0.0,0.11,0.179,105.929,4,british
+mine,bazzi,38,2023,7uzmGiiJyRfuViKKK3lVmR,COSMIC,76,131064,True,0.71,0.789,4,-3.874,1,0.0722,0.0161,2.77e-06,0.451,0.717,142.929,4,dance
+misery business,paramore,50,2008,5ODvKnZslnCF8klu7w0Vcg,Timeless Rock Hits,1,211520,False,0.513,0.906,1,-3.673,1,0.0737,0.00272,8.42e-06,0.113,0.73,173.0,4,emo
+miss murder,afi,49,2006,0Ti2dlF2xLjXblvdU5fCxM,DECEMBERUNDERGROUND,72,206586,False,0.308,0.873,8,-4.542,1,0.0533,0.00022,0.000729,0.0974,0.686,143.519,4,emo
+mistletoe,justin bieber,39,2022,0GPeyv1Oj1LbqyFJHM3j4C,Holidays Are Coming,2,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+money,lisa,8,2021,45OX2jjEw1l7lOFJfDP9fv,LALISA,78,168227,False,0.826,0.553,1,-10.121,0,0.234,0.163,4.12e-05,0.135,0.4,140.037,4,k-pop
+montero (call me by your name),lil nas x,45,2021,1SC5rEoYDGUK4NfG82494W,MONTERO,83,137704,True,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,4,hip-hop
+moon,bts,17,2020,6KhAXXgDtEEahVzATvFNcn,MAP OF THE SOUL : 7,70,208589,False,0.704,0.646,6,-6.658,1,0.0596,0.0104,0.0,0.191,0.64,141.87,4,k-pop
+moonlight,xxxtentacion,36,2019,0JP9xo3adEtGSdUEISiszL,?,83,135090,True,0.921,0.537,9,-5.723,0,0.0804,0.556,0.00404,0.102,0.711,128.009,4,emo
+more,j-hope,15,2023,4XKXphKH76W4zNpkgFS5o2,MORE,77,180022,False,0.783,0.722,2,-4.864,1,0.0357,0.00537,0.00209,0.105,0.306,97.031,4,k-pop
+more hearts than mine,ingrid andress,48,2020,1x1e7T0TFQP9tv4OJaj5qf,Single Saturday Night - Country Songs,0,214786,False,0.375,0.428,0,-7.387,1,0.029,0.109,0.0,0.105,0.361,78.516,4,country
+move along,the all-american rejects,36,2007,58HpsDKeYoLtNhXFQyQmz5,Move Along,61,238880,False,0.526,0.92,3,-3.866,1,0.0472,0.000124,0.0,0.371,0.615,109.86,4,punk-rock
+movement,hozier,11,2018,0SFq19lgG4qbQAZaNZ3xhO,"Wasteland, Baby!",62,237800,False,0.381,0.502,1,-5.505,0,0.0368,0.16,6.98e-05,0.0842,0.147,144.3,4,singer-songwriter
+mr. brightside,the killers,39,2022,23PvWFdi76vER4p1e2Xroj,Workout Hits 2023,2,223973,False,0.344,0.931,1,-3.759,1,0.0783,0.00104,0.0,0.0903,0.251,148.104,4,alt-rock
+mr. crowley,ozzy osbourne,16,2025,2ov8L95QD25TLpZAZPYWXL,Blizzard Of Ozz (40th Anniversary Expanded Edition),66,302647,False,0.307,0.748,2,-6.514,0,0.0568,0.212,0.000153,0.368,0.347,108.227,4,hard-rock
+mr. jones,counting crows,46,2022,7HS7bD1nAWG0CzigkPX7vN,Fiesta temática 90s,0,272733,False,0.571,0.836,0,-5.556,1,0.0371,0.194,4.09e-06,0.182,0.73,141.612,4,alt-rock
+murder on the dancefloor,sophie ellis-bextor,24,2024,0I1HETHnwPFoxwcgcWvTdB,De ese gran pop de los 00's,0,230013,False,0.735,0.848,1,-5.285,0,0.0308,0.00312,1.15e-05,0.313,0.864,117.317,4,disco
+my church,maren morris,33,2017,1LM5zQv5pBKPyO7rm7Uz6U,HERO (Deluxe Edition),69,197930,False,0.517,0.743,9,-4.336,1,0.0363,0.243,3.36e-06,0.107,0.664,76.979,4,country
+my future,billie eilish,47,2020,2ygvZOXrIeVL4xZmAWJT2C,my future,72,208155,False,0.444,0.309,8,-10.956,1,0.062,0.795,0.132,0.352,0.0875,104.745,4,electro
+my girl,the temptations,29,2022,745H5CctFr12Mo7cqa1BMH,The Temptations Sing Smokey,79,165000,False,0.572,0.418,0,-10.738,1,0.0349,0.635,0.0,0.0961,0.694,104.566,4,funk
+my hero,foo fighters,20,2022,4dVbhS6OiYvFikshyaQaCN,The Colour And The Shape,76,260026,False,0.398,0.927,9,-4.212,1,0.0567,6.2e-05,0.000177,0.0575,0.311,77.106,4,grunge
+my sacrifice,creed,41,2023,2VSbEXqs6NbNiZSTcHlIDR,Weathered,71,294600,False,0.32,0.88,2,-6.035,1,0.0504,0.000101,4.31e-06,0.076,0.257,146.349,4,alt-rock
+my songs know what you did in the dark (light em up),fall out boy,44,2021,0xGnsciJBQYbMQUSUAFZkt,Halloween 2022,0,186826,False,0.557,0.924,9,-4.341,0,0.064,0.0271,3.32e-06,0.537,0.566,151.988,4,emo
+my time,bts,39,2020,0YJFlxeHMUr9MxSDQVuQJA,MAP OF THE SOUL : 7,72,234457,False,0.674,0.641,0,-5.139,0,0.0339,0.149,0.0,0.0925,0.664,99.91,4,k-pop
+my way,calvin harris,50,2016,1vvNmPOiUuyCbgWmtc6yfm,My Way,76,219159,False,0.818,0.913,4,-3.06,0,0.0426,0.093,3.69e-05,0.161,0.536,119.986,4,electro
+n95,kendrick lamar,28,2022,0fX4oNGBWO3dSGUZcVdVV2,Mr. Morale & The Big Steppers,83,195950,True,0.79,0.67,1,-5.527,1,0.105,0.377,2.32e-06,0.119,0.408,139.956,4,hip-hop
+nda,billie eilish,35,2021,38GBNKZUhfBkk3oNlWzRYd,Happier Than Ever,77,195776,True,0.765,0.373,8,-9.921,1,0.0713,0.341,0.525,0.112,0.554,85.016,4,electro
+nail tech,jack harlow,39,2022,6MgM415sTN6TUh3B3YlWCW,Internet Sensations,1,206385,True,0.647,0.581,4,-7.678,0,0.0884,0.0029,7.76e-06,0.119,0.113,150.149,4,hip-hop
+narcissist,avery anna,15,2022,3LLezpquftwn7QI1rYIovM,Narcissist,64,154026,False,0.322,0.48,1,-5.989,1,0.0492,0.746,0.0,0.113,0.304,73.476,4,country
+natural,imagine dragons,39,2019,2FY7b99s15jUprqC0M5NCT,Origins (Deluxe),82,189466,False,0.704,0.611,2,-6.112,1,0.0409,0.217,0.0,0.0812,0.22,100.0,4,rock
+need to know,doja cat,33,2022,3Vi5XqYrmQgOYBajMWSvCi,Planet Her,84,210560,True,0.664,0.609,1,-6.509,1,0.0707,0.304,0.0,0.0926,0.194,130.041,4,dance
+need you now,glee cast,46,2011,4kEzw2gtpxUBfgmhTEwIuE,"Glee: The Music, Volume 5",45,217413,False,0.55,0.674,4,-5.248,1,0.0277,0.0881,0.0,0.0873,0.248,108.037,4,club
+never be the same,camila cabello,45,2018,4eWQlBRaTjPPUlzacqEeoQ,Camila,74,226973,False,0.637,0.713,0,-4.333,1,0.0747,0.181,0.000637,0.137,0.243,129.923,4,dance
+never been in love,haley mae campbell,23,2021,3gq98hzXfMGQ5VFIGJ1DoB,Never Been in Love,56,179189,False,0.679,0.742,4,-4.149,1,0.0292,0.121,7.21e-05,0.322,0.869,147.829,4,country
+never enough,loren allred,48,2018,0Gl5s8IhMmQE5YQwM8Qx1J,The Greatest Showman (Original Motion Picture Soundtrack),75,207786,False,0.277,0.394,8,-8.903,1,0.0336,0.423,0.0,0.0952,0.227,86.777,3,show-tunes
+never gonna be alone,nickelback,31,2008,7aySoZnwt7c6lA54qVVUOk,Dark Horse,62,227026,False,0.544,0.802,4,-4.152,1,0.0282,0.00155,7.34e-05,0.122,0.59,130.022,4,grunge
+never gonna give you up,rick astley,44,2022,4PTG3Z6ehGkBFwjybzWkR8,Whenever You Need Somebody,45,213573,False,0.721,0.939,8,-11.823,1,0.0376,0.115,3.79e-05,0.108,0.914,113.309,4,disco
+never leave,bailey zimmerman,32,2022,2Lmzw98tabQcaOmjOJF1Eg,Never Leave - Country Magic,3,207567,False,0.503,0.643,9,-6.586,1,0.0304,0.523,1.23e-06,0.0661,0.345,148.11,4,country
+never say never,the fray,45,2009,57uX2vR9j9DNiANDYfXw1i,The Fray,68,256613,False,0.23,0.492,8,-5.767,1,0.0317,0.568,8.18e-06,0.176,0.262,160.139,4,piano
+never too late,three days grace,47,2008,3HE50TVRquwXe9yv2HFoNL,One-X,70,209333,False,0.433,0.778,2,-4.68,0,0.0371,0.00838,0.0,0.163,0.217,149.864,4,grunge
+new divide,linkin park,50,2009,6Wx88Mv6b9ofjKMKkdwOJd,Transformers: Revenge Of The Fallen The Album,70,268613,False,0.493,0.808,5,-3.365,0,0.0362,0.000235,0.0,0.0983,0.38,117.971,4,alternative
+new rules,dua lipa,43,2018,2ekn2ttSfGqwhhate0LSR0,Dua Lipa (Deluxe),81,209320,False,0.762,0.7,9,-6.021,0,0.0694,0.00261,1.56e-05,0.153,0.608,116.073,4,dance
+new soul,yael naim,45,2008,09nEPqqMCJ5gNioi7M2dth,Yael Naim,59,225105,False,0.582,0.371,0,-8.519,1,0.0525,0.748,9.19e-05,0.122,0.604,200.085,4,french
+next thing you know,jordan davis,47,2023,2lNTHWu2I5Tcz9ukWsV5Jj,Next Thing You Know,75,175237,False,0.557,0.597,5,-8.296,1,0.048,0.646,0.0,0.0974,0.414,78.526,4,country
+night changes,one direction,14,2024,5O2P9iiztwhomNh8xkR9lJ,FOUR (Deluxe),88,226600,False,0.672,0.52,8,-7.747,1,0.0353,0.859,0.0,0.115,0.37,120.001,4,pop
+nightmare,avenged sevenfold,28,2010,4UEo1b0wWrtHMC8bVqPiH8,Nightmare,72,374453,True,0.554,0.949,2,-4.928,1,0.0787,0.000318,9.98e-05,0.2,0.233,129.984,4,alternative
+nightmare,halsey,50,2019,340UVheS8z3ncW9TTUhAbc,Nightmare,68,231998,True,0.611,0.622,9,-5.075,0,0.0734,0.0188,0.0,0.359,0.538,146.11,4,electro
+no body,blake shelton,40,2022,3fgJqcj57xcIJTg5V76tzx,Hideaway - New Boots,3,187640,False,0.739,0.72,4,-6.695,1,0.026,0.0379,0.00267,0.23,0.892,102.997,4,country
+no more dream,bts,9,2023,089PFeXotzDLNQz9NCk6pF,2 Cool 4 Skool,66,222066,False,0.438,0.864,2,-5.185,1,0.47,0.0118,1.66e-06,0.431,0.594,167.898,4,k-pop
+no more tears,ozzy osbourne,11,2025,7w6PJe5KBPyvuRYxFkPssC,No More Tears (Expanded Edition),68,443240,False,0.346,0.749,6,-6.506,1,0.035,0.00167,8.86e-05,0.648,0.315,102.591,4,hard-rock
+no one,alicia keys,47,2008,6IwKcFdiRQZOWeYNhUiWIv,As I Am (Expanded Edition),78,253813,False,0.644,0.549,1,-5.415,0,0.0285,0.0209,8.85e-06,0.134,0.167,90.04,4,soul
+no role modelz,j. cole,48,2016,68Dni7IE4VyPkTOH9mRWHr,2014 Forest Hills Drive,88,292799,True,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,0.494,100.028,4,hip-hop
+no surprise,daughtry,50,2009,6q4XLE5WeOBWftoc9gTl2P,It's Not Over....The Hits So Far,53,270640,False,0.508,0.823,3,-3.711,1,0.031,0.00741,0.0,0.104,0.152,95.98,4,grunge
+no tears left to cry,ariana grande,29,2018,2qT1uLXPVPzGgFOx4jtEuo,Sweetener,78,205920,False,0.699,0.713,9,-5.507,0,0.0594,0.04,3.11e-06,0.294,0.354,121.993,4,dance
+no vacancy,onerepublic,49,2017,4QeoDcR16IHpmmgFGQDrCp,No Vacancy,56,223189,False,0.72,0.727,5,-3.882,1,0.0489,0.0556,0.0,0.138,0.481,99.994,4,piano
+not afraid,eminem,50,2011,7Ie9W94M7OjPoZVV216Xus,Recovery,81,248133,True,0.855,0.954,0,-1.19,0,0.264,0.529,0.0,0.205,0.668,114.635,5,hip-hop
+not today,bts,13,2024,3wyrhwPpV8uhMMEms4vG3X,You Never Walk Alone,71,231859,False,0.593,0.945,8,-3.408,1,0.126,0.00174,0.0,0.923,0.674,110.023,4,k-pop
+now or never,halsey,23,2017,7i2DJ88J7jQ8K7zqFX2fW8,hopeless fountain kingdom (Deluxe),67,214801,False,0.67,0.585,6,-4.861,0,0.0354,0.107,1.11e-06,0.131,0.447,110.03,4,indie-pop
+nude,radiohead,14,2008,35YyxFpE0ZTOoqFx5bADW8,In Rainbows,69,255386,False,0.516,0.342,4,-9.785,1,0.0342,0.832,0.579,0.0857,0.167,128.378,3,alt-rock
+numb,linkin park,12,2023,2nLtzopw4rPReszdYBJU6h,Meteora,83,185586,False,0.496,0.863,9,-4.153,1,0.0381,0.0046,0.0,0.639,0.243,110.018,4,alternative
+numb little bug,em beihold,44,2022,3o9kpgkIcffx0iSwxhuNI2,Numb Little Bug,78,169237,False,0.742,0.527,8,-6.892,0,0.0769,0.327,0.0,0.25,0.638,84.974,4,singer-songwriter
+o holy night,josh groban,41,2020,1QT8jsU78e4A3gytCQX6Pm,100 Greatest Christmas Songs Ever,26,288680,False,0.162,0.342,11,-8.051,1,0.031,0.836,0.000788,0.0934,0.0755,84.855,4,opera
+omg what's happening,ava max,39,2020,3Qb13vRv3zludproxlfl4U,Happy Commute,0,179831,False,0.698,0.854,9,-3.84,0,0.0451,0.101,0.0,0.107,0.931,124.042,4,dance
+on,bts,10,2020,0fZRNhPJ4AGmwY7rkpdbqK,MAP OF THE SOUL : 7,74,246380,False,0.583,0.817,9,-5.146,0,0.099,0.118,0.0,0.338,0.437,105.935,4,k-pop
+ocean avenue,yellowcard,43,2005,23oxJmDc1V9uLUSmN2LIvx,Ocean Avenue,74,198266,False,0.486,0.904,6,-3.751,0,0.0638,3.43e-05,2.83e-05,0.0947,0.786,173.734,4,punk
+ocean eyes,billie eilish,38,2020,7hDVYcQq6MxkdJGweuCtl9,dont smile at me,80,200379,False,0.511,0.363,4,-7.65,0,0.041,0.816,0.0317,0.084,0.169,144.892,4,electro
+oh my god,adele,49,2022,3Kkjo3cT83cw09VJyrLNwX,30,82,225148,False,0.534,0.725,1,-3.906,1,0.046,0.091,0.0,0.0264,0.55,88.098,4,british
+on my mind,ellie goulding,47,2016,5a7NdkF09AfD0H607eiOkX,Delirium (Deluxe),66,213445,False,0.702,0.705,0,-6.666,1,0.0543,0.258,5.93e-06,0.0879,0.743,154.911,4,indie-pop
+on my way to you,cody johnson,46,2019,0EnvJBejWaMxn3qAvWV4B9,Single Saturday Night - Country Songs,0,213306,False,0.445,0.537,1,-5.477,1,0.0311,0.331,5e-05,0.0866,0.246,157.98,4,country
+one call away,charlie puth,48,2016,40z4EMfyGwTp5Tk48mu7Os,Music for Rainy Days,0,194453,False,0.667,0.613,1,-5.353,1,0.0345,0.4,0.0,0.115,0.472,91.024,4,dance
+one headlight,the wallflowers,38,2022,65P8KmStYrVUPlchXH2CH8,Fiesta temática 90s,0,316520,False,0.683,0.643,2,-7.425,1,0.0312,0.000576,0.00118,0.0564,0.771,107.027,4,alt-rock
+one last time,ariana grande,19,2017,7xoUc6faLbCqZO6fQEYprd,My Everything (Deluxe),83,197266,False,0.628,0.593,8,-5.036,1,0.0323,0.093,1.65e-06,0.096,0.104,125.026,4,dance
+one time,justin bieber,49,2010,1i5nDFmDSi8Q3UPRVnbc03,OO's Music Grandi Successi,3,215586,False,0.69,0.856,1,-2.549,0,0.0376,0.0689,7.82e-05,0.0761,0.74,145.966,4,pop
+ophelia,the lumineers,38,2023,5NORWMFC27ywGSZxi8uquP,Cleopatra,79,160097,False,0.664,0.573,5,-6.519,1,0.0277,0.613,0.000363,0.0857,0.566,76.023,4,folk
+outro : ego,bts,21,2020,2LVw2bIK99go1NdD77dUCW,MAP OF THE SOUL : 7,66,196198,False,0.808,0.903,0,-3.106,1,0.0957,0.0121,0.000248,0.0993,0.473,116.988,4,k-pop
+over my head (cable car),the fray,43,2007,1N62wozuHCvczCkY4QidpP,How To Save A Life,70,236266,False,0.592,0.729,8,-4.156,1,0.0448,0.022,0.0,0.0653,0.709,116.03,4,piano
+over you,daughtry,46,2008,3sC7PN1vjzEovhjHlQse3N,Daughtry,55,204853,False,0.423,0.922,3,-2.602,1,0.0411,0.017,0.0,0.102,0.567,156.063,4,grunge
+overpass graffiti,ed sheeran,31,2021,7xrLgNBENSWmiu6s8lYIQ8,Feeling Good,0,236906,False,0.52,0.849,9,-3.794,0,0.186,0.00253,0.0,0.119,0.774,175.908,4,pop
+p.y.t. (pretty young thing),glee cast,37,2011,3SmEmQtCTSHSHPRKdRuHli,"Glee: The Music, The Complete Season Two",28,236320,False,0.847,0.772,9,-4.763,0,0.0692,0.196,0.0,0.24,0.914,127.381,4,club
+pain,jimmy eat world,37,2004,2WhDg8UWljoAl8oNh8uZbJ,Futures (Deluxe Edition),64,181306,False,0.395,0.955,0,-3.352,0,0.12,0.0176,0.0,0.585,0.283,168.005,4,power-pop
+pain,three days grace,50,2007,5PZ2cqh9Yem2g6cTSOLllz,One-X,68,202973,False,0.416,0.741,7,-4.001,1,0.0335,0.00804,0.0,0.273,0.286,160.515,4,grunge
+pandora's box,j-hope,12,2022,2On611HXKQAbaYkuc4NQAm,Jack In The Box,68,156291,False,0.785,0.807,0,-3.877,1,0.178,0.198,0.0,0.326,0.228,96.981,4,k-pop
+paparazzi,lady gaga,44,2010,5LHnaiB8E3x95ZbYFmOUfk,OO's Music Grandi Successi,4,208173,False,0.761,0.734,5,-2.871,0,0.0428,0.129,0.0,0.086,0.375,114.907,4,dance
+paper planes,m.i.a.,50,2009,1ixbwbeBi5ufN4noUKmW5a,Kala,77,205200,False,0.447,0.848,2,-6.175,1,0.222,0.033,7.46e-05,0.65,0.485,172.253,4,indie-pop
+paralyzer,finger eleven,50,2008,28IEbk5a7twNTbUEvWslUb,Them Vs. You Vs. Me (Deluxe Edition),75,208106,False,0.644,0.939,11,-3.486,0,0.0456,0.157,0.0,0.233,0.861,106.031,4,grunge
+parasite eve,bring me the horizon,27,2020,5OxclJsdFESni44YlpNpkR,Parasite Eve,65,291812,True,0.589,0.797,9,-5.464,1,0.15,0.0289,4.35e-06,0.383,0.232,102.489,4,metal
+paris,the chainsmokers,47,2017,72jbDTw1piOOj770jWNeaG,Memories...Do Not Open,74,221506,False,0.653,0.658,2,-6.428,1,0.0304,0.0215,1.66e-06,0.0939,0.219,99.99,4,dance
+patience,chris cornell,15,2020,7n3u7RrzdXGVcclBEp9aSa,Patience,58,253120,False,0.597,0.646,6,-7.378,0,0.0344,0.28,0.0,0.111,0.364,126.951,4,grunge
+people are crazy,billy currington,49,2022,3CnFfsYOIWdawTvM4Tnfh1,Artsy & Colourful,0,232053,False,0.657,0.714,5,-4.986,1,0.0265,0.23,0.000744,0.127,0.361,141.967,4,country
+pepas,farruko,49,2021,5fwSHlTEWpluwOM0Sxnh5k,Pepas,86,287120,True,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,4,latin
+perfect,ed sheeran,18,2023,0tgVpDi06FyKpA1z0VMD4v,÷ (Deluxe),87,263400,False,0.599,0.448,8,-6.312,1,0.0232,0.163,0.0,0.106,0.168,95.05,3,pop
+perfect situation,weezer,31,2006,1D7UBHqaPWDbBHs2S5YXge,Make Believe,55,254333,False,0.47,0.806,6,-4.1,1,0.0328,0.0271,0.000142,0.2,0.403,93.853,4,power-pop
+permission to dance,bts,44,2021,3XYRV7ZSHqIRDG87DKTtry,Permission to Dance,80,187585,False,0.702,0.741,9,-5.33,1,0.0427,0.00544,0.0,0.337,0.646,124.925,4,k-pop
+photograph,def leppard,45,2021,18URo35acNKRTHfEdjTcGn,Pyromania,68,247962,False,0.602,0.877,4,-6.606,1,0.0515,0.000343,0.635,0.0551,0.617,123.679,4,hard-rock
+photograph,ed sheeran,50,2015,1HNkqx9Ahdgi1Ixy2xkKkL,x (Deluxe Edition),85,258986,False,0.614,0.379,4,-10.48,1,0.0476,0.607,0.000464,0.0986,0.201,107.989,4,pop
+photograph,nickelback,38,2023,3hb2ScEVkGchcAQqrPLP0R,All the Right Reasons,69,258920,False,0.515,0.876,8,-3.756,1,0.0292,0.000932,0.000166,0.136,0.385,145.916,4,grunge
+physical,dua lipa,24,2020,5AapsFftm3jjb3e2eMLG1E,New Pop Icons,0,193829,False,0.647,0.844,0,-3.756,1,0.0457,0.0137,0.000658,0.102,0.746,146.967,4,dance
+pick me up,gabby barrett,38,2022,7C2xXcXTr7AItNOMVr1Oul,Country Car Hits,0,169440,False,0.472,0.701,2,-4.563,1,0.0369,0.0387,0.0,0.107,0.515,79.805,4,country
+pickup man,joe diffie,19,2020,4LILQ0tq8SoF29dkAX6RXf,16 Biggest Hits,46,216400,False,0.712,0.745,7,-7.141,1,0.0389,0.408,0.0,0.346,0.843,140.621,4,country
+pillowtalk,zayn,44,2016,0PDUDa38GO8lMxLCRc4lL1,Mind Of Mine (Deluxe Edition),78,202746,True,0.584,0.7,11,-4.275,1,0.0456,0.117,0.0,0.0939,0.438,124.944,4,dance
+pink venom,blackpink,48,2022,7EyhPjrJzjx0fk2i7vUJCS,Pink Venom,85,186964,False,0.794,0.719,0,-7.227,1,0.0761,0.0119,0.0,0.276,0.69,90.016,4,k-pop
+play it again,luke bryan,50,2021,03fT3OHB9KyMtGMt2zwqCT,Crash My Party,75,226866,False,0.506,0.886,11,-3.225,1,0.0655,0.0916,0.0,0.0734,0.595,143.935,4,country
+poker face,lady gaga,15,2022,24tNhacN8vdN8OqkR7LcNm,Workout Hits 2023,3,238906,False,0.851,0.818,4,-4.637,1,0.0789,0.112,2.94e-06,0.0945,0.808,119.006,4,dance
+pompeii,bastille,49,2015,3oaqIiIIu9KUrfqE4AeT93,10's Music Grandi Successi,1,216760,False,0.68,0.711,9,-6.371,1,0.0414,0.0918,0.0,0.241,0.571,127.436,4,rock
+pony,ginuwine,37,2016,6mz1fBdKATx6qP4oP1I65G,R&B: From Doo-Wop To Hip-Hop,73,251733,True,0.749,0.605,8,-9.359,0,0.086,0.00186,0.0381,0.115,0.966,142.024,4,soul
+pork and beans,weezer,47,2008,5txH6topQylTHnb4lZMdQ1,Weezer,52,189400,False,0.599,0.626,6,-6.622,1,0.0339,0.0108,8.8e-06,0.158,0.708,119.837,4,power-pop
+positions,ariana grande,36,2021,35mvY5S1H3J2QZyna3TFe0,Positions,85,172324,True,0.737,0.802,0,-4.771,1,0.0878,0.468,0.0,0.0931,0.682,144.015,4,dance
+press,cardi b,45,2019,15VZk4nrY1ZKdTouZoaxub,Energy Hip Hop,0,143791,True,0.906,0.525,1,-5.665,1,0.291,0.029,5.76e-06,0.137,0.24,134.027,4,dance
+pretending,glee cast,21,2011,2uq0ZXtL4mF5pvZ8LeVIDo,"Glee: The Music, Volume 6",44,237520,False,0.477,0.687,9,-5.721,1,0.0468,0.291,0.0,0.118,0.421,167.947,4,club
+pretty good at drinkin' beer,billy currington,49,2010,7DSTFdDCDdAaD8hMtAmLzh,Tailgate Country,0,179906,False,0.769,0.678,5,-3.725,1,0.0315,0.427,8.04e-06,0.0939,0.581,106.953,4,country
+promises,nero,38,2012,4UZifG6wVTl3dFIeHKLi8y,Welcome Reality,56,257386,False,0.484,0.943,9,-4.364,0,0.0647,3.77e-05,0.00452,0.593,0.345,143.933,4,drum-and-bass
+proud,marshmello,44,2019,4YXKVaWzHaVyDq2pVS5cgR,Joytime III,55,191000,False,0.521,0.716,0,-4.999,1,0.0364,0.0372,0.0,0.148,0.12,77.562,4,progressive-house
+proud mary,tina turner,23,2023,6gJdDnF2TzfA1WPMXuCa3x,What's Love Got to Do with It?,67,327400,False,0.397,0.499,2,-10.972,1,0.0685,0.0766,1.55e-06,0.111,0.367,171.067,4,disco
+provenza,karol g,50,2022,51R9caoQ0l5bZ1ahBeqJq9,Verano en Junio,0,210200,False,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,4,reggae
+pumped up kicks,foster the people,47,2012,7w87IxuO7BDcJ3YUqCyMTT,Torches,84,239600,False,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,4,indie
+punani,6ix9ine,34,2020,3ld2fjhbRmMXHOeF1nzOdr,TattleTales,57,115254,True,0.841,0.541,9,-7.121,1,0.229,0.0186,0.0,0.123,0.42,97.961,4,emo
+push my luck,the chainsmokers,47,2019,4h8Pmw3RELdsanPjssyJoB,World War Joy,58,181853,False,0.563,0.645,2,-6.422,1,0.0428,0.293,0.0,0.202,0.523,89.976,4,edm
+put your records on,corinne bailey rae,41,2007,6Kt6Lnwhmw13qeD345A84E,OO's Music Grandi Successi,0,215413,False,0.736,0.506,9,-7.857,1,0.0344,0.182,3.57e-06,0.134,0.563,96.083,4,british
+que tire pa lante,daddy yankee,34,2019,6RyaV7owmVU6fzEPE17sF1,Que Tire Pa Lante,69,210520,False,0.658,0.901,7,-2.814,1,0.0357,0.0478,0.0,0.12,0.708,93.979,4,latino
+queen of broken hearts,blackbear,22,2020,1xyUCr7dIJYaUaaiDf4Q1L,everything means nothing,67,171171,True,0.717,0.712,0,-6.098,1,0.0765,0.00663,0.0,0.0756,0.825,97.019,4,electro
+queens don't,raelynn,50,2018,7ogBckkBvJJDRdn2ZNNUb4,Cozy Country,0,185586,False,0.658,0.695,0,-5.499,1,0.0279,0.0708,0.0,0.13,0.572,133.939,4,country
+rgf island,fetty wap,46,2015,1iuljeYz6ZG3GTJOZZkoer,Fetty Wap (Deluxe),59,173893,True,0.746,0.764,0,-5.066,0,0.0423,0.00116,8.19e-06,0.0867,0.518,137.98,4,j-dance
+radioactive,imagine dragons,22,2022,62yJjFtgkhUrXktIoSjgP2,Night Visions,80,186813,False,0.448,0.784,9,-3.686,1,0.0627,0.106,0.000108,0.668,0.236,136.245,4,rock
+rain is a good thing,luke bryan,46,2010,754GZNuFfUJ0RVPjG8Gwaw,Artsy & Colourful,0,176160,False,0.622,0.931,11,-4.66,0,0.0507,0.106,2.45e-06,0.328,0.521,108.051,4,country
+rainbow,kacey musgraves,44,2020,79qxwHypONUt3AFq0WPpT9,Golden Hour,70,214293,False,0.581,0.197,3,-7.697,1,0.0329,0.88,0.0,0.107,0.349,130.367,4,country
+rap devil,machine gun kelly,33,2018,7hgxdDJAyaQKsGl9ZquRsh,Twisted Halloween Hits,0,286117,True,0.895,0.839,0,-4.51,1,0.227,0.217,2.89e-06,0.239,0.754,149.952,4,hip-hop
+rap god,eminem,45,2014,6or1bKJiZ06IlK0vFvY75k,The Marshall Mathers LP2 (Deluxe),78,363521,True,0.708,0.843,7,-2.66,1,0.314,0.397,0.0,0.799,0.625,148.14,4,hip-hop
+reckless love,cory asbury,50,2018,0rH0mprtecH3grD9HFM5AD,Reckless Love,70,333386,False,0.572,0.685,6,-7.29,1,0.0356,0.0291,0.0,0.0963,0.232,110.698,4,world-music
+red cold river,breaking benjamin,14,2018,6ZfPmIbwzz6fopTNwAJTPs,Ember,58,200906,False,0.376,0.967,3,-3.277,0,0.166,0.000248,2.64e-06,0.0575,0.226,91.582,4,grunge
+rehab,amy winehouse,20,2011,3N4DI1vuTSX1tz7fa2NQZw,Back To Black (Deluxe Edition),73,214946,False,0.407,0.558,0,-13.609,1,0.0552,0.0541,1.51e-06,0.34,0.777,71.815,4,british
+remedy,adele,17,2015,1zZh6zTXcDgvN0C6S1G4gU,25,65,245426,False,0.405,0.3,2,-6.475,1,0.0378,0.894,0.0,0.154,0.24,162.355,3,british
+renegades,x ambassadors,34,2015,0fYVliAYKHuPmECRs1pbRf,VHS,76,195200,False,0.526,0.862,2,-6.003,1,0.0905,0.0144,0.0597,0.229,0.528,90.052,4,alt-rock
+replay,iyaz,48,2010,4E5P1XyAFtrjpiIxkydly4,Replay,76,182306,False,0.706,0.751,9,-6.323,1,0.0708,0.173,0.0,0.168,0.195,91.031,4,dance
+rescue,lauren daigle,46,2023,7r9kOxiNDnkAg5QKqtyjVk,Look Up Child,69,215613,False,0.293,0.237,6,-8.17,1,0.0284,0.78,0.0,0.11,0.108,92.935,4,alt-rock
+rescue me,onerepublic,11,2019,4FJFz3htV3dahKGoa2mGzh,pov: it's 2019,0,159650,False,0.761,0.606,11,-7.742,0,0.0424,0.157,0.0,0.574,0.646,121.038,4,piano
+respect,bts,26,2020,2yKBnKOmPXePrbHqRv42r4,MAP OF THE SOUL : 7,64,237540,False,0.661,0.838,0,-4.806,1,0.116,0.00491,0.0,0.287,0.526,91.463,4,k-pop
+return of the mack,mark morrison,31,2020,3jDdpx9PMlfMBS5tOBHFm9,Return of the Mack,75,213093,False,0.715,0.833,2,-5.379,1,0.108,0.00631,0.0,0.164,0.612,95.487,4,british
+rhythm of love,plain white t's,38,2011,1OUxBM6TphEnDh4EQkNRv1,Wonders Of The Younger (International Version),53,200200,False,0.531,0.549,8,-7.895,1,0.0378,0.363,0.0,0.118,0.681,171.781,4,punk-rock
+ride,twenty one pilots,49,2017,2Z8WuEywRWYTKe1NybPQEW,Blurryface,82,214506,False,0.645,0.713,6,-5.355,1,0.0393,0.00835,0.0,0.113,0.566,74.989,4,rock
+right here,staind,43,2005,36IkR2i4HaV3SRsSHzje6v,Chapter V,46,251013,False,0.487,0.627,10,-6.506,0,0.0304,0.00141,3e-05,0.109,0.219,112.269,4,grunge
+right now (na na na),akon,46,2009,2VqAEP1yY5T523K7bZtL8a,Freedom,71,240746,False,0.83,0.857,8,-4.194,0,0.152,0.262,0.0,0.413,0.607,137.982,4,dance
+riptide,vance joy,46,2015,7yq4Qj7cqayVTp3FF9CWbm,Dream Your Life Away,82,204280,False,0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,0.51,101.654,4,folk
+rise up,andra day,3,2021,0tV8pOpiNsKqUys0ilUcXz,Cheers to the Fall,73,253342,False,0.398,0.316,1,-7.031,1,0.0368,0.805,0.0,0.295,0.174,118.582,4,soul
+rock and a hard place,bailey zimmerman,49,2023,4kUrtRwzg1W6jN38Qk0Z5U,All That Really Matters - Just Hits,0,207540,False,0.582,0.568,1,-7.3,1,0.0275,0.577,0.0,0.105,0.394,121.991,3,country
+rockin' around the christmas tree,brenda lee,11,2025,6miHkzLx5cKHhxSP3ozWQ6,Country Christmas Greatest Hits,1,124906,False,0.708,0.593,8,-6.167,1,0.046,0.764,0.0,0.484,0.856,140.508,4,rockabilly
+rockstar,nickelback,25,2023,3RlsVPIIs5KFhLFhxZ4iDF,All the Right Reasons (Walmart Exclusive Edition),70,252040,False,0.616,0.91,0,-3.004,1,0.0386,0.0459,0.0,0.343,0.693,144.072,4,alt-rock
+rolling in the deep,adele,47,2021,4OSBTYWVwsQhGLF9NHvIbR,21,81,228093,True,0.73,0.769,8,-5.114,1,0.0298,0.138,0.0,0.0473,0.507,104.948,4,british
+rompe,daddy yankee,46,2006,4Xtlw8oXkIOvzV7crUBKeZ,Barrio Fino En Directo,74,188626,True,0.696,0.858,9,-5.155,1,0.0859,0.0727,3.19e-06,0.0631,0.533,176.061,4,latino
+roses,saint jhn,50,2020,3mRlFZHUyvJbPTlkzg4LyJ,Collection One,62,173610,True,0.782,0.5,5,-6.473,0,0.0611,0.342,1.88e-05,0.133,0.28,102.008,4,house
+rude,magic!,41,2015,6RtPijgfPKROxEzTHNRiDp,Don't Kill the Magic,81,224840,False,0.773,0.758,1,-4.993,1,0.0381,0.0422,0.0,0.305,0.925,144.033,4,reggae
+ruff ryders' anthem,dmx,2,2021,1BKT2I9x4RGKaKqW4up34s,It's Dark And Hell Is Hot,70,214440,True,0.88,0.577,10,-8.093,0,0.302,0.0564,1.02e-06,0.201,0.74,90.991,4,hardcore
+rumour has it,adele,44,2012,5mFMb5OHI3cN0UjITVztCj,21,67,223266,False,0.612,0.749,0,-5.014,1,0.0446,0.615,0.0,0.167,0.574,120.052,4,british
+rumour has it / someone like you,glee cast,36,2011,5iYUt3rsgrGFU0nugdhYwj,"Glee: The Music, Volume 7",54,207946,False,0.64,0.896,6,-3.221,0,0.079,0.275,0.0,0.147,0.751,123.071,4,club
+run,foo fighters,43,2017,1wLQwg0mloy3yXjL0jPE0N,Concrete and Gold,61,323373,False,0.365,0.892,4,-8.036,0,0.0786,3.31e-05,0.0948,0.751,0.176,136.133,4,grunge
+run,leona lewis,44,2008,4hrAKlxfblnG7llBEEX7TR,Spirit,62,314720,False,0.285,0.462,5,-6.166,0,0.0291,0.428,5.61e-06,0.122,0.0923,142.365,4,british
+run,onerepublic,47,2021,3tjC9XdMwEF8KW82F6rV6f,Frühstücksmusik Herbst/Winter 2022/2023,0,169010,False,0.682,0.72,11,-8.173,0,0.0381,0.326,0.0,0.148,0.673,117.003,4,piano
+run bts,bts,3,2022,69xohKu8C1fsflYAiSNbwM,Proof,84,204939,False,0.724,0.818,8,-3.747,1,0.168,0.0201,0.0,0.0358,0.696,77.004,4,k-pop
+run rudolph run,chuck berry,35,2023,1S4rxDloMtAduogKeiJZmR,CHRISTMAS TOP HITS 2022,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,blues
+runaround sue,dion,35,2021,1DndHckdH9m5rp6gYP086b,Runaround Sue,67,171600,False,0.364,0.607,2,-9.791,1,0.125,0.451,0.0,0.251,0.598,79.987,4,rock-n-roll
+running up that hill (a deal with god),kate bush,39,2022,75FEaRjZTKLhTrFGsfMUXR,Hounds Of Love,90,298933,False,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4,piano
+sad!,xxxtentacion,35,2019,3ee8Jmje8o58CHK66QrVC2,?,83,166605,True,0.74,0.613,8,-4.88,1,0.145,0.258,0.00372,0.123,0.473,75.023,4,emo
+safe and sound,capital cities,42,2014,6Z8R6UsFuGXGtiIxiD8ISb,In A Tidal Wave Of Mystery (Deluxe Edition),83,192789,False,0.655,0.819,0,-4.852,1,0.0316,0.000176,0.00374,0.104,0.766,117.956,5,rock
+safety dance,glee cast,48,2010,05wRpBHnbs5xsz8UhRZz3x,Glee The 3D Concert Movie (Motion Picture Soundtrack),20,154626,False,0.609,0.947,8,-5.823,0,0.234,0.0389,0.0,0.956,0.177,105.012,4,club
+safety zone,j-hope,11,2022,00I41xsW6SunZDJ5fB8KAd,Jack In The Box,68,165340,False,0.676,0.742,8,-5.017,1,0.162,0.561,0.0,0.155,0.694,77.071,4,k-pop
+sailing,christopher cross,43,2020,6Hu6dzwlvoyg3zBUC8k4BK,Christopher Cross,71,256146,False,0.469,0.382,2,-13.203,1,0.0374,0.364,0.00025,0.36,0.178,149.994,4,disco
+same old love,selena gomez,40,2016,6ZANrVuAMp2rpjhfbOuJly,Revival (Deluxe),71,229080,False,0.672,0.593,11,-4.01,0,0.0304,0.0223,0.0,0.214,0.438,98.02,4,dance
+santeria,sublime,25,2022,5mhWD3cDX9JTP0ukiEzNWf,Hits Pop Rock 90's,1,183200,False,0.665,0.751,4,-5.003,1,0.041,0.0209,5.16e-06,0.121,0.58,90.376,4,punk
+save your tears,the weeknd,43,2021,5QO79kh1waicV47BqGRL3g,After Hours,89,215626,True,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,4,pop
+savin' me,nickelback,45,2006,4Gd9PUEuOTOJtbgd4YxLXM,All the Right Reasons,70,219320,False,0.441,0.815,3,-4.088,1,0.0276,0.000731,0.0,0.414,0.522,164.007,4,grunge
+say,john mayer,49,2008,6wZI4mdT8JwXgkGURnBQiq,Say,61,230213,False,0.485,0.723,10,-6.565,1,0.0317,0.541,1.12e-06,0.075,0.541,167.845,4,singer-songwriter
+say it right,nelly furtado,48,2007,2aI21FnmY7TJVKeMaoQZ0t,Loose,79,223080,False,0.872,0.872,1,-6.328,1,0.139,0.0476,0.00112,0.0543,0.809,116.948,4,latin
+say so,doja cat,41,2020,3Dv1eDb0MEgF93GpLXlucZ,Hot Pink,79,237893,True,0.787,0.673,11,-4.583,0,0.159,0.264,3.35e-06,0.0904,0.779,110.962,4,dance
+say you won't let go,james arthur,25,2017,5uCax9HTNlzGybIStD3vDh,Back from the Edge,85,211466,False,0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,0.494,85.043,4,pop
+scars to your beautiful,alessia cara,25,2017,42ydLwx4i5V49RXHOozJZq,Know-It-All (Deluxe),74,230226,False,0.319,0.739,0,-5.74,1,0.272,0.0285,0.0,0.111,0.449,194.169,4,dance
+schism,tool,10,2019,55mJleti2WfWEFNFcBduhc,Lateralus,70,403533,False,0.567,0.714,9,-8.512,0,0.0302,0.0012,0.417,0.186,0.191,107.441,3,alt-rock
+second chance,shinedown,50,2009,0CwYG1UnRmOx8Q1EzElCIL,The Sound of Madness,69,222066,False,0.46,0.796,0,-4.501,0,0.0333,0.00107,0.0,0.106,0.182,100.011,4,grunge
+secrets,onerepublic,43,2011,1NhPKVLsHhFUHIOZ32QnS2,Waking Up,76,224693,False,0.516,0.764,2,-6.223,1,0.0366,0.0717,0.0,0.115,0.376,148.021,4,piano
+send my love (to your new lover),adele,42,2016,563SfWAHJs4FBZMkRN0IFN,25,72,223078,False,0.688,0.533,6,-8.363,0,0.0865,0.0355,3.48e-06,0.172,0.567,164.069,4,british
+sensual seduction,snoop dogg,44,2008,7ztnHRxtI7ZoozdxdBXXtf,Hip Hop: The Collection 2008,45,245746,False,0.762,0.774,11,-5.586,1,0.0805,0.00304,0.000126,0.0674,0.474,120.201,4,funk
+separate ways (worlds apart),journey,35,2022,4ECNtOnqzxutZkXP4TE3n3,Frontiers,74,323706,False,0.451,0.962,0,-3.947,1,0.0734,0.0188,3.17e-06,0.277,0.377,131.435,4,hard-rock
+set fire to the rain,adele,45,2012,3di5hcvxxciiqwMH1jarhY,21,80,242973,False,0.603,0.67,2,-3.882,0,0.0249,0.00408,1.68e-06,0.112,0.446,107.993,4,british
+shadow of the day,linkin park,45,2008,4Sxx1wd4nnB8ob8Zsujwrs,Minutes to Midnight,52,290360,False,0.534,0.393,11,-7.813,1,0.0292,0.00479,0.0107,0.107,0.0641,110.007,4,alternative
+shake it,metro station,42,2009,5619Ojc6t9evEEs3B7Drhe,Metro Station,69,179946,False,0.618,0.955,4,-3.836,1,0.0798,0.00221,3.09e-06,0.486,0.79,150.034,4,punk
+shape of you,ed sheeran,40,2021,7qiZfU4dY1lWllzX7mPBI3,÷ (Deluxe),86,233712,False,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,4,pop
+she had me at heads carolina,cole swindell,40,2023,72kjJq1k5ki32RBxu1TF3j,Country Car Hits,2,206106,False,0.607,0.912,8,-3.449,1,0.0611,0.124,0.0,0.332,0.722,134.944,4,country
+she is love,parachute,47,2009,2Dz5WpEWA0vhnMmEPYiZ2y,Losing Sleep,60,146066,False,0.629,0.174,6,-9.697,1,0.141,0.616,0.0,0.118,0.305,134.295,1,acoustic
+she used to be mine,sara bareilles,40,2022,2D4BSm5Z8Hq5zYbSgJwEOh,What's Inside: Songs from Waitress,67,250266,False,0.397,0.303,5,-7.508,1,0.0435,0.381,0.0,0.101,0.172,81.05,4,acoustic
+she's a rainbow,the rolling stones,38,2021,6KOtheMY0KN4s9TrQHr9It,She's A Rainbow / Dandelion / We Love You,67,253720,False,0.464,0.824,10,-7.359,1,0.0374,0.467,0.018,0.33,0.539,109.298,4,british
+she's so mean,matchbox twenty,50,2012,2toY6JyyfKy9TwNk3Ou2XG,North (Deluxe Edition),61,232320,False,0.672,0.875,0,-3.728,1,0.0378,0.0136,0.0,0.279,0.676,118.014,4,grunge
+shine,collective soul,29,2023,77YKoNCjP5hWqiXMRG2839,"Hints, Allegations & Things Left Unsaid",70,306040,False,0.543,0.423,6,-8.797,1,0.0282,0.295,0.0862,0.152,0.355,150.132,4,grunge
+shivers,ed sheeran,32,2022,1euRAecw6xEwkt6lPXMbFP,Today's Party Hits,0,207853,False,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,4,pop
+shot in the dark,ac/dc,5,2020,0sfdiwck2xr4PteGOdyOfz,POWER UP,63,185133,False,0.599,0.787,2,-4.708,1,0.0338,2.07e-05,5.27e-05,0.064,0.822,114.065,4,hard-rock
+shot in the dark,ozzy osbourne,23,2025,31dqpLUModJWNbxrXu6TWd,The Ultimate Sin,65,256293,False,0.581,0.791,6,-7.262,1,0.0324,0.00835,6.02e-05,0.142,0.619,123.887,3,hard-rock
+shower,becky g,47,2014,3DmW6y7wTEYHJZlLo1r6XJ,Shower,78,206166,False,0.699,0.529,2,-7.548,1,0.0487,0.0317,3.59e-05,0.285,0.121,119.987,4,dance
+shut down,blackpink,11,2022,6tCd8bPvYnceDG7W9M1RMk,BORN PINK,87,175889,False,0.813,0.657,0,-6.447,1,0.0372,0.00269,0.0,0.183,0.651,110.053,3,k-pop
+shut up and dance,walk the moon,45,2016,4kbj5MwxO1bq9wjT5g9HaA,TALKING IS HARD,83,199080,False,0.578,0.866,1,-3.804,1,0.0619,0.00701,0.0,0.257,0.619,128.038,4,alt-rock
+sick boy,the chainsmokers,33,2018,58kZ9spgxmlEznXGu6FPdQ,Sick Boy,69,193200,False,0.663,0.577,11,-7.518,0,0.0531,0.109,0.0,0.12,0.454,89.996,4,edm
+sicko mode,travis scott,35,2020,2xLMifQCjDGFmkHkpNLD9h,ASTROWORLD,83,312820,True,0.834,0.73,8,-3.714,1,0.222,0.00513,0.0,0.124,0.446,155.008,4,hip-hop
+silly love songs,glee cast,24,2011,2JzWtF26a8dySdtK2iNIf8,Glee The 3D Concert Movie (Motion Picture Soundtrack),16,153493,False,0.508,0.752,0,-8.823,1,0.0521,0.435,0.0,0.939,0.381,124.949,4,club
+simple,florida georgia line,45,2018,4L9Ds4mpD3SuYoWwFUlv16,Can't Say I Ain't Country,73,185200,False,0.362,0.882,3,-3.717,1,0.0973,0.0791,0.0,0.15,0.864,199.811,4,country
+simple man,lynyrd skynyrd,46,2022,1ju7EsSGvRybSNEsRvc7qY,Pronounced' Leh-'Nerd 'Skin-'Nerd,74,356626,False,0.422,0.752,6,-8.682,1,0.0449,0.0366,0.000119,0.129,0.403,120.471,4,blues
+single saturday night,cole swindell,20,2021,0dA9bpWJw0yejIthqosxKb,Single Saturday Night - Country Songs,0,189960,False,0.634,0.786,7,-5.093,1,0.0411,0.129,0.0,0.182,0.653,82.003,4,country
+singles you up,jordan davis,48,2018,1nSYUQngGS5foiagiilbYU,Mientras hago aromaterapia,0,182693,False,0.634,0.903,7,-3.588,1,0.0323,0.0465,0.0,0.255,0.559,100.083,4,country
+singularity,bts,44,2021,2ApfJvLr7RbhJl6NOVhEu6,Love Yourself 結 'Answer',63,196998,False,0.775,0.272,1,-9.126,0,0.091,0.56,0.00278,0.112,0.198,103.991,3,k-pop
+sirens,pearl jam,29,2013,1cAMXz9mnvrqyQLSG4KeeE,Lightning Bolt,63,340320,False,0.523,0.847,3,-5.888,1,0.028,0.00309,1.21e-05,0.146,0.475,155.032,4,grunge
+skyfall,adele,35,2021,6VObnIkLVruX4UVyxWhlqm,Skyfall,78,286480,False,0.346,0.552,0,-6.864,0,0.0282,0.417,0.0,0.114,0.0789,75.881,4,british
+slow down summer,thomas rhett,46,2021,16LAkUOZbmqdHgicUsHY1S,Sad Country Songs,8,216764,False,0.464,0.755,4,-5.707,1,0.0354,0.00838,0.0,0.0989,0.449,155.973,4,country
+smells like teen spirit,nirvana,13,2022,4CeeEOM32jQcH3eN9Q2dGj,Nevermind (Remastered),83,301920,False,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,4,alt-rock
+snowman,sia,15,2024,3IPpVTudk50Hj4VThfdzBP,Merry Christmas,3,165906,False,0.716,0.511,1,-6.257,1,0.0332,0.483,0.0,0.0928,0.324,104.964,3,dance
+so good,halsey,14,2022,6kxaaIeowajN7w21PfMLbu,So Good,77,176058,False,0.576,0.627,3,-4.649,0,0.0449,0.0385,0.0,0.181,0.311,164.998,4,dance
+so sick,ne-yo,35,2006,2yLNRRuTwuuv6v6IU3uXyu,OO's Music Grandi Successi,3,207186,False,0.679,0.682,6,-5.837,1,0.261,0.265,0.0,0.287,0.59,94.971,4,dance
+so will i,ben platt,47,2020,35hWvR2SVsWwzScQ4UEMED,Sing To Me Instead (Deluxe),45,251424,False,0.4,0.354,5,-8.69,1,0.04,0.785,1.17e-06,0.147,0.173,84.438,4,show-tunes
+sober,tool,32,2019,6DyywdbmTzlmXBzG9ym7Rt,Undertow,68,306853,True,0.385,0.673,2,-8.182,1,0.0329,0.000183,0.149,0.0721,0.187,149.271,4,metal
+somebody like that,tenille arts,38,2020,3hboOw4dS0aXGuP0fyyvbC,"Love, Heartbreak, & Everything in Between",72,198208,False,0.574,0.798,6,-5.356,1,0.0485,0.0152,0.0,0.111,0.58,105.034,4,country
+somebody to love,onerepublic,6,2019,0yc37FvbXRwwFaQxzpxbsd,Somebody To Love,56,181408,False,0.401,0.503,2,-8.084,1,0.0437,0.0158,0.0,0.134,0.236,118.491,4,piano
+somebody told me,the killers,50,2005,6ehaWPjsNSf5HWOXTEFSUi,Rock Workout 2023,0,200946,False,0.508,0.981,10,-3.23,0,0.0779,8.22e-05,0.000449,0.0555,0.746,138.011,4,alt-rock
+someone like you,adele,49,2021,3bNv3VuUOKgrf5hu3YcuRo,21,81,285240,False,0.556,0.319,9,-8.251,1,0.0281,0.893,0.0,0.0996,0.294,135.187,4,british
+someone you loved,lewis capaldi,41,2023,7qEHsqek33rTcFNT9PFqLf,Divinely Uninspired To A Hellish Extent,87,182160,False,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,4,pop
+something in the orange,zach bryan,22,2023,1e3QZ42GsP8cTy5uQ0G7J3,New Country,3,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+something in the way,nirvana,23,2022,4gHnSNHs8RyVukKoWdS99f,Nevermind (Remastered),76,232146,False,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4,alt-rock
+something in the way you move,ellie goulding,47,2016,0RhLvAINBnJo65rZMIVdOR,Fiesta de disfraces vol. II,0,226573,False,0.66,0.804,1,-6.133,0,0.0485,0.0402,0.0,0.129,0.359,109.0,4,dance
+somewhere i belong,linkin park,46,2017,3fjmSxt0PskST13CSdBUFx,Meteora (Bonus Edition),73,213933,False,0.451,0.951,1,-3.754,1,0.0645,0.00038,2.39e-06,0.261,0.442,162.065,4,alternative
+somewhere only we know,keane,46,2011,1SKPmfSYaPsETbRHaiA18G,Hopes And Fears,85,237146,False,0.448,0.665,9,-4.203,1,0.026,0.06,2.55e-05,0.0828,0.304,172.004,4,piano
+sorry,justin bieber,46,2016,7cC4Y0jQZ4eRoRqRQIau1x,Fiesta de disfraces vol. II,0,200786,False,0.679,0.748,0,-3.624,0,0.0385,0.0878,0.0,0.299,0.438,100.035,4,pop
+sorry not sorry,demi lovato,48,2018,2IUKSarmdxH3JeiSa2UZx2,Concierto en la ducha,0,203760,True,0.705,0.643,11,-6.929,0,0.232,0.0242,0.0,0.262,0.884,143.944,4,dance
+southbound,carrie underwood,49,2019,3wYce5GyRKkhKfUlUE5RID,Tailgate Country,0,202853,False,0.614,0.884,0,-4.019,1,0.0402,0.00122,0.0,0.077,0.721,100.523,4,country
+speechless,dan + shay,36,2021,7LgyKYscgD7wkzsLRRTTpd,Autumn Hits,0,213386,False,0.616,0.437,1,-5.968,1,0.0298,0.351,0.0,0.24,0.386,135.939,4,country
+spring day,bts,5,2023,2j1fFjWHCI9KJSwcuYAOyF,You Never Walk Alone,76,274097,False,0.539,0.846,8,-3.192,1,0.0354,0.00631,1.71e-06,0.13,0.462,106.994,4,k-pop
+stacy's mom,fountains of wayne,48,2005,27L8sESb3KR79asDUBu8nW,Welcome Interstate Managers,76,197986,False,0.774,0.75,11,-4.927,0,0.0412,0.00207,1.78e-05,0.0808,0.927,118.015,4,alt-rock
+stand up (from harriet),cynthia erivo,31,2020,3wNNbf63xkxw9rIVWtFy7a,Stand Up (From Harriet),70,303477,False,0.616,0.32,0,-10.194,1,0.0311,0.268,0.0,0.11,0.177,80.02,4,soul
+star walkin' (league of legends worlds anthem),lil nas x,44,2022,38T0tPVZHcPZyhtOcCP7pF,STAR WALKIN' (League of Legends Worlds Anthem),90,210575,True,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,4,hip-hop
+stargazing,travis scott,47,2018,7wBJfHzpfI3032CSD7CE2m,ASTROWORLD,75,270714,True,0.487,0.789,8,-3.69,1,0.044,0.00947,4.05e-06,0.189,0.0564,150.007,4,house
+stay,bts,10,2021,0TdWVbcerMAcvljXrl9gpG,BE,67,204800,False,0.582,0.693,6,-5.048,1,0.0465,0.114,0.0,0.13,0.341,125.904,4,k-pop
+stay,florida georgia line,45,2014,6rfDtM5aHbsaLGAUxfIgpN,Sad Country Songs,2,200426,False,0.493,0.931,1,-2.99,1,0.041,0.0838,0.0,0.172,0.556,141.979,4,country
+stay gold,bts,6,2020,3Ys2PYl1wyPKQIwyqhP9cQ,MAP OF THE SOUL : 7 ~ THE JOURNEY ~,68,243266,False,0.723,0.634,1,-5.415,1,0.0542,0.0892,0.0,0.0787,0.582,129.017,4,k-pop
+stayin' alive,bee gees,40,2021,4UDmDIqJIbrW0hMBQMFOsM,Staying Alive (Original Motion Picture Soundtrack),77,92866,False,0.707,0.535,10,-19.793,0,0.0436,0.113,0.00615,0.0884,0.641,103.644,4,disco
+steal my girl,one direction,45,2015,2Bs4jQEGMycglOfWPBqrVG,FOUR (Deluxe),80,228133,False,0.536,0.768,10,-5.948,0,0.0347,0.00433,0.0,0.114,0.545,77.217,4,pop
+stigma,bts,22,2021,3LTwMQ9kkn5VVhP3jipBlR,Wings,67,216063,False,0.566,0.475,0,-5.556,0,0.089,0.148,0.0,0.139,0.335,136.442,4,k-pop
+still into you,paramore,25,2023,1yjY7rpaAQvKwpdUliHx0d,Paramore,80,216013,False,0.602,0.923,5,-3.763,1,0.044,0.0098,0.0,0.0561,0.765,136.01,4,emo
+stitches,shawn mendes,49,2016,3zkWCteF82vJwv0hRLba76,Handwritten,80,206880,False,0.746,0.754,1,-6.684,1,0.0676,0.0152,0.0,0.0486,0.746,149.882,4,dance
+stolen,dashboard confessional,46,2007,6A4cQ6n7R5Kws0Gsan7gCF,The Best Ones of the Best Ones,37,233360,False,0.445,0.638,8,-5.024,1,0.0273,0.00117,0.0528,0.105,0.15,174.045,4,emo
+stolen dance,milky chance,49,2015,34xGLuxM0rkxhCVyMSqwJO,Sadnecessary,80,313684,False,0.884,0.581,11,-8.813,1,0.0378,0.427,0.000206,0.0759,0.728,114.016,4,german
+stop and stare,onerepublic,47,2008,0keNCZtbWrvhO3TuDuyUni,De ese gran pop de los 00's,0,223800,False,0.329,0.866,4,-4.328,1,0.0484,0.0724,0.0,0.0869,0.257,184.793,4,piano
+story of my life,one direction,34,2014,4nVBt6MZDDP6tRVdQTgxJg,Midnight Memories (Deluxe),83,245493,False,0.6,0.663,3,-5.802,1,0.0477,0.225,0.0,0.119,0.286,121.07,4,pop
+streets,doja cat,41,2021,60ynsPSSKe6O3sfwRnIBRf,Hot Pink,83,226986,True,0.749,0.463,11,-8.433,1,0.0842,0.21,0.0382,0.338,0.189,90.035,4,dance
+stressed out,twenty one pilots,43,2023,3CRDbSIZ4r5MsZ0YwxuEkn,Blurryface,85,202333,False,0.734,0.637,4,-5.677,0,0.141,0.0462,2.29e-05,0.0602,0.648,169.977,4,rock
+stupid love,lady gaga,31,2020,5Qyu0SLOpSyn4yKercAsUc,pov: it's 2020,0,193533,False,0.68,0.825,8,-4.296,1,0.0702,0.00173,0.000122,0.27,0.784,117.987,4,dance
+sucker,jonas brothers,49,2020,22vgEDb5hykfaTwLuskFGD,Happiness Begins,81,181026,False,0.842,0.734,1,-5.065,0,0.0588,0.0427,0.0,0.106,0.952,137.958,4,dance
+suddenly i see,kt tunstall,49,2007,7cPuE0M35EajWPRO3nRcH8,OO's Music Grandi Successi,0,199040,False,0.603,0.78,0,-5.531,1,0.0438,0.139,0.0,0.164,0.693,100.499,4,acoustic
+summer,calvin harris,47,2014,6YUTL4dYpB9xZO5qExPf05,Motion,82,222533,False,0.596,0.856,4,-3.556,0,0.0346,0.0211,0.0178,0.141,0.743,127.949,4,electro
+summer of '69,bryan adams,22,2022,0GONea6G2XdnHWjNZd6zt3,Reckless (30th Anniversary / Deluxe Edition),82,216053,False,0.508,0.834,2,-6.205,1,0.0386,0.0183,0.0,0.0732,0.774,139.131,4,rock
+sun daze,florida georgia line,49,2015,2wSZhX2Yvslh1oZFFjj45p,Tailgate Country,0,185400,False,0.484,0.944,4,-3.652,1,0.0413,0.0901,0.0,0.471,0.839,170.064,4,country
+sunday best,surfaces,46,2020,1Cv1YLb4q0RzL6pybtaMLo,Where the Light Is,77,158571,False,0.878,0.525,5,-6.832,1,0.0578,0.183,0.0,0.0714,0.694,112.022,4,soul
+sunshine & whiskey,frankie ballard,45,2014,7DcwXqqkkUXRbkyqTrjnwF,New Country,0,182400,False,0.67,0.737,9,-6.794,1,0.0434,0.223,0.0,0.325,0.753,92.958,4,country
+super freak,rick james,43,2022,5M8e1as5YJkh02XWaM2J5L,Helloween Party,3,204600,False,0.857,0.796,9,-6.866,0,0.0527,0.079,0.0,0.0503,0.944,132.528,4,disco
+super freaky girl,nicki minaj,40,2022,4C6Uex2ILwJi9sZXRdmqXp,Super Freaky Girl,92,170977,True,0.95,0.891,2,-2.653,1,0.241,0.0645,1.77e-05,0.309,0.912,133.01,4,dance
+survivor / i will survive,glee cast,23,2011,6m2qba8pt0oa13nBLA2Nt2,"Glee: The Music, The Complete Season Three",54,208573,False,0.563,0.913,9,-4.384,0,0.225,0.00773,0.0,0.127,0.311,128.083,4,club
+suspicious minds,elvis presley,42,2022,1H5IfYyIIAlgDX8zguUzns,From Elvis in Memphis,76,261279,False,0.487,0.382,7,-10.889,1,0.0309,0.0422,4.74e-06,0.411,0.714,116.557,4,rock-n-roll
+sweater weather,the neighbourhood,34,2014,2QjOHCTQ1Jl3zawyYOpxh6,I Love You.,93,240400,False,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4,alt-rock
+sweet but psycho,ava max,24,2022,7DnAm9FOTWE3cUvso43HhI,Heaven & Hell,81,187436,False,0.72,0.706,1,-4.719,1,0.0473,0.0684,0.0,0.166,0.62,133.002,4,dance
+sweet child o' mine,guns n' roses,33,2022,7o2CTH4ctstm8TNelqjb51,Appetite For Destruction,84,354520,True,0.454,0.91,6,-7.766,1,0.0448,0.0866,0.0996,0.116,0.629,125.116,4,hard-rock
+sweet home alabama,lynyrd skynyrd,23,2023,7ho8AmAGyByBomWJPwThKX,Sweet Home Alabama,2,285373,False,0.614,0.724,7,-7.521,1,0.0247,0.217,0.000256,0.146,0.902,97.863,4,blues
+sweetest devotion,adele,33,2015,2Eb7QQ5soJQBEYTfSb5BS6,25,55,251701,False,0.416,0.752,0,-5.471,1,0.0396,0.251,0.0,0.125,0.266,155.89,3,british
+t.n.t.,ac/dc,50,2012,7LRMbd3LEoV5wZJvXT1Lwb,High Voltage,78,214666,False,0.754,0.759,9,-5.218,1,0.302,0.153,0.000108,0.101,0.435,126.366,4,hard-rock
+tv,billie eilish,14,2022,2fLY3sJdbXHDj7FaQHNqKg,Mega Hits Autumn/Fall 2022,8,281380,False,0.412,0.236,4,-15.159,0,0.0379,0.83,0.00653,0.147,0.119,140.214,4,pop
+take me home for christmas,dan + shay,28,2020,74neN8NvU5LnqgzBibX6MH,Country Christmas Time,1,203880,False,0.694,0.769,6,-4.665,1,0.0325,0.163,0.0,0.0976,0.663,93.033,4,country
+take me home tonight,eddie money,13,2019,7b4yGtR0rujvLi5EBfKKJ2,Can't Hold Back,70,211160,False,0.608,0.768,1,-9.911,1,0.0364,0.101,1.41e-06,0.0942,0.748,132.699,4,hard-rock
+take me out,franz ferdinand,43,2005,20I8RduZC2PWMWTDCZuuAN,Franz Ferdinand,79,237026,False,0.277,0.663,4,-8.821,0,0.0377,0.000409,0.00051,0.136,0.527,104.561,4,alt-rock
+take me to church,hozier,41,2015,3dYD57lRAUcMHufyqn9GcI,Hozier,83,241688,False,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,4,singer-songwriter
+take my name,parmalee,38,2022,7g0Zfd5J6Hzx9M2fRUMuba,For You,33,157906,False,0.559,0.66,7,-4.143,1,0.0512,0.222,0.0,0.193,0.574,163.957,4,country
+take you dancing,jason derulo,44,2020,59qrUpoplZxbIZxk6X0Bm3,Take You Dancing,78,190306,False,0.789,0.711,2,-4.248,1,0.041,0.0332,0.0,0.0876,0.753,112.985,4,dance
+talking body,tove lo,46,2015,7cgu4JBW3hq1GwTM1ilkKQ,Queen Of The Clouds,67,238426,True,0.736,0.761,4,-5.449,0,0.0338,0.0966,0.0,0.0823,0.114,119.999,4,electro
+teardrops,bring me the horizon,44,2020,3WATWS2Ywo5HeHtG0bE2iZ,POST HUMAN: SURVIVAL HORROR,67,215003,True,0.497,0.916,7,-3.323,1,0.108,0.000323,0.0,0.36,0.401,96.051,4,metal
+teenagers,my chemical romance,46,2007,27pyhbC00sCtwKPhlQtOGe,Timeless Rock Hits,2,161920,False,0.459,0.858,4,-3.063,1,0.0626,0.0506,0.0,0.184,0.855,111.682,4,emo
+teeth,5 seconds of summer,29,2019,26wLOs3ZuHJa2Ihhx6QIE6,13 Reasons Why (Season 3),79,204887,False,0.756,0.448,3,-2.993,0,0.0404,0.0508,3.87e-06,0.11,0.431,139.031,4,dance
+telepathy,bts,4,2020,6Fnvi5QnVkTskSzeRvvQds,BE,70,202313,False,0.787,0.669,5,-4.333,0,0.0428,0.00782,0.0,0.123,0.57,104.994,4,k-pop
+telephone,glee cast,11,2010,1oqIgJpPpW9wwXcitli8EF,"Glee: The Music, The Complete Season Two",44,222960,False,0.729,0.804,5,-5.183,0,0.0329,0.00363,3.12e-06,0.11,0.749,122.021,4,club
+temperature,sean paul,45,2023,0k2GOhqsrxDTAbFFSdNJjT,The Trinity,79,218573,False,0.951,0.6,0,-4.675,0,0.0685,0.106,0.0,0.0712,0.822,125.04,4,dance
+tennessee orange,megan moroney,43,2023,29zZmiBDLykYYTj7RN6VhV,Tennessee Orange,78,223119,False,0.38,0.488,9,-6.637,1,0.029,0.126,7.23e-06,0.115,0.268,156.031,3,country
+tennessee whiskey,chris stapleton,50,2023,3fqwjXwUGN6vbzIwvyFMhx,Traveller,81,293293,False,0.392,0.37,9,-10.888,1,0.0298,0.205,0.0096,0.0821,0.512,48.718,4,country
+tequila,dan + shay,33,2023,42fw0rxRO2xbesF6mJfd4Y,Dan + Shay,72,196746,False,0.489,0.581,11,-5.731,1,0.0281,0.0312,0.0,0.132,0.494,86.016,4,country
+that's hilarious,charlie puth,39,2022,1EFtJ2XXzkHhpb6tcLyauv,US Pop 20s,1,146855,True,0.714,0.442,6,-5.909,1,0.0605,0.742,0.0,0.114,0.546,108.039,4,dance
+that's not my name,the ting tings,38,2009,1i1OuCNhNf7JwrlWlFZFu1,We Started Nothing,58,310573,False,0.755,0.901,9,-3.152,1,0.0893,0.0451,0.0373,0.363,0.959,145.042,4,punk
+that's what i like,bruno mars,45,2017,0KKkJNfGyhkQ5aFogxQAPU,24K Magic,83,206693,False,0.853,0.56,1,-4.961,1,0.0406,0.013,0.0,0.0944,0.86,134.066,4,dance
+thats what i want,lil nas x,41,2022,0e8nrvls4Qqv5Rfa2UhqmO,MONTERO,87,143901,True,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,0.546,87.981,4,hip-hop
+the best,tina turner,33,2023,6pPWRBubXOBAHnjl5ZIujB,Foreign Affair,69,329800,False,0.662,0.737,0,-9.54,1,0.0296,0.108,0.0191,0.119,0.744,103.867,4,disco
+the blower's daughter,damien rice,41,2004,1k6As9e3M8qfijnNhDebO0,Session Acoustique,0,286653,False,0.343,0.2,4,-13.569,1,0.0324,0.134,0.000161,0.341,0.074,133.054,4,singer-songwriter
+the bones,maren morris,47,2021,7yFhA2fUsL2oIMWlw5DaHQ,GIRL,75,197293,False,0.612,0.57,11,-6.642,0,0.0347,0.278,0.0,0.0963,0.334,77.004,4,country
+the boys of summer,don henley,21,2021,2einB00Doep8LZImPipb9r,80s Bangers Vol. 1,1,288333,False,0.516,0.775,6,-6.409,1,0.0412,0.396,0.00129,0.21,0.858,177.401,4,country
+the catalyst,linkin park,43,2010,6mQD0vGdFrQMeTADOSIEwx,A Thousand Suns,36,339853,False,0.56,0.925,0,-5.48,1,0.0362,0.0372,0.0,0.104,0.178,135.009,4,alternative
+the cave,mumford & sons,49,2011,2F79HavLHwJlfvvJOkkIQD,Sigh No More,62,215626,False,0.592,0.499,4,-9.463,1,0.0375,0.0536,4.52e-05,0.113,0.346,141.937,4,folk
+the chapeltown rag,slipknot,19,2021,5jeh4hwbQJnnAJHZV9fqeo,"The End, So Far",68,289226,True,0.538,0.997,8,-2.27,1,0.205,0.00232,0.00159,0.12,0.0702,95.016,4,metal
+the cure,lady gaga,20,2017,6eAqQwedSE2wsOm8K08BHv,Concierto en la ducha,0,211363,False,0.696,0.506,8,-4.863,1,0.0325,0.0799,0.0,0.0893,0.516,100.003,4,dance
+the day that never comes,metallica,26,2008,13Uvqll8OQDjw3wDweIK9y,Death Magnetic,65,476266,False,0.334,0.982,4,-2.293,0,0.0619,9.11e-05,0.149,0.106,0.501,126.883,4,hard-rock
+the days,avicii,36,2014,0g2zW7vCyWkUJg5aQjOwi7,Almorzando solo,0,278480,False,0.59,0.724,0,-3.278,1,0.0439,0.04,4.07e-05,0.142,0.526,127.05,4,dance
+the diary of jane,breaking benjamin,41,2006,5m9uiFH9sK5wxRZdfN62n9,Shallow Bay: The Best Of Breaking Benjamin (Explicit),59,200213,False,0.39,0.958,10,-4.455,0,0.0622,5.67e-05,0.0437,0.121,0.348,167.045,4,grunge
+the edge of glory,lady gaga,44,2017,0ZcATDHTa1c128KqmVUk2j,Workout Hits 2023,3,320626,False,0.583,0.766,9,-6.47,1,0.0408,0.000348,0.0125,0.108,0.395,127.95,4,dance
+the feels,twice,5,2021,308Ir17KlNdlrbVLHWhlLe,Formula of Love: O+T=<3,78,198053,False,0.808,0.903,9,-2.179,1,0.0729,0.0899,0.0,0.0816,0.922,120.044,4,k-pop
+the foundations of decay,my chemical romance,11,2022,1I2I4x0SJcK6ccc6qvw76s,Rock - Best of 2022,6,360760,False,0.363,0.67,1,-6.652,0,0.0552,0.000582,0.548,0.317,0.198,150.15,4,emo
+the gambler,kenny rogers,33,2022,5KqldkCunQ2rWxruMEtGh0,The Gambler,75,214880,False,0.671,0.501,4,-13.119,1,0.0594,0.342,0.0,0.194,0.86,87.04,4,country
+the good ones,gabby barrett,23,2022,0TgKHlvgZEfaiALjWqyidx,Cozy Country,0,215140,False,0.519,0.552,2,-5.023,1,0.0259,0.18,0.0,0.149,0.331,89.957,4,country
+the great escape,boys like girls,49,2008,72XWsiLW8q2g8Lv0a010ha,Boys Like Girls,55,206520,False,0.423,0.94,1,-4.012,0,0.0635,0.00166,0.0,0.178,0.505,149.934,4,punk-rock
+the hand that feeds,nine inch nails,33,2005,4L5r9XNiWJ7cbqcIiNvVes,With Teeth (Bonus Tracks),58,211680,False,0.587,0.99,0,-4.496,1,0.0783,0.0172,0.000668,0.104,0.486,127.992,4,industrial
+the hills,the weeknd,16,2021,4g7118rCobKcU4XQXSFlBS,Drippy Drippy,3,242280,True,0.565,0.551,0,-7.007,0,0.0687,0.0845,0.0,0.139,0.125,112.98,4,pop
+the joke,brandi carlile,5,2019,18k8IlS52uxRWObykDUZFG,"By The Way, I Forgive You",60,279373,False,0.236,0.578,7,-5.477,1,0.0404,0.327,0.00015,0.206,0.227,75.367,4,acoustic
+the kind of love we make,luke combs,39,2023,28n8z9IQKyjMPxmvYMBqZa,The Kind of Love We Make,82,224426,False,0.608,0.745,1,-4.13,1,0.0277,0.0226,6.47e-06,0.0942,0.464,102.025,4,country
+the last of the real ones,fall out boy,36,2017,6e13443Ve7RGcAUScTgYtl,MANIA,62,230400,False,0.576,0.872,8,-5.293,1,0.0471,0.00599,0.0,0.188,0.559,115.042,4,emo
+the logical song,supertramp,50,2022,5Z4EgTCCoObfO1WfrvrQ9v,The Very Best Of Supertramp,56,249666,False,0.623,0.666,5,-9.255,0,0.0457,0.562,0.000228,0.148,0.729,120.247,4,piano
+the middle,jimmy eat world,31,2021,7bg7JfJvKgKX1xTn1gGAki,Mirando las nubes,0,166040,False,0.644,0.848,2,-5.385,1,0.0529,0.0358,0.0,0.0676,0.928,162.151,4,alt-rock
+the night king,ramin djawadi,45,2019,1aDklx1GaBqHFowCzz63wU,Game Of Thrones: Season 8 (Music from the HBO Series),59,530532,False,0.182,0.0651,10,-16.341,1,0.0462,0.942,0.886,0.111,0.038,60.812,4,german
+the night we met,lord huron,40,2017,3hRV0jL3vUpRrcy398teAU,Strange Trails,83,208211,False,0.544,0.369,2,-9.514,1,0.038,0.969,0.279,0.639,0.102,87.01,3,folk
+the nights,avicii,42,2022,0ct6r3EGTcMLPtrXHDvVjc,The Days / Nights,86,176658,False,0.527,0.835,6,-5.298,1,0.0433,0.0166,0.0,0.249,0.654,125.983,4,dance
+the one,the chainsmokers,33,2017,0wfbD5rAksdXUzRvMfM3x5,Memories...Do Not Open,59,177573,True,0.76,0.303,2,-11.362,1,0.0284,0.238,8.09e-06,0.294,0.15,99.991,4,edm
+the one that got away,katy perry,40,2012,4uQY80TKE1u4ZQZQKHzVEi,Teenage Dream,76,227333,False,0.691,0.795,1,-4.021,0,0.0355,0.000812,1.02e-06,0.156,0.876,133.971,4,dance
+the only exception,paramore,45,2010,7JIuqL4ZqkpfGKQhYlrirs,Brand New Eyes,74,267653,False,0.452,0.563,4,-6.607,1,0.0272,0.144,0.0,0.143,0.209,137.715,3,emo
+the phoenix,fall out boy,41,2013,7jwDuO7UZvWs77KNj9HbvF,Save Rock And Roll,70,244960,False,0.562,0.964,4,-2.991,0,0.072,0.000539,1.57e-06,0.579,0.41,138.063,4,emo
+the pot,tool,20,2019,1lATXTBJDHwawvT1UfxWu3,"10,000 Days",69,381946,True,0.469,0.79,7,-6.889,1,0.0391,0.000148,0.372,0.282,0.466,107.45,4,alt-rock
+the pretender,foo fighters,40,2008,7x8dCjCr0x6x2lXKujYD34,"Echoes, Silence, Patience & Grace",79,269373,False,0.433,0.959,9,-4.04,1,0.0431,0.000917,0.0,0.028,0.365,172.984,4,alt-rock
+the real slim shady,eminem,28,2022,3yfqSUWxFvZELEM4PmlwIR,The Marshall Mathers LP,87,284200,True,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4,hip-hop
+the reason,hoobastank,38,2021,77loZpT5Y5PRP1S451P9Yz,The Reason (15th Anniversary Deluxe),81,232800,False,0.472,0.671,4,-4.649,1,0.029,0.0129,0.0,0.159,0.0681,82.952,4,alt-rock
+the rumbling,sim,45,2022,6k0X05danQOXSBTVek5DU1,The Rumbling,73,220799,False,0.459,0.878,5,-1.399,0,0.0688,5.62e-05,0.000307,0.371,0.494,144.852,4,j-rock
+the search,nf,19,2019,2OKo7g3KfmCt3kyLvUAL0g,The Search,74,248040,False,0.789,0.786,2,-4.788,1,0.297,0.596,0.0,0.0997,0.39,119.957,4,hip-hop
+the sound,the 1975,32,2016,7h6lpVuSGPW6RNjDXKpYDh,"I like it when you sleep, for you are so beautiful yet so unaware of it",63,248879,False,0.648,0.936,0,-4.745,1,0.0762,0.085,6.93e-06,0.482,0.566,120.708,4,alt-rock
+the sound of silence,disturbed,25,2025,6ZvHLqK1T4EVzWx372MHto,Immortalized,41,248466,False,0.322,0.28,6,-9.367,0,0.0281,0.468,1.1e-06,0.102,0.175,85.794,4,alternative
+the story,sara ramirez,47,2011,3rDfh2uI7DaBUAaBgaUkqH,Sara Ramirez - EP,56,225346,False,0.504,0.41,11,-5.86,1,0.0288,0.0438,0.00123,0.108,0.134,98.022,4,show-tunes
+the triumph of king freak (a crypt of preservation and superstition),rob zombie,44,2020,64D3mSyqF6wwuxkdOeQmbl,The Eternal Struggles of the Howling Man,22,247040,False,0.546,0.919,2,-5.467,1,0.0568,5.31e-05,0.178,0.0833,0.383,99.972,4,industrial
+the writing on the wall,iron maiden,49,2021,20sXcaJkWP0DdzA58Colw3,Senjutsu,61,373898,False,0.402,0.912,2,-5.447,0,0.0442,0.00158,0.000179,0.0923,0.566,90.045,4,hard-rock
+there's nothing holdin' me back,shawn mendes,34,2018,7JJmb5XwzOO8jgpou264Ml,Illuminate (Deluxe),86,199440,False,0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,0.969,121.998,4,dance
+therefore i am,billie eilish,50,2021,0OZYXc58HooMgBNWyp6cuO,pov: it's 2021,2,174321,False,0.889,0.34,11,-7.773,0,0.0697,0.218,0.13,0.055,0.716,94.009,4,electro
+thinkin bout you,frank ocean,43,2012,7DfFc7a6Rwfi3YQMRbDMau,channel ORANGE,78,200746,False,0.721,0.339,0,-11.195,1,0.0532,0.409,0.00153,0.0973,0.2,129.83,4,soul
+this afternoon,nickelback,50,2010,1RG8MABX0VciDk6WYb8pBv,Dark Horse,60,273493,False,0.507,0.875,7,-7.697,1,0.0389,0.00257,0.0,0.346,0.647,160.079,4,grunge
+this is how we do it,montell jordan,31,2021,6aJ90LBl96bly9zuEH1U2X,Best Of Montell Jordan,66,237546,False,0.791,0.702,1,-7.333,1,0.0623,0.0174,0.0,0.423,0.789,103.646,4,j-dance
+this is war,thirty seconds to mars,33,2009,2D52zjCyqEIQa221lhw6uk,This Is War,66,326983,False,0.402,0.723,6,-5.26,1,0.0579,0.0663,2e-06,0.233,0.224,160.047,4,grunge
+this town,niall horan,43,2017,0qvzXomUDJVaUboy2wMfiS,Flicker (Deluxe),80,232852,False,0.677,0.401,9,-8.467,1,0.0308,0.712,0.0,0.116,0.195,111.825,4,dance
+thnks fr th mmrs,fall out boy,46,2007,4rXPkKTkE0oYd9OltdFG9K,Обратно в клас - rock,2,204760,False,0.458,0.897,10,-5.006,0,0.0674,0.005,0.0,0.103,0.602,154.834,4,emo
+thousand miles,the kid laroi,47,2022,1r8ZCjfrQxoy2wVaBUbpwg,Thousand Miles,81,164781,True,0.376,0.657,7,-4.658,1,0.0768,0.0858,0.0,0.0884,0.203,80.565,4,hip-hop
+thriller,michael jackson,5,2024,7azo4rpSUh8nXgtonC6Pkq,Scream,70,358053,False,0.764,0.887,11,-3.726,1,0.0744,0.0816,0.00011,0.847,0.72,118.427,4,soul
+thriller / heads will roll,glee cast,16,2011,6FCngfdkfRZ0CwL2eZAgnc,"Glee: The Music, Volume 5",52,216560,False,0.633,0.822,10,-5.011,0,0.0722,0.00846,0.0,0.141,0.633,122.993,4,club
+through glass,stone sour,50,2007,5NeIONQWJ25uPylJBJiO4c,Come What(ever) May [10th Anniversary Edition],71,282946,False,0.545,0.753,3,-4.618,0,0.036,0.0417,0.0,0.389,0.434,105.754,4,grunge
+through the fire and flames,dragonforce,49,2008,2eB7JqIY4hTTSz31h6bjwR,Inhuman Rampage,67,439120,False,0.153,0.953,0,-4.74,0,0.122,0.00152,0.0062,0.366,0.14,199.892,4,british
+thunder,imagine dragons,32,2021,1zB4vmk8tFRmM9UULNzbLB,Evolve,85,187146,False,0.605,0.822,0,-4.833,1,0.0438,0.00671,0.134,0.147,0.288,167.997,4,rock
+thunderstruck,ac/dc,44,2012,57bgtoPSgt236HzfBOd8kj,The Razors Edge,84,292880,False,0.502,0.89,4,-5.175,1,0.0364,0.000147,0.0117,0.217,0.259,133.52,4,hard-rock
+time in a bottle,jim croce,45,2023,20A2Xe76p9wxUFLbbzZjTM,Photographs & Memories: His Greatest Hits,37,148586,False,0.533,0.155,2,-16.837,1,0.0376,0.888,0.0,0.108,0.592,134.019,3,country
+times like these,foo fighters,28,2021,67vYdAAM3oGsEImCRfbtsF,One By One (Expanded Edition),71,265560,False,0.376,0.908,4,-3.793,0,0.0879,1.4e-05,1.4e-05,0.241,0.266,144.581,4,grunge
+to be loved,adele,12,2021,10ImcQk9tihY1EKMDIbvXJ,30,70,403961,False,0.356,0.176,8,-8.291,1,0.0391,0.843,0.0,0.231,0.289,170.425,1,soul
+to be loved by you,parker mccollum,49,2022,6WuG5vCUiW5c4GTWIb9AI2,Gold Chain Cowboy (Special Edition),43,199680,False,0.475,0.805,10,-4.456,1,0.0377,0.000453,0.0,0.143,0.488,145.976,4,country
+tom sawyer,rush,48,2020,3QZ7uX97s82HFYSmQUAN1D,Moving Pictures (2011 Remaster),73,276880,False,0.536,0.901,9,-7.211,1,0.0374,0.00145,0.0186,0.06,0.666,87.559,4,hard-rock
+tongue tied,grouplove,49,2012,0GO8y8jQk1PkHzS31d699N,Never Trust a Happy Song,79,218013,False,0.56,0.936,3,-5.835,1,0.0439,0.00847,0.0,0.161,0.371,112.96,4,alt-rock
+tonight tonight,hot chelle rae,43,2011,2i0AUcEnsDm3dsqLrFWUCq,Whatever,73,200466,False,0.686,0.783,4,-4.977,1,0.119,0.0764,0.0,0.163,0.814,99.978,4,punk-rock
+too good at goodbyes,sam smith,29,2018,1mXVgsBdtIVeCLJnSnmtdV,The Thrill Of It All (Special Edition),83,201000,False,0.681,0.372,5,-8.237,1,0.0432,0.64,0.0,0.169,0.476,91.873,4,dance
+total eclipse of the heart,bonnie tyler,5,2024,7wuJGgpTNzbUyn26IOY6rj,The Very Best of Bonnie Tyler,77,267360,False,0.431,0.723,8,-5.887,1,0.0568,0.145,0.0,0.374,0.19,130.141,4,disco
+touch it,busta rhymes,47,2006,3HVJbdz0V402U5YggQK4Ao,The Big Bang,60,214960,True,0.658,0.551,1,-6.62,1,0.37,0.0043,0.000108,0.197,0.442,138.335,5,hardcore
+toxic,glee cast,9,2010,5oxioZhKHdASa1PZM65kYT,"Glee: The Music, Volume 4",46,204413,False,0.606,0.74,8,-5.401,1,0.056,0.131,0.0,0.0797,0.485,132.582,4,club
+traitor,olivia rodrigo,47,2021,5CZ40GBx1sQ9agT82CLQCT,SOUR,88,229226,False,0.38,0.339,3,-7.885,1,0.0338,0.691,0.0,0.12,0.0849,100.607,4,pop
+trap queen,fetty wap,44,2016,2d8JP84HNLKhmd6IYOoupQ,Fetty Wap (Deluxe),74,222093,True,0.746,0.873,7,-3.803,1,0.128,0.0244,0.0,0.354,0.817,148.075,4,j-dance
+treat you better,shawn mendes,39,2017,3QGsuHI8jO1Rx4JWLUh9jd,Illuminate,84,187973,False,0.444,0.819,10,-4.078,0,0.341,0.106,0.0,0.107,0.747,82.695,4,dance
+true disaster,tove lo,50,2016,6s7PleW93OfE3YnujL9yxw,Lady Wood,54,204194,True,0.608,0.759,1,-6.096,1,0.0441,0.0528,3.41e-06,0.103,0.336,96.959,4,swedish
+truth about you,mitchell tenpenny,23,2021,4Qum1kECNQrpREev5fvAQ4,Truth About You,66,203036,False,0.492,0.708,10,-4.639,1,0.0334,0.0975,0.0,0.12,0.697,161.989,4,country
+truth hurts,lizzo,41,2020,5djmFvrnR30Tj9Yyj8tOQQ,Give You Love - Cozy Hits,1,173325,True,0.715,0.622,4,-3.046,0,0.111,0.11,0.0,0.123,0.407,158.088,4,hip-hop
+try everything,shakira,33,2016,1N3dZ7TTWO6VcD4Y3hHYLZ,Zootopia (Original Motion Picture Soundtrack),70,196853,False,0.705,0.609,1,-4.897,1,0.0307,0.0257,0.0,0.0846,0.476,115.474,4,latin
+tubthumping,chumbawamba,42,2022,1FEnQEZCbHMtaxRy3o7S3u,Hits Pop Rock 90's,2,278960,False,0.608,0.871,11,-7.496,0,0.0813,0.106,0.0,0.363,0.61,103.78,4,punk
+tunnel vision,kodak black,42,2017,3F9SGJzTCkqIS3d99iz0p7,Hiphopowe nowości,0,268186,True,0.497,0.489,11,-7.724,0,0.294,0.0576,9.91e-05,0.122,0.231,171.853,4,hip-hop
+turning tables,adele,37,2011,2eF2x1BkgilhaZ2AipRY8j,21,68,250000,False,0.353,0.446,0,-6.044,0,0.0285,0.95,1.35e-05,0.132,0.211,155.476,4,british
+typa girl,blackpink,49,2022,3BHR1mJOqn2UZyq98YKPgd,BORN PINK,82,179172,True,0.918,0.585,7,-7.781,1,0.0889,0.0627,0.0,0.624,0.519,131.966,4,k-pop
+ugh!,bts,13,2020,2QZe2H1f03t5PJWEMg2Mbe,MAP OF THE SOUL : 7,69,225012,False,0.72,0.824,10,-5.086,0,0.128,0.0394,0.0,0.0509,0.333,165.996,4,k-pop
+uma thurman,fall out boy,48,2015,1ZntV75KmB90f7MZVLPDzO,Helloween Party,2,211573,False,0.623,0.961,4,-2.616,0,0.0869,0.102,0.000171,0.264,0.668,149.963,4,emo
+unchained melody,the righteous brothers,39,2023,2qhASBzpbFhPRtrnZ5lLnz,Just Once In My Life,75,218013,False,0.339,0.208,0,-16.725,1,0.0308,0.396,0.000519,0.18,0.288,98.54,3,r-n-b
+under and over it,five finger death punch,49,2011,35aYLuIWeFd7iM7rY3x5GB,American Capitalist (Deluxe),57,218133,True,0.468,0.996,11,-3.027,0,0.179,1.41e-05,0.0,0.26,0.094,75.978,4,groove
+under the bridge,red hot chili peppers,40,2023,3d9DChrdc6BOeFsbrZ3Is0,Blood Sugar Sex Magik (Deluxe Edition),82,264306,False,0.559,0.345,4,-13.496,1,0.0459,0.0576,0.000105,0.141,0.458,84.581,4,alt-rock
+under the influence,chris brown,36,2023,5IgjP7X4th6nMNDh4akUHb,Indigo (Extended),96,184613,True,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,4,dance
+undrunk,fletcher,49,2019,7rvWVAM7b9yNkQ5twoxvY2,Herbststimmung,0,183428,True,0.442,0.579,5,-6.484,1,0.145,0.489,1.04e-06,0.126,0.546,83.336,4,electro
+unsainted,slipknot,26,2019,5mpUKTdskZea0gStWzeHUZ,We Are Not Your Kind,74,260773,True,0.427,0.946,7,-2.188,1,0.0469,0.000118,0.0253,0.0604,0.237,101.305,4,alternative
+unsteady,x ambassadors,44,2017,7lGKEWMXVWWTt3X71Bv44I,VHS,74,193546,False,0.389,0.665,0,-6.169,1,0.0644,0.178,0.000732,0.116,0.199,117.055,4,alt-rock
+unstoppable,sia,50,2023,2J2Z1SkXYghSajLibnQHOa,This Is Acting,81,217746,False,0.468,0.779,9,-4.839,1,0.0779,0.112,0.000373,0.101,0.26,173.799,4,dance
+until i found you,stephen sanchez,21,2024,0T5iIrXA4p5GsubkhuBIKV,Until I Found You,90,177720,False,0.539,0.508,10,-6.05,1,0.0288,0.727,0.0,0.174,0.227,101.358,3,pop
+uptown girl,glee cast,42,2011,5iaPhRuBYqeCHbCOpOlvx5,"Glee: The Music, Volume 7",46,180706,False,0.618,0.643,4,-4.086,1,0.0297,0.569,0.0,0.443,0.722,128.992,4,club
+vete,bad bunny,38,2019,5DxXgozhkPLgrbKFY91w0c,Vete,79,192024,True,0.886,0.672,1,-4.394,1,0.188,0.0363,8.78e-06,0.101,0.526,91.976,4,latino
+vicarious,tool,26,2019,65ShmiE5aLBdcIGr7tHX35,"10,000 Days",64,426680,False,0.506,0.877,0,-5.73,1,0.032,5.16e-05,0.776,0.0712,0.302,114.589,5,metal
+victoria’s secret,jax,43,2023,4svaKoxMMP7ImmKrD5hfQu,Victoria’s Secret,82,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+visiting hours,ed sheeran,37,2021,0MbP1Nr6DLXB7HFXD7QVwU,20's Rock,0,215506,False,0.471,0.396,8,-6.654,1,0.0336,0.77,0.0,0.0729,0.263,149.609,4,pop
+voices in my head,falling in reverse,25,2022,5XUuldRjPXcP5QxyEN4IXT,Voices In My Head,73,191414,True,0.546,0.898,2,-3.067,0,0.162,0.0266,0.0,0.129,0.639,173.17,4,metal
+wow,zara larsson,38,2019,3O8b0dDy1Z8BNM81U8DE1j,WOW,60,179675,True,0.748,0.79,6,-4.788,0,0.169,0.492,0.0,0.0901,0.279,77.495,4,edm
+wagon wheel,darius rucker,47,2013,7nzbdPYlaoVjV42rzBWStH,Fishing Music,1,298400,False,0.535,0.661,9,-7.139,1,0.0304,0.46,0.0,0.142,0.596,148.121,4,country
+waiting for superman,daughtry,26,2013,4AU7z13HYmPMetlWbq1mys,Baptized (Deluxe Version),60,266960,False,0.555,0.682,0,-5.711,1,0.0269,0.0029,0.0,0.0662,0.383,105.987,4,grunge
+waiting for the end,linkin park,48,2011,1EWDtcKzwZqflFqdiN3fyv,A Thousand Suns,42,231680,False,0.487,0.961,4,-4.139,1,0.132,0.0415,1.15e-06,0.553,0.323,170.005,4,alternative
+waiting on the world to change,john mayer,50,2007,5imShWWzwqfAJ9gXFpGAQh,Continuum,73,201173,False,0.578,0.756,2,-5.82,1,0.115,0.157,0.000232,0.249,0.663,176.739,4,singer-songwriter
+wake me up when september ends,green day,40,2006,3ZffCQKLFLUvYM59XKLbVm,American Idiot,78,285653,False,0.546,0.814,7,-5.146,1,0.0314,0.023,0.0,0.0972,0.146,104.98,4,punk
+walk on water,thirty seconds to mars,50,2017,6FT9FZccFD6nE8dMNslz2n,AMERICA,64,185466,False,0.495,0.787,8,-6.89,1,0.0368,9.16e-05,0.0,0.167,0.388,140.003,4,grunge
+walk this way,aerosmith,50,2008,5SZ6zX4rOrEQferfFC2MfP,Toys In The Attic,75,220400,False,0.653,0.73,5,-10.613,1,0.043,0.0114,1.03e-05,0.0754,0.894,108.705,4,hard-rock
+walking on a dream,empire of the sun,19,2016,5r5cp9IpziiIsR6b93vcnQ,Walking On A Dream (10th Anniversary Edition),79,198440,False,0.871,0.701,5,-5.594,0,0.0458,0.257,7.52e-06,0.0589,0.716,126.975,4,alt-rock
+want to want me,jason derulo,41,2015,5w7WThQajSkiot89EkoqRa,Running Songs,1,206280,True,0.772,0.643,0,-6.24,0,0.063,0.0102,0.0,0.0705,0.669,114.031,4,dance
+wanted,hunter hayes,46,2013,1Xb5x1ESNwewKHUc7TaZG7,Cozy Country,0,228840,False,0.414,0.475,0,-7.692,1,0.0299,0.268,0.0,0.0816,0.3,169.726,4,country
+wanted,onerepublic,14,2019,6hLkeOMrhZ2CMLBp2of576,Wanted,58,136247,False,0.668,0.534,1,-6.586,1,0.0677,0.164,0.0,0.1,0.711,145.816,4,piano
+wanted dead or alive,bon jovi,50,2007,1Bno2DWL2kmfiy1V5OlmCz,Fishing Music,2,308560,False,0.265,0.818,7,-3.553,1,0.0393,0.0774,0.024,0.323,0.251,150.332,4,metal
+wasted on you,morgan wallen,37,2023,3cBsEDNhFI9E82vPj3kvi3,Dangerous: The Double Album,83,178520,False,0.505,0.657,11,-5.24,0,0.0318,0.373,0.00107,0.126,0.252,196.0,3,country
+water under the bridge,adele,50,2017,2DRMuw0U0QbkVQxWxdJV3M,25,70,240439,False,0.59,0.833,5,-6.503,0,0.0615,0.0142,5.4e-06,0.105,0.538,94.963,4,british
+watermelon sugar,harry styles,46,2021,6UelLqGlWMcVH1E5c4H7lY,Fine Line,89,174000,False,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,4,pop
+way down we go,kaleo,6,2021,0y1QJc3SJVPKJ1OvFmFqe6,A/B,78,213706,False,0.489,0.505,10,-8.022,0,0.117,0.579,0.000333,0.104,0.337,163.255,4,alt-rock
+we are bulletproof : the eternal,bts,25,2024,133ocfbXXG4HTk76qgSeUb,MAP OF THE SOUL : 7,71,261542,False,0.522,0.574,9,-5.225,0,0.0317,0.224,0.0,0.108,0.176,84.044,4,k-pop
+we are young,glee cast,28,2011,1zugfOhn6BebboqGcpUlba,"Glee: The Music, The Graduation Album",50,249773,False,0.378,0.554,7,-6.086,1,0.0497,0.0504,0.0,0.199,0.523,91.977,4,club
+we be burnin',sean paul,48,2006,4kOTDj4SiZPkW1p96WMDNv,The Trinity,61,213066,False,0.95,0.803,1,-4.195,1,0.151,0.145,0.0,0.0748,0.86,117.0,4,dancehall
+welcome to my life,simple plan,49,2005,10rChmECwPcvTTj4w07hq4,Still Not Getting Any,69,206773,False,0.421,0.858,1,-4.535,1,0.0963,0.0134,0.0,0.067,0.491,173.255,4,punk-rock
+welcome to the black parade,my chemical romance,50,2023,5wQnmLuC1W7ATsArWACrgW,The Black Parade,79,311106,False,0.217,0.905,2,-4.103,1,0.0752,0.000289,0.00011,0.222,0.236,96.95,4,emo
+west coast,lana del rey,6,2014,50pfrD2Dne6PZam0YaweZu,Best Alternative Pop Tunes,2,256768,False,0.359,0.611,6,-7.676,0,0.0389,0.206,0.0254,0.0898,0.427,93.05,4,pop
+west coast,onerepublic,36,2022,2hReXQtxmJVC1e68rvpAFY,Arbeitsmusik Herbst/Winter 2022/2023,0,192947,False,0.685,0.699,6,-7.803,0,0.0349,0.317,0.0,0.0895,0.884,134.057,4,piano
+what a wonderful world,louis armstrong,16,2022,1qCQTy0fTXerET4x8VHyr9,What A Wonderful World,73,137520,False,0.399,0.258,5,-16.028,1,0.033,0.792,1.86e-06,0.128,0.192,108.174,3,jazz
+what about now,daughtry,13,2008,35SuLFF1dk9nBgjE2HzTzp,It's Not Over....The Hits So Far,53,251626,False,0.387,0.862,9,-2.219,0,0.0457,0.107,0.0,0.103,0.337,161.984,4,grunge
+what are you waiting for?,nickelback,32,2014,5yUFxEu2kx3WBghRvaHVcn,No Fixed Address,63,218906,False,0.49,0.907,3,-4.129,1,0.0693,0.045,0.0,0.293,0.418,152.023,4,grunge
+what christmas means to me,stevie wonder,40,2020,4T5rPYBa3BglApHnLII02Q,Christmas Songs 2022,0,147800,False,0.524,0.614,0,-8.05,1,0.0363,0.202,0.0,0.0802,0.751,82.229,4,funk
+what hurts the most,rascal flatts,42,2007,4bVuIlGQBMWS7vIhcx8Ae4,Me And My Gang,71,214106,False,0.537,0.674,5,-5.134,0,0.0277,0.0088,0.0,0.265,0.33,136.002,4,country
+what i've done,linkin park,33,2017,4wfyFIRnxdIN0v4OGtXcX3,Minutes to Midnight,58,205613,False,0.623,0.93,5,-5.285,1,0.0324,0.0141,1.64e-06,0.138,0.287,120.119,4,alternative
+what makes you beautiful,one direction,50,2013,4cluDES4hQEUhmXj6TXkSo,Up All Night,84,199986,False,0.726,0.787,4,-2.494,1,0.0737,0.009,0.0,0.0596,0.888,124.99,4,pop
+what's love got to do with it,tina turner,15,2023,0ew5ANHq1cfeLU9Vj15pJ1,80's,0,230240,False,0.855,0.482,1,-8.902,1,0.0576,0.252,2.2e-05,0.151,0.795,97.792,4,disco
+whatever it takes,imagine dragons,46,2019,6Qn5zhYkTa37e91HC1D7lb,Evolve,81,201240,False,0.672,0.655,10,-5.021,0,0.0311,0.0362,0.0,0.117,0.556,134.945,4,rock
+whatever it takes,lifehouse,44,2008,3nzL5CIQiCEt6jRt1AlQ9d,Who We Are,58,207240,False,0.439,0.874,0,-4.165,1,0.0299,0.00571,0.0,0.176,0.527,150.036,4,grunge
+when we stand together,nickelback,50,2011,4bCOAuhvjsxbVBM5MM8oik,Here and Now (Audio Only Version),67,190786,False,0.446,0.9,10,-3.541,0,0.0489,0.000102,1.89e-05,0.0404,0.88,187.961,4,grunge
+when we were young,adele,47,2021,6O5TrlFWTYvznd9fMC0VvU,25,79,290900,False,0.376,0.595,3,-5.936,1,0.0496,0.303,0.0,0.095,0.265,144.361,4,british
+when you were young,the killers,41,2006,34ldTowcv56E2DqtSaYBjP,OO's Music Grandi Successi,5,220413,False,0.441,0.976,8,-3.09,0,0.147,0.000335,0.0475,0.298,0.248,130.411,4,alt-rock
+when you're gone,shawn mendes,43,2022,5HxE0w9l186jzG1TBSCh0F,Autumn Vibes 2022,0,172266,False,0.605,0.713,5,-5.865,1,0.0381,0.0203,0.0,0.548,0.603,147.166,4,dance
+where it ends,bailey zimmerman,16,2024,1ubwDgxIb5ztWAkYxppOCi,Country Car Hits,1,179294,False,0.431,0.837,9,-5.067,1,0.0432,0.259,0.0,0.0879,0.648,170.041,4,country
+where the hood at,dmx,23,2021,6RUpJeXT6U4SPEafnr9Wr7,Grand Champ,71,286266,True,0.537,0.948,8,-3.063,1,0.355,0.151,0.0,0.356,0.792,186.151,4,hardcore
+wherever i go,onerepublic,34,2016,46jLy47W8rkf8rEX04gMKB,Oh My My (Deluxe),70,169773,False,0.552,0.689,10,-6.444,0,0.0425,0.0915,0.0,0.27,0.349,99.961,4,piano
+whiskey and rain,michael ray,30,2022,5ATfVQguM66UV9svXfTJg9,Easy Country,0,206986,False,0.653,0.623,8,-4.56,1,0.0244,0.505,3.61e-06,0.279,0.718,100.021,4,country
+whiskey glasses,morgan wallen,23,2021,6foY66mWZN0pSRjZ408c00,If I Know Me,81,234346,False,0.614,0.68,6,-4.58,1,0.0289,0.369,1.84e-06,0.115,0.707,149.959,4,country
+who says,john mayer,35,2009,0HLWvLKQWpFdPhgk6ym58n,Battle Studies,64,175480,False,0.584,0.509,2,-13.109,1,0.0287,0.267,0.00252,0.36,0.367,90.457,4,singer-songwriter
+who says,selena gomez & the scene,48,2011,3TcL0dyCMyr0kyTTc4NLgI,When The Sun Goes Down,77,195613,False,0.682,0.927,4,-2.915,1,0.0479,0.0843,0.0,0.149,0.744,101.019,4,dance
+why can't this be love,van halen,43,2020,0TaT50ZZxT4ytZxuqkE3A9,5150,66,227693,False,0.531,0.626,0,-13.371,1,0.0452,0.0606,0.0,0.0767,0.746,88.236,4,hard-rock
+wild child,the black keys,36,2022,02bJ6uGeHKfNOhIc9qyA8e,Dropout Boogie,69,164866,False,0.68,0.639,5,-6.233,0,0.0278,0.017,5.09e-06,0.0398,0.957,106.991,4,alt-rock
+wild life,onerepublic,49,2020,6oaQuXiRKqQq9ITJBV1XmC,Wild Life,59,267117,False,0.498,0.764,2,-8.096,1,0.0382,0.0118,0.0104,0.156,0.0557,115.975,4,piano
+wildest dreams,taylor swift,45,2016,3fVnlF4pGqWI9flVENcT28,1989,80,220440,False,0.553,0.664,8,-7.417,1,0.0741,0.0709,0.0056,0.106,0.467,140.06,4,pop
+willow,taylor swift,42,2021,3AYtDDIbG4DQxnEFELeFag,Autumn Vibes 2022,0,214706,False,0.392,0.579,7,-9.195,1,0.164,0.835,0.00179,0.145,0.549,80.961,4,pop
+with arms wide open,creed,19,2023,2cJDsHTLgDQvf5G73RCNX5,Father's Day 2020,56,278440,False,0.415,0.533,0,-8.445,1,0.0308,0.0037,0.000732,0.176,0.126,138.929,4,grunge
+without me,eminem,41,2022,7lQ8MOhq6IN2w8EYcFNSUk,The Eminem Show,88,290320,True,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4,hip-hop
+without me,halsey,45,2019,5p7ujcrUXASCNwRaWNHR1C,Without Me,78,201660,True,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,4,dance
+without you,glee cast,12,2012,7GeYvtNRnQc8WmHZXz2set,"Glee: The Music, The Complete Season Three",46,210586,False,0.467,0.749,7,-6.086,1,0.0525,0.149,7.44e-06,0.0865,0.0975,127.887,4,club
+wonderful tonight,eric clapton,39,2022,6zC0mpGYwbNTpk9SKwh08f,Slowhand 35th Anniversary (Super Deluxe),76,225026,False,0.572,0.214,7,-15.625,1,0.0293,0.649,0.129,0.125,0.485,95.542,4,blues
+wouldn't it be nice,the beach boys,11,2025,6VojZJpMyuKClbwyilWlQj,Greatest Hits,59,153866,False,0.385,0.657,5,-6.975,1,0.0342,0.724,0.0,0.105,0.672,124.895,4,psych-rock
+wrecked,imagine dragons,38,2021,7KajXhT7csT80wZXs2skAp,pov: it's 2021,2,244004,False,0.625,0.562,0,-5.828,0,0.0289,0.149,1.67e-05,0.109,0.229,93.998,4,rock
+x gon' give it to ya,dmx,7,2021,1zzxoZVylsna2BQB65Ppcb,The Definition Of X: Pick Of The Litter,74,217586,True,0.761,0.899,10,-3.09,0,0.183,0.0135,0.0,0.0719,0.673,95.027,4,hardcore
+xo,john mayer,33,2014,7cpCU3Denug5NGZsSpQl8v,XO,70,213626,False,0.431,0.377,2,-9.753,1,0.0288,0.749,0.0,0.211,0.353,173.67,4,singer-songwriter
+yaya,6ix9ine,25,2020,6EfBMJQwe2xLgldra6DaYp,YAYA,57,149857,True,0.672,0.733,11,-5.377,1,0.0566,0.00289,0.0,0.199,0.354,105.043,4,emo
+yellow,coldplay,32,2022,2ubrTNQou3onHm2WNHcCyT,Hits Hits Hits,3,266773,False,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4,pop
+yet to come,bts,15,2022,10SRMwb9EuVS1K9rYsBfHQ,Proof,85,193593,False,0.559,0.885,1,-4.515,1,0.189,0.0432,0.0,0.333,0.683,172.029,4,k-pop
+yonaguni,bad bunny,18,2021,2JPLbjOn0wPCngEot2STUS,Yonaguni,87,206710,True,0.644,0.648,1,-4.601,1,0.118,0.276,0.0,0.135,0.44,179.951,4,latino
+you,louyah,25,2022,0WSDEpEZZDffYfmK8Ssuxc,6FEET,63,233196,False,0.808,0.266,11,-9.56,1,0.0326,0.818,1.1e-05,0.0907,0.666,100.034,4,sad
+you and me,lifehouse,47,2006,2eXoWAL6kC9sdlpdOGvSCw,OO's Music Grandi Successi,1,195493,False,0.459,0.427,7,-7.733,1,0.0267,0.112,0.0,0.168,0.357,139.898,3,alt-rock
+you are not alone,michael jackson,17,2009,3AoeaZs8dFemFJr3JdzOL0,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",67,345600,False,0.651,0.402,11,-9.303,1,0.028,0.639,7.73e-05,0.0765,0.258,119.873,4,soul
+you found me,the fray,50,2009,4IoYz8XqqdowINzfRrFnhi,The Fray,74,241853,False,0.338,0.803,8,-5.412,0,0.0413,0.0187,0.0,0.136,0.4,151.994,4,piano
+you give love a bad name,bon jovi,29,2007,3YKMXuivrbHooUtf8jfEgS,Kick It,1,223146,False,0.532,0.964,0,-2.559,0,0.0519,0.0477,0.0,0.359,0.804,122.778,4,metal
+you make me feel (mighty real),sylvester,49,2023,7DO2Jjx3HOUUuTQPVhzWTS,Disco Boogie Mood,1,400115,False,0.629,0.851,5,-11.182,0,0.0294,0.0309,0.303,0.0947,0.961,130.7,4,disco
+you oughta know,alanis morissette,34,2023,0hVHUbZZNeRWw6a2gT1SvE,Timeless Rock Hits,1,249760,True,0.641,0.861,4,-6.9,1,0.0697,0.227,0.0,0.868,0.473,105.32,4,singer-songwriter
+you proof,morgan wallen,25,2023,5uU1uuyaUIBOiiUSQG7Wl3,You Proof,86,157477,False,0.731,0.85,9,-4.913,1,0.0336,0.252,0.0,0.605,0.644,119.706,4,country
+you say,lauren daigle,18,2023,6Up545NUflOiXo8cEraH49,Look Up Child,75,274693,False,0.494,0.632,5,-6.89,1,0.0342,0.682,0.0,0.0869,0.0797,147.873,4,alt-rock
+you shook me all night long,ac/dc,23,2012,2SiXAy7TuUkycRVbbWDEpo,Back In Black,81,210173,False,0.532,0.767,7,-5.509,1,0.0574,0.00287,0.000513,0.39,0.755,127.361,4,hard-rock
+you should be here,cole swindell,44,2016,2y6u1FsY2HSuSsn0cemmqu,Single Saturday Night - Country Songs,0,190173,False,0.491,0.641,7,-4.456,1,0.0282,0.0592,0.0,0.0857,0.299,136.1,4,country
+you should be sad,halsey,42,2020,7lidXGPXPYLNThITAOTlkK,Manic,73,205473,True,0.591,0.585,2,-6.35,1,0.0277,0.143,0.0,0.109,0.324,110.94,4,electro
+you should see me in a crown,billie eilish,48,2019,5mvAPEp2FA2myWJAE1FYt3,Halloween Party 2022,0,180566,False,0.683,0.534,4,-10.348,1,0.189,0.519,0.247,0.148,0.284,150.469,4,electro
+you're beautiful,james blunt,43,2007,0vg4WnUWvze6pBOJDTq99k,Back to Bedlam,76,209493,True,0.675,0.479,0,-9.87,0,0.0278,0.633,1.76e-05,0.088,0.454,81.998,4,rock
+you're gonna live forever in me,john mayer,47,2017,51lPx6ZCSalL2kvSrDUyJc,The Search for Everything,74,190013,False,0.542,0.131,7,-14.104,1,0.0316,0.983,0.00544,0.156,0.319,136.161,4,singer-songwriter
+youngblood,5 seconds of summer,46,2019,2iUXsYOEPhVqEBwsqP70rE,Youngblood (Deluxe),81,203417,False,0.596,0.854,7,-5.114,0,0.463,0.0169,0.0,0.124,0.152,120.274,4,dance
+your eyes tell,bts,12,2020,3TZ7NHkMT82AhwuYsd00Hz,MAP OF THE SOUL : 7 ~ THE JOURNEY ~,68,245146,False,0.449,0.491,9,-6.433,0,0.029,0.279,0.0,0.0654,0.258,139.923,4,k-pop
+your man,josh turner,42,2022,1WzAeadSKJhqykZFbJNmQv,Your Man,73,211893,False,0.744,0.637,6,-4.483,1,0.0241,0.337,0.000222,0.0696,0.785,100.511,4,country
+your power,billie eilish,48,2021,042Sl6Mn83JHyLEqdK7uI0,Happier Than Ever,77,245896,False,0.632,0.284,9,-14.025,0,0.0801,0.932,0.000476,0.233,0.208,129.642,4,electro
+yours,jin,2,2021,66sBTYlkaiyBwf4fhbIHlZ,Jirisan (Original Television Soundtrack) Pt. 4,75,264840,False,0.488,0.427,6,-7.383,1,0.0382,0.354,0.0,0.0797,0.157,72.035,4,k-pop
+yours,russell dickerson,47,2017,3I4WFddKpe2PGZWFh7f10J,Yours,67,216960,False,0.554,0.722,11,-6.005,1,0.034,0.119,0.0,0.0861,0.558,134.058,4,country
+youth,troye sivan,45,2016,0nhBKubnVz9yFNNprBniWz,Blue Neighbourhood (Deluxe),72,185194,False,0.628,0.737,7,-4.437,1,0.041,0.0625,0.0,0.0777,0.592,91.507,4,dance
+yummy,justin bieber,42,2020,7eLvCsLfaeSHeezjOwJ96E,pov: it's 2020,0,208520,False,0.677,0.506,9,-6.652,0,0.0964,0.345,0.0,0.118,0.497,145.843,4,pop
+zombie,bad wolves,41,2018,1vNoA9F5ASnlBISFekDmg3,Zombie,69,254805,False,0.448,0.826,2,-3.244,0,0.0319,0.00756,0.0,0.117,0.19,77.093,4,alternative
+zombie,the cranberries,40,2022,5QuGjFrnKqRnyOVIanRAgP,Fiesta temática 90s,0,307440,False,0.252,0.738,7,-5.326,1,0.0446,0.0145,0.000497,0.375,0.256,165.187,4,rock
+zombified,falling in reverse,35,2022,2ib8fuTavdc48X6MjhE4Ft,ZOMBIFIED,71,218520,True,0.544,0.911,10,-3.681,0,0.0422,0.000141,8.89e-06,0.333,0.558,91.033,4,metal
+abcdefu,gayle,37,2022,4fouWK6XVHhzl78KzQ1UjL,abcdefu,86,168601,True,0.695,0.54,4,-5.692,1,0.0493,0.299,0.0,0.367,0.415,121.932,4,alternative
+crushcrushcrush,paramore,50,2008,4m9NfjevXsDVaLtM1kj0Sx,Riot!,65,189373,False,0.631,0.793,1,-4.086,0,0.0468,0.000218,5.65e-05,0.0976,0.648,136.96,4,emo
+idontwannabeyouanymore,billie eilish,45,2019,41zXlQxzTi6cGAjpOXyLYH,dont smile at me,81,203569,False,0.483,0.412,7,-8.461,1,0.0402,0.737,0.0,0.116,0.247,170.163,3,electro
+joy.,for king & country,26,2018,0vBjd0I8iefycEZ2ex1Zpi,Burn The Ships,58,233946,False,0.68,0.536,5,-6.669,0,0.0582,0.0102,0.00105,0.113,0.417,119.958,4,world-music
