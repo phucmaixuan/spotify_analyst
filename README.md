@@ -424,26 +424,38 @@ XGBClassifier(
 ## 📊 Dashboard
 
 ### Power BI Features
+<img width="653" height="602" alt="image" src="https://github.com/user-attachments/assets/cb2bc3a6-2bed-41b9-baab-a14a40f6805e" />
+
 
 #### 1. Overview Page
 - Tổng quan số liệu (Total Songs, Avg Popularity, Top Genres)
 - Trend line: Số bài hát qua các năm
 - Top 10 nghệ sĩ phổ biến nhất
+<img width="1051" height="601" alt="image" src="https://github.com/user-attachments/assets/c1072b62-44f1-4d8a-a30b-2d8bdb9ded1d" />
 
 #### 2. Genre Analysis
 - Phân bố thể loại theo giai đoạn
 - Biểu đồ Sunburst: Thể loại → Nghệ sĩ → Bài hát
 - Matrix: Tương quan giữa thể loại và đặc trưng âm nhạc
 
+<img width="1033" height="591" alt="image" src="https://github.com/user-attachments/assets/1ccc65c5-5566-4315-b960-094430287731" />
+
+
+
 #### 3. Audio Features
 - Radar chart: So sánh đặc trưng âm nhạc
 - Heatmap: Ma trận tương quan
 - Box plot: Phân phối theo thể loại
 
+<img width="1041" height="585" alt="image" src="https://github.com/user-attachments/assets/8f701e43-f6d4-4f18-9868-44696a5ff784" />
+
 #### 4. Trend Prediction
 - Kết quả từ ML model
 - Confusion matrix
 - Feature importance
+
+<img width="1048" height="594" alt="image" src="https://github.com/user-attachments/assets/0f4f932a-615b-476a-b2ee-74bdd96fea27" />
+
 
 ### Interactive Filters
 - **Thời gian**: Năm, giai đoạn
